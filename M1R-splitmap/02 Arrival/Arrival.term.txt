@@ -1,0 +1,183 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1000
+Airlock 34-a Terminal Access <Port 19.1.2.128>
+#PICT 1000
+<Message to All Marathon Terminals>
+
+$BMarathon Emergency Systems Broadcast$b
+
+Today at 0820 hours, the Marathon came under surprise attack from unknown hostile forces.  The Marathon has sustained serious damage.  
+
+At 0830 hours, alien forces boarded the Marathon.  The current situation is dire.  All personnel are required to arm themselves and fight for their lives.
+<Posted 2794.7.3.14.08.39>
+#LOGOFF 1000
+Airlock 34-a Terminal Access <Port 19.1.2.128>
+#LOGON 8702
+Airlock 34-a Terminal Access <Port 19.1.2.128>
+#PICT 1700
+
+***INCOMING MESSAGE FROM LEELA***
+
+Welcome to the Marathon.  I am Leela, one of the two surviving Artificial Intelligences aboard the Marathon.  I have been severely damaged, and am working to understand the current situation.
+
+Find the teleport terminal located in the Hangar’s control room.  By that time, I should have a better idea of what is going on.
+#PICT 1001
+This is where you are now.  From here you can explore the rest of the Hangar area, although not all of the doors on the level are functioning.
+#PICT 1002
+There is a pattern buffer at this location.
+#PICT 1003
+There is a jump pad at this location.  Activate the terminal to leave the Hangar area.
+
+***END MESSAGE***
+#LOGOFF 8702
+Airlock 34-a Terminal Access <Port 19.1.2.128>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 5917
+Hangar Area-5 Engineering Access 50-h<291.7.577.456>
+#PICT 1046
+
+<$BUnauthorized access$b-alarm 2521->
+<Security Breached 50-h<291.7.577.456>->
+
+$U*$u0001010$B4A80$b600A2F0C4EBA182E4A80584F2E00BC87
+*6700FF46202EFE43AEFE4A2F0C2F074EBA1DC672FFB
+*280504F6700079d4202EFE4E6000079E70012D40FE5
+*2722AB2866610202EFE5253AEFE52101B4880
+
+^^Fire $Ua$und @3DC39 aspects of the theory are as follows: each society has some controlling force or forces which decide its direction, but the relationships in society are arbitrary- humanity can relate to money, machines, neighbors, anything really; $I%6582@1$i
+
+$I<logical reset @67FC229>$i
+#PICT 1046
+
+$I<logical reset @67FC229>$i
+
+individual character and personality are preserved in stories, movies, Rom-personalities, etc; although individual expression is a universal ability, individual freedom is constrained by the society.(see attached figure)^^
+
+*584F2E00206DFDCA7008C0307800$B66C$b6202EFE
+*4A53AEFE4A2F0C2F074EBA1E2A72FFB280504F
+*6690600007F67025B086660E101B488048C02C
+$I<logical reset @67FC231>$i
+
+<$BSpurious Interrupt$b- $IBreach Disabled$i>
+<$BFurther Access Denied$b>
+
+<$BBreach Location Undetermined$b>
+#LOGOFF 5917
+Hangar Area-5 Engineering Access 50-h<291.7.577.456>
+#END
+#FINISHED
+#LOGON 5918
+Hangar Area-5 Engineering Access 50-h<291.7.577.456>
+#PICT 1046
+<$BUnauthorized access$b-alarm 2521->
+<Security Breached 50-h<291.7.577.456>->
+
+$U*$u0001010$B4A80$b600A2F0C4EBA182E4A80584F2E00BC87
+*6700FF46202EFE43AEFE4A2F0C2F074EBA1DC672FFB
+*280504F6700079d4202EFE4E6000079E70012D40FE5
+*2722AB2866610202EFE5253AEFE52101B4880
+
+^^Fire and Brimstone $BSeven$b Riders of the Apocalypse Labyrinth or Dreams of Armageddon Irregular Removal of Tissue Happenstance Conflagrate Condign Binnacle of Spiritual Blistering^^
+
+*584F2E00206DFDCA7008C0307800$B66C$b6202EFE
+*4A53AEFE4A2F0C2F074EBA1E2A72FFB280504F
+*6690600007F67025B086660E101B488048C02C
+
+<$BSpurious Interrupt$b- $IBreach Disabled$i>
+<$BFurther Access Denied$b>
+<$BBreach Location Undetermined$b>
+#LOGOFF 5918
+Hangar Area-5 Engineering Access 50-h<291.7.577.456>
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 5917
+Hangar Area-5 Engineering Access 49-h<294.2.577.456>
+#PICT 1700
+
+<$BUnauthorized access$b-alarm 2521->
+<Security Breached 49-h<294.2.577.456>->
+
+18RF
+(kgf42# f#h %34(*,96693 349973@) f$Uk$ueoocp)
+
+$U*$u00011010111$B011101$b1100011110111010111
+*011010101110011$I000011101001$i010010010
+*010010000101001011111001000101011110
+*100101010101000001001000101110
+
+00$B0$b00378003E000007FE0032000011AE000800
+01$BAF$b42000006726F636B65742$B1$b000000000000
+00000672$B6$bF636B6574210000000000000000
+
+<$BSpurious Interrupt$b- $IBreach Disabled$i>
+<$BFurther Access Denied$b>
+#PICT 1004
+
+$B<Alert>  $b
+Security Breach at <294.2.577.456>
+
+#LOGOFF 5917
+Hangar Area-5 Engineering Access 49-h<294.2.577.456>
+#END
+#FINISHED
+#LOGON 5918
+Hangar Area-5 Engineering Access 49-h<294.2.577.456>
+#PICT 1701
+
+<$BUnauthorized access$b-alarm 2521->
+<Security Breached 49-h<294.2.577.456>->
+
+18RF
+(kgf42# f#h %34(*,96693 349973@) f$Uk$ueoocp)
+
+$U*$u00011010111$B011101$b1100011110111010111
+*011010101110011$I000011101001$i010010010
+*010010000101001011111001000101011110
+*100101010101000001001000101110
+
+00$B0$b00378003E000007FE0032000011AE000800
+01$BAF$b42000006726F636B65742$B1$b000000000000
+00000672$B6$bF636B6574210000000000000000
+
+<$BSpurious Interrupt$b- $IBreach Disabled$i>
+<$BFurther Access Denied$b>
+#PICT 1004
+
+$B<Alert>  $b
+Security Breach at <294.2.577.456>
+
+#LOGOFF 5918
+Hangar Area-5 Engineering Access 49-h<294.2.577.456>
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 8702
+Hangar Area 5 Teleporter Pad Terminal<93.53.211.53>
+#INFORMATION
+
+***INCOMING MESSAGE FROM LEELA***
+
+All of the information that I have gathered so far indicates that the Alien invasion of the Marathon has been relatively uncoordinated.  I suspect that this is partially due to the Marathon’s large size. 
+
+However disorderly the Alien invasion is, their assault of the Computer Net has been extremely effective.  I detect security breaches in almost every computer system onboard the Marathon; I have learned that there is an Alien creature that is capable of interfacing with our systems.
+
+You must kill any of these creatures that you find.  It is a priority that we stop them.  Even now, they are penetrating my defenses. 
+
+Teleport now.
+
+***End Message***
+
+$B***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+#LOGOFF 8702
+Hangar Area 5 Teleporter Pad Terminal<93.53.211.53>
+#INTERLEVEL TELEPORT 3
+#ENDTERMINAL 3

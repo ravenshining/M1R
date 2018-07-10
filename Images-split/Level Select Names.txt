@@ -1,0 +1,7 @@
+1000 Startup1
+1001 Startup2
+1100 Interface Off
+1101 Interface On
+1400 Bungie Credits
+1401 Redux Credits
+1402 M1A1 credits

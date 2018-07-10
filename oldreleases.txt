@@ -1,0 +1,83 @@
+Pre-release 0.0.10-alpha d7b1864 June 25
+  •New title music by HamsterAlliance
+  •All of Tacticus's 3D models have been rendered into 8-way HD sprites due to an A1 depth-testing bug that causes sprites to clip when A1 is running in shader mode and a 3D model is loaded. With these new sprites, I now recommend playing in shader mode with the 3D models plugin turned off, but the models are still included for those who like them more than non-clipping sprites. The depth-testing bug is way beyond my capability to fix, so if you're a programmer interested in tackling this issue head on over to https://github.com/Aleph-One-Marathon/alephone
+  •Physics are 99% complete- all monsters have functional definitions and supporting sequences, but there are still some bugs - especially, humans need to be set to non-alien and rebalanced to work with rescue missions
+  •Levels now play in canonical sequence, no skipping around like in 0.0.9a, but the blue term will still take you straight to Bigger Guns Nearby since that's so much more polished than everything else.
+  •Converted & added Blaspheme Quarantine & Bob-B-Q
+  •Miscellaneous improvements to Bigger Guns, Never Burn Money, Defend THIS!, The Rose
+  •All included terminals have appropriate AI attribution (LEELA_870229, TYCHO_005917, & DURANDAL_1707 instead of all U.E.S.C. Marathon all the time)
+  •Animated the fan texture
+  •More MIDA secret door textures
+  •Transparent textures from Marathon Zero
+  •Pulled in the remaining HD versions of Tim Vogel's UESC Marathon textures
+  •Rerendered 1st title screen
+  •Lots of cleanup & organisation that will only matter to you if you wish to join in developing this scenario.
+
+Pre-release 0.0.9-alpha 0afbebf May 18
+  •Getting ready for beta! As such, far more work has been done on the assets than on level design, although I did some work on Arrival. 12 levels included & converted to Redux format - prologue through G4. Since they are lacking in polish, the opening "level" offers two terminals, one to take you straight to the more finished areas and another to take you through the rest)
+  •All monsters should be good except the human soldiers, who have sequences but still need offsets in their low-level shapes, and the Hound, which someone else is working on. All human scenery that have 3D models have been given 8-way sprites as a fallback due to an Aleph One bug.
+  •Title screen backgrounds created from Marathon box art.
+  •Two new chapter screens mocked up.
+  •Two more MIDA textures.
+  •Tycho term logon on Defend THIS!
+  •Symbolic Interactionism terminal art.
+  •SMG now fires 6 grenades for balance.
+  •Alien rifle renamed alien SMG.
+  •Invisible oxygen ticks added to Arrival hangar and Cool Fusion vacuum chamber.
+  •Tacticus rendered an Alien weapon detonation effect, major fusion bolt sprite, and major fusion bold detonation effect.
+  •Glowmap added to the firey wall textures.
+  •Term art tweaks.
+  •Removed the annoying slidey switch animation.
+  
+Pre-release 0.0.8-alpha 798156b Apr 28
+  •Grenade climbing now works! Thanks, Treelama! Nerfed staff recoil slightly now that it's no longer necessary. Haven't implemented magazine-replenish-on-weapon-pickup yet, will probably go the Lua route for that because:
+  •Difficulty level shift tentatively complete. Adjusted physics & maps so "normal" monsters & shots act like TC, and I added in enemies enough so "kindergarten" has as many enemies as "normal" did - hopefully the extra monsters will balance out the lack of Majors on TC. Renamed difficulties to Normal, Major Damage, Total Carnage, Complete Annihilation, and Insane.
+  •Intravening levels added
+  •Other physics changes as discussed on Pfhorums. Glade files updated to match new default monster slots.
+  •Gave monsters self-illuminating colours. In particular, check out the S'pht in the dark, it's rad, as is the Hunter firing. Juggs and MADDs have some accent, and the Pfhor crystals glow as they do in M2/inf.
+  •Juggernaut movement animations fixed, new firing frames added to the profile and 3/4 away firing animation, which only had one frame in the original. Looked really bad when it was firing at someone else, not anymore!
+  •Imported Chris Lund's enhanced looker, wasp, and drinnol sprites; and upgraded the fighter to M2 detail while keeping M1 eyes
+  •Made heavy weapon human bitmaps & added M2 drones: Sequences present,
+  TODO frames
+  •Marine collection complete. Shapesfile should be ready for XBRing should Flippant Sol feel so inclined
+  •Rearranged sounds a bit to make civillians more talkative but still cowardly, and security bolder. M1ified extra Pfhor sounds, added breathing sounds, & re-did a number of sounds in 16-bit as menioned earlier. Player no longer screams on death
+  •Moved exploding fighter into decompression closet and added wind
+  •Work on Cool Fusion
+  •Other things I can't remember certainly
+
+Pre-release 0.0.7-alpha 4ca239f Mar 18
+  •Fixed HD weapons
+  •Fixed 3D scenery
+  •Restored missing sewage textures
+  •Merged map now has Radix's terminal art
+  •updated credits
+  •updated help wanted - a non-programming solution has been found to grenade climbing. now I just need a physics hex schematic and GJing will be good to go.
+  
+Pre-release   0.0.6-alpha Mar 4
+  -now on GitHub
+  -attempted to reduce G4 crashes by swapping craig's swirls for the original landing.
+  -To-do list now included
+  -contributors listed in readme
+  -more boilerplate
+  G4:
+  -fleshed out 2/4 control rooms
+  -moved two pages of new terminal to a control room
+  -made some ammo teleporting
+  BGN:
+  -recharge station and pattern buffer no longer work after tripping breaker
+  -both doors to office work at start for better coop, jam later instead
+  -telescoping platform
+  -improvements to terminal text
+  -put corpse by AR
+  -secret balancing
+  -atmospheric additions
+  Shapes:
+  -fixed pistol reload sound
+  -fixed fist throw
+  -added trooper vacuum sounds
+  -fixed a few scenery items
+  Physics:
+  -fixed trooper casings
+  -slightly less ammo for shock staff melee
+  Images:
+  -added credits to Philtron, Nathan92, Radix

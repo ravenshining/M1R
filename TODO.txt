@@ -1,0 +1,168 @@
+Lua:		Floating HUD, controllable infravision?, level titles, ammo pickup.
+		Rocket launcher ammo sprite?
+MML:
+Shapes:		
+Sounds:
+Physics:
+Music:		
+Images:		Redraw title console
+Textures:	Bump maps
+Other:		Get the A1 dev team to accept my rescue mission fix PR
+		...or get someone to write a Lua rescue mission script
+		Complile myself a stable A1 to test against
+3-D:		Make railing, scenery, furniture
+		Get someone to fix the depth-test bug
+
+Prolouge - Redraw and add sound
+	I.  New Thermopylae - Create!
+		See Wrkncacnter's advice about the Marathon appearing in the sky.
+		IMG story- going to Marathon to examine Jjaro artifact.
+Mirata - Redraw and add sound
+	II. Flashback - reconstruct
+Arrival - Add moon background, New sound
+	0.  Arrival
+		Port in Ne Cede Malis extras as secrets.
+		graffiti.
+		Hangar control room should have controls.
+		Furniture in observation deck
+		Fans in maintenance tunnels.
+		One flickering terminal w/compiler.
+		Secret passageways in the maze.
+		Kill all compilers victory condition?
+	1.  Bigger Guns Nearby - Texture alignment & lighting.
+	2.  Never Burn Money
+		Add second elevator for coop.
+		Make elevator more obvious
+		Add windows to industrial areas.
+		Have switch for recharge station?
+		Storage in storage areas.
+		MIDA term in deprivation chomber?
+Counterattack - make new sound
+	3.  Defend THIS!
+		Tweak corridors for better monster pathfinding.
+		Scenery monsters in the compactor, add control room, make garbage chute.
+		Add more corridors to access past areas.
+		Move terms / buffers for better exposition.
+	4.  Couch Fishing
+		Require switches to be sequential
+		add failure condition.
+		Enter underwater, fight up a stairway.
+		Start in new vat with pattern buffer.
+		"what about bob" music.
+		FINISHED conditon term.
+	5.  The Rose
+		Better OR more hurried terminal directions.
+		Throw light from light tunnel.
+	6.  SLN,TLC!
+		Add a second timing puzzle to leave death trap.
+		Add second recharge in east wing.
+		Add doors to space
+		implicaiton of arriving Pfhor
+		time limit for objective.
+		Pathways reference term
+At Some Point here or earlier: Term explaining Elevators and Platforms!
+	7.  Cool Fusion
+		Airlocks.
+		Charge corridors need elaboration.
+		Guardrails.
+		Reconsider switch locations?
+		Elaborate control room.
+		Leela should mention where exit terminal is.
+		Info on Tycho being unreachable but in contact with Durandal
+	8.  G4 Sunbathing - In progress.
+		Elaborate hallways.
+		Add bulkheads.
+		Finish control stations.
+		Add red herrings.
+		Solve the texture alignment nightmare.
+		A wrecked shuttle perhaps?
+		"Pfhor troops are on the colony"
+	9.  BlasphemeQuarantine
+		Button for slow door.
+		Check monster paths.
+Reprisal
+	10. Bob-B-Q
+		Make sure 2 players can fit through the final corridors.
+		Make sure it's winnable as rescue/extermination.
+		Throw in some MADDs as originally intended.
+		Possible new room with climactic BoB encounter.
+		Monster / co-op pathing.
+		Intro term - situation worse than when Leela intented to bring you here, falling to compilers
+		Exit term - Tycho is online, reports reactor malfunction aft
+	11. Shake Before Using…
+		Somebody set us up the bomb
+		air vent.
+		second airlock on trap, add water.
+		moar secrets.
+Durandal - make new sound
+	12. Fire!!!!!
+		good place for lava secrets, MIDA
+		second lava texture for solid lava
+	13. CS4S,C
+		Remove the cheap way out. Instead, add interconnecting hallways, improve the view, and put a texture that better indicates platform height (maybe even make the platforms telescoping!)
+		Colonist cryogenic storage.
+		Text term on Marathon's armaments, MADDs
+		Secret term - by Tycho?  Durandal in symbiotic relationship with compilers, stabilising rampancy
+		Lookers coming out of vents/stasis pods
+Tycho - Create!
+	14. Habe Quiddam
+		Provide alternate exit
+		Tycho provided the alien interfacer!?
+		Success branch places you in his control, not Durandal's.
+		"Humanity is corrupt and no better than the Pfhor, really. Slavers, all."
+		Teleport enemies into areas on second pass
+	15. ECC - Create!
+	16. PTICN - Create!
+	17. RSC - Create!
+		use Radix's term in the spoilers thread
+	18. IJR - Create! 
+	19. NeitherHighnorLow
+		Uplink chip puzzle for teleporter mod?  Or Tycho/Durandal choice?
+		"I sent a probe (or MADD) over, but didn't learn much before it was destroyed.  You have more durability..."
+		"Violence is restructuring by another name - reordering of chaotic values."
+The Pfhor - make new sound maybe?
+	20. PfhorYourEyesOnly…
+		add terminals
+		add secret M2 architecture
+		add drones!
+	21. NoArtificialColors
+		Strauss terminal?
+		MIDA plot?
+		Log terms - computers, cyborgs, coups
+		Cyborgs on colony mentioned
+		Secret ledge
+		Secret buffer
+		Rescue mission?
+		Retouch dark hallway?  Flickerling light?
+	22. Unpfhorgiven
+		add terminals
+		make sure corridors work for coop
+	23. TwoTimesTwoEquals…
+		add terminals
+	24. BoL-FgDDs…
+	25. Eupfhoria
+		add terminals
+		make sure corridors work for coop
+		Juggernaut!
+	26. Pfhoraphobia
+		add terminals, make sure corridors work for coop
+		Juggernaut
+		drones
+	27. A'tGT4T…
+		add terminals
+		make sure corridors work for coop
+Rebellion
+	28. Welcome2tRevolution…
+		Fix monster paths
+		MADDs & "badass fighters"
+	29. What's best in life - Create!
+	30. STC - Create!
+	31. Watch for Ice on Bridge - Create!
+	32. Try again
+		Vacuum?
+	33. Ingue Ferroque - 
+	33a A Good Way to Die - 
+	33b A Bad Way to Die
+Epilouge - the Marine helping the Bob
+	34. Cold storage? - Create?
+The Final Screen - totally needs redraw

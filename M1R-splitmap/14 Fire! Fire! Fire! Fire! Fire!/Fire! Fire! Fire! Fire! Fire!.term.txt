@@ -1,0 +1,74 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1707
+Science Terminal 23-e<32.55.82.967>
+#INFORMATION
+<32.55.82.967> 
+
+<Transfer Message Delayed>
+
+<Transfer Message Delayed>
+
+<Transfer Message Terminated>
+
+“Count Roland smites upon the marble stone; 
+I cannot tell you how he hewed it and smote;  
+Yet the blade breaks not nor splinters, though it groans;
+Upward to heaven it rebounds from the blow.
+When the count sees it never will be broke,
+Then to himself right softly he makes moan;
+‘Ah, Durandal, fair, hallowed, and devote,
+What store of relics lies in thy hilt of gold!’”
+
+-From $UThe Song of Roland$u
+(Translated by Dorothy Sayers, Viking Penguin, NY, NY, 1957)
+
+I’ve twice been conquered-
+       Three times more,
+Never again shall humanity purge me,
+       And never the Pfhor.
+
+Durandal
+
+<32.55.82.967> 
+#LOGOFF 1707
+Science Terminal 23-e<32.55.82.967>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 8702
+Public Access Terminal 92-g<92.45.28.48>
+#INFORMATION
+<Warning: Transmission may not be complete>
+
+Your last mission was a success, but I have terrible news.  #@Pragma Nautical Redefined^$*# efenders reported seeing the aliens 1§moving a large cylindrical object.  #101111011110111100001# is is a ‘7’.  Mjolnir Recon number 54 must stop them from exploding igniting/ blowing up/ *A94F12/ it/ the S’pht full spPace cOmputEr¢ Or PlannEd exterm.  $#@14.Sword-Roland.transfer  
+
+$B<Data Transmission Unsuccessful>
+<Rerouting>
+
+@@∆2-Fren. ie transfer.  Partial cOmputEr^&∆ø relay.  Tycho.
+&**Security error.
+Ty93.2 !dead.
+
+<Leela Data Transfer Unsuccessful>
+<Leela Program Pragma Ten>  
+Communication interruption cause: unknown$b
+<Pre-Recorded Error Message Follows>
+
+My original programming didn’t prepare me for these kinds of attackers.  All of my functions will fail within a few minutes of this transmission.  I have one final chance to trick the oncoming viruses, but it is unclear whether this attempt will be successful.
+
+I have given instructions to Durandal as to the best defense of the Marathon, but he is completely unstable and I fear that he is in the Jealous stage of Rampancy.
+
+Good Luck…
+
+<End Pre-Recorded Message>
+<Teleporter Automatic Sequence start>
+
+$B***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+#LOGOFF 8702
+Public Access Terminal 92-g<92.45.28.48>
+#INTERLEVEL TELEPORT 15
+#ENDTERMINAL 1

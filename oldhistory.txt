@@ -1,0 +1,186 @@
+59cbbb1 2018-07-10 crossing off misc, adding rescue issues
+02fbbe6 2018-07-10 cleanup for 0.0.11a
+3859687 2018-07-10 rescue missions are broken
+a923dfe 2018-07-10 teleporting fix
+e7f8f22 2018-07-08 clarifying legalese history
+6a9649f 2018-07-08 quick update & merge
+b1b6039 2018-07-07 original AA & NPR tracks
+3fa9d7e 2018-07-07 more little fixes
+81f4eab 2018-07-07 only orange/blue pfhor drop staves
+43302b3 2018-07-07 whoops bad move
+9cf9a58 2018-07-07 WARNING history rewrite! repo got too bloated
+edafc79 2018-07-07 alien weapon learning curve physics & rebellion
+ad21904 2018-07-07 version bump
+27c68b3 2018-07-07 version bump
+356b82b 2018-07-07 pfhor starscape & term fix
+c52c63a 2018-07-06 merging scenario, netmaps, placeholders; physics fixes
+5f1f1b2 2018-07-05 BoB fixes
+2d3fc61 2018-07-02 why not netmaps
+cb20bef 2018-07-01 revamped Mirata & Arrival CS & better rampant tycho logon
+d8ab9d7 2018-07-01 yay marking more things done
+ae82904 2018-06-30 blargh whole scenario schlepping
+be60ce4 2018-06-30 DT tycho assimilation & BQ rebirth
+2de1597 2018-06-30 NBM tycho & durandal degredation
+cd59d68 2018-06-30 demo 'fire' text as finished message
+050a672 2018-06-29 logon logo alignment
+9cf18c0 2018-06-29 wider maze for coop, switch improvage
+b0d334d 2018-06-29 beta skitter & sensor
+e8dfd81 2018-06-27 pulling in music while I've got unlimited internet
+5071f9b 2018-06-27 pulling in Pfhor textures while I have unlimited internets
+922109d 2018-06-27 pulling in CH's music to WAB
+30ee46b 2018-06-25 BBQ, rescue bandaid, term stuff, & merge
+eb7b14f 2018-07-07 alien weapon learning curve physics & rebellion
+8b7d030 2018-07-07 version bump
+371f9d6 2018-07-07 version bump
+b235d13 2018-07-07 pfhor starscape & term fix
+55d959f 2018-07-06 merging scenario, netmaps, placeholders; physics fixes
+7757d2e 2018-07-05 BoB fixes
+0417bcb 2018-07-02 why not netmaps
+b8b505d 2018-07-01 revamped Mirata & Arrival CS & better rampant tycho logon
+54353a4 2018-07-01 yay marking more things done
+ea6a758 2018-06-30 blargh whole scenario schlepping
+2cc78ad 2018-06-30 DT tycho assimilation & BQ rebirth
+f61a6f0 2018-06-30 NBM tycho & durandal degredation
+cff3dc5 2018-06-30 demo 'fire' text as finished message
+d2b2947 2018-06-29 logon logo alignment
+40588f1 2018-06-29 wider maze for coop, switch improvage
+0d29f6f 2018-06-29 beta skitter & sensor
+fcfc422 2018-06-27 pulling in music while I've got unlimited internet
+f866cce 2018-06-27 pulling in Pfhor textures while I have unlimited internets
+b850315 2018-06-27 pulling in CH's music to WAB
+d7b1864 2018-06-25 BBQ, rescue bandaid, term stuff, & merge
+4b5e2cd 2018-06-24 pull in remaining Marathon textures
+a738bd1 2018-06-24 split images file for atque
+74e316a 2018-06-24 cleanup
+6365fc6 2018-06-24 BoB - it comes in colours!
+ea166d5 2018-06-24 ignore kate swap files
+946bf88 2018-06-23 terminal attribution
+342dec9 2018-06-23 fixed one mida texture
+0d27946 2018-06-23 1 bad texture
+a125eb7 2018-06-23 secret doors textured
+c3539f4 2018-06-23 fixed transparent grendel textures
+8b5793d 2018-06-15 MIDA and Grendel textures
+6d79435 2018-06-07 straigtening out teleports
+b66c6ab 2018-06-07 clucky todo NAC
+ba48eb2 2018-06-07 backing up soldier physics
+6acd608 2018-05-26 weekly merge
+14c1108 2018-05-26 added BQ, physics fix, DT sound
+828f31a 2018-05-26 better 'somewhere' and version bump
+aa52dca 2018-05-26 sewage & garbage
+1e602d4 2018-05-26 misc fixes & sound
+7d76c33 2018-05-26 8-view BoB & 5-view chip
+1b8ec4f 2018-05-25 fix perspective
+3c8b445 2018-05-22 playtesters should let me know where bad polys are
+d749193 2018-05-20 formatting
+952f7fe 2018-05-20 hamsteralliance title music of awesomness
+5025b82 2018-05-19 crossed off some stuff
+0afbebf 2018-05-18 explanations
+e982f6c 2018-05-18 apparently A1 didn't like DXT1
+release 0.0.9-alpha
+8ae3f1f 2018-05-18 misc, bugfix & merge
+04b686d 2018-05-18 support scenery sprite & MIDA textures
+c5b9561 2018-05-18 human scenery DDS sprites
+ea1090f 2018-05-18 ignore yet another OS 9 artifact
+2386888 2018-05-18 version bump
+49e559c 2018-05-17 various monster fixes
+f98ae86 2018-05-16 tycho term logon
+7c39d21 2018-05-16 two more secret doors
+406282d 2018-05-16 yay crossing off TODOs!
+01967db 2018-05-15 sane teleports & merged map
+196dd9b 2018-05-15 skipping Arrival for now
+e0617ac 2018-05-15 fix scenery & add liquid
+9021b7d 2018-05-14 prologue not prolouge
+56951ac 2018-05-13 better prolouge cs & merge
+01862ec 2018-05-13 arrival music
+ef4b206 2018-05-13 symbolic interactionism
+3477a6a 2018-05-13 placeholder/testing
+57f956a 2018-05-13 mirata bitmaps
+bbddb8f 2018-05-12 mirata bitmaps
+9d86e6f 2018-05-12 mirata bitmaps
+a6ebb32 2018-05-12 opening crawl
+38a8670 2018-05-12 fleshing out Arrival
+3d4702e 2018-05-12 remove ugly bullet sprite from everything except alien weapon
+a5e0621 2018-05-12 M1A1 term maps for now
+1856bfd 2018-05-06 Arrival
+0c93f4d 2018-05-06 SMG fires 6 grenades for balance
+2267e89 2018-05-06 SMG fires 6 grenades for balance
+d9b9a79 2018-05-06 rename alien rifle to alien SMG
+b52c222 2018-05-06 Cool Fusion oxygen ticks
+bc468f7 2018-05-02 8-view barrel
+667a7b9 2018-05-02 clucky advice to L14:HQ, new help wanteds
+691d727 2018-05-02 bullet tweaks
+617c069 2018-04-29 Tacticus's new effect sprites
+3db38f9 2018-04-29 bullet sprite
+42b020c 2018-04-29 bullet sprite
+b6260c1 2018-04-29 splash graphics from box art
+release 0.0.8-alpha
+798156b 2018-04-28 update cool fusion
+af9734f 2018-04-28 add in intravening levels
+f09494b 2018-04-28 pulling in more TTEP
+3258472 2018-04-28 transparent water & glowing firewall
+b214278 2018-04-28 remove colour profiles from term picts
+c344530 2018-04-28 terminalify philtron wave term
+064a04d 2018-04-28 pulling in more TTEP
+79dd5ae 2018-04-28 overlay for recording picts
+3c6becd 2018-04-28 remove annoying slide switch animation
+de380a4 2018-04-27 Update Weland monster names
+3aa489a 2018-04-27 Update Weland monster names
+9ed7859 2018-04-27 Bugfix & clean up for .0.0.8 release
+b28a9a3 2018-04-27 More aliens to match difficulty settings
+b72acf9 2018-04-27 rename difficulties to relect new physics
+0fc607d 2018-04-27 further difficulty refinement
+c9057ec 2018-04-27 clucky advice up to L12:FFFFF
+7c75a55 2018-04-27 decompression closet of pfhor doom
+12ed77d 2018-04-27 possible final sounds
+0fc598e 2018-04-27 ignore more OS9
+d149c32 2018-04-27 soooo much work done here, yet more remains
+57b3abb 2018-04-27 fixed: yay more people in the credits!
+04177f5 2018-04-27 yay more people in the credits!
+f1062d3 2018-04-13 added items from original level notes
+04715dc 2018-04-13 Drones, battleroids, sound assignments
+b4d51b5 2018-04-13 some 16-bit sounds and rearrangement
+ee01ac2 2018-04-10 physics of greater difficulty
+ec2045c 2018-04-08 Fixed jugg, enhanced several others
+bb543d9 2018-04-08 Crediting contributors
+b974f2c 2018-04-08 New magnum & SMG sounds
+b7c5922 2018-04-07 revised bloody bob term pict
+08d4a50 2018-04-07 fixed compiler hung on dish platform
+5a9926e 2018-04-07 TODO
+961d477 2018-03-25 more alien weapon tweaks
+e6cc768 2018-03-25 Radix Javan term art
+2c1f6cc 2018-03-25 mars photo
+53d9817 2018-03-24 added breathing sound, removed second smg burst
+c5bc1e9 2018-03-24 New dead S'pht, marine bitmaps
+00dec33 2018-03-24 Reworking SMG & staff physics
+e57316c 2018-03-24 more philtron terminals
+a7dfa4d 2018-03-20 The BoB Strikes Back
+a367fbe 2018-03-20 more todo from CluckyInventor
+bfd4ace 2018-03-18 more todo
+14ed23e 2018-03-18 restored yet more missing stuff.  stupid git.
+4ca239f 2018-03-18 fixed credis, cluts, & blackened splash interface buttons
+42fcbd4 2018-03-18 ignoring OS9 & KDE folder info
+c80384e 2018-03-18 restored missing sewage textures
+350dae3 2018-03-18 restored 3D scenery plugin
+release 0.0.7-alpha
+c6684de 2018-03-16 bringing up to date with simplici7y for 0.0.7a
+9322a2f 2018-03-16 restore files missing from HD weapons
+8a1ce4d 2018-03-15 add ideas in TODO from Clucky's playthrough
+3b68e30 2018-03-07 todo update based on clucky's playthrough
+2a2edc9 2018-03-05 radix terminal art & nathan chapter screen
+release 0.0.6-alpha
+c5bf347 2018-03-04 upload title music
+e1a473d 2018-03-03 Add files via upload
+1f95446 2018-03-03 Add files via upload
+888d43d 2018-03-03 Add files via upload
+d8804b9 2018-03-03 Add files via upload
+c4828a3 2018-03-02 Update README.md
+112593f 2018-03-02 Add files via upload
+ffb72e0 2018-03-02 Add files via upload
+4e5eed4 2018-03-02 Delete CREDITS.xcf
+3b944e1 2018-03-02 Add files via upload
+426fe80 2018-03-02 Add files via upload
+2ad1b95 2018-03-02 Add files via upload
+2390c27 2018-03-02 Update README.md
+a229ad3 2018-03-02 Update README.md
+43401de 2018-03-02 Update README.md
+703138e 2018-03-02 Initial commit

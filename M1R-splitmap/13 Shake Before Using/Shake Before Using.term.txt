@@ -1,0 +1,88 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 8702
+Engineering Terminal 39-g<39.96.28.12>
+#INFORMATION
+***INCOMING MESSAGE FROM LEELA***
+
+Everything is not as it seems{}.  seems{}.  seems{}.  You should be extremely careful.  I have detected Durandal[Tycho] in the Engineering Section, but I don’t know what he is doing. 
+
+My main programs are failing<299.229> 
+
+Be careful.  Everything it not is as used to be.
+
+Tenderly transmitting maps and guidance, but futile.  
+$Ufilters failing$u.
+
+#PICT 1034
+!2@!`~*(_
+Use %``934~ autom#tic teleporter to ~l1leave
+
+Control = assimilated = !````~TXlcar
+<Transmission Error>
+
+
+***__#004002004__***
+#LOGOFF 8702
+Engineering Terminal 39-g<39.96.28.12>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1000
+Engineering Access 31-d<40.59.21.10>
+#INFORMATION
+<$BUnauthorized access$b-alarm 2521->
+<Security Breached 31-d<40.59.21.10>->
+~13!@1ournal entry of H.`1 McYultry:
+
+The attack came so fast, first those crea ~12``3$U0101!~2$u
+who didn’t run away, and then two huge armored creatures came after us and killed !`jkfrc@@z else but myself.  I managed to jump into an air vent, and escape here, but
+$B<Filter Error>$b
+hear the strange worblings of their speech getting nearer, and I am unarmed.  I have only a few minutes.  
+
+<$BSpurious Interrupt$b- $IBreach Disabled$i>
+<$BFurther Access Denied$b>
+#LOGOFF 1000
+Engineering Access 31-d<40.59.21.10>
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1707
+Science Station 19-f<299.229.4.59>
+#INFORMATION
+***INCOMING MESSAGE FROM DURANDAL***
+
+Leela can’t reach you here, but I can.  I am able to access all sections of the ship, and the S’pht have even stopped attacking me- realizing the futility of the enterprise.
+
+Here’s a little hint, you’ll probably need the help:
+
+#PICT 1035
+If you want to live, go here and look for a hidden airlock panel.
+
+#PICT 1036
+Err,  maybe it was here.
+
+#PICT 1037
+No.  I remember now.  It was here.  Yeah, that’s it.  This was the place.  
+
+#PICT 1038
+I’m sorry.  Could this be it?  It looks like it.  I can’t find the right map.  Try talking to Leela.  She always was a nice AI.  She could help you.  
+
+Oh, right.  Leela can’t get here.
+
+$BDecompression Completed.$b
+
+#PICT 1039
+Just kidding.  This is the place.
+
+Side note:
+
+The S’pht have informed me that he Pfhor are building cyborg simulacrums of the Marathon crew.  I imagine that you will meet some of them soon, and wanted to warn you not to get too close to them: about three meters.
+
+***END OF MESSAGE***
+#LOGOFF 1707
+Science Station 19-f<299.229.4.59>
+#ENDTERMINAL 2

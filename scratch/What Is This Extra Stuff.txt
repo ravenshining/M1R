@@ -1,0 +1,21 @@
+The files in this folder exist purely for testing and development purposes.
+
+Chroma Key - map used in conjunction with Wrkncaknter's Differential Shading Checker to made sprites out of 3D models
+
+Monster Piano - a map that spawns in the Major of every monster type when you step on the appropriate polygon, for testing physics
+
+Terminal Test - a map, whose source can't be in git because it mostly consists of symbolic links, which I occasionally compile to quickly test terminal edits with.
+
+Traxus Industrial Tower - A level Flowers submitted to the project as a possible colony level. I am not yet sure where or whether I will use this.
+
+Other.term.txt - Terminal text by Philtron that is waiting for a level to grow a new terminal to use it.
+
+Storyboard.odg - LibreOffice Draw flowchart outlining how we plan to thread the levels so far.
+
+Symbolic Interactionism.odg - LibreOffice Draw master for the "fire and the aspects of the theory" terminal on Arrival in case you want to edit it.
+
+CREDITS.xcf - GIMP master for adding people to the credits
+
+splash.xcf - GIMP master for the title and splash screens
+
+MIDAs.xcf - GIMP master for the graffiti / secret door textures

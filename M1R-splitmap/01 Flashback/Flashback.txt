@@ -1,0 +1,81 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1700
+#PICT 1700
+
+$C1System Check on shuttle Mirata complete. All systems normal.
+#PICT 1700
+
+$C1System Check on shuttle Mirata complete. All systems normal.
+
+Main booster shutdown sequence initiated.
+#PICT 1745
+
+$C1System Check on shuttle Mirata complete. All systems normal.
+
+Main booster shutdown sequence initiated.
+
+Commence proceedures to enter orbit around The Marathon.$C5
+#PICT 1745
+
+$C4"...300 years since I emberked upon that colony ship way back in the Solar
+System...I've come such a long way... MANKIND has come such a long way..."$C1
+#PICT 1745
+
+$C3...chuckle...
+
+#PICT 1745
+
+$C3...chuckle...
+
+$C1Malfunction detected on Marathon docking bay 1$C0
+
+#PICT 1745
+
+$C4Do we have visual contact?$C0
+#PICT 1706
+
+$C4WHATTA SH***T!!$C0
+
+$C4Dammit Mirata!
+
+What the hell is going on?!
+#PICT 1707
+
+$C1Preemptive course change directives received from Durandal,the Marathon's AI. Entering collision course with the Marathon.
+#PICT 1700
+
+$C4Woh, woh woh!
+$C4Durandal! That buggy AI!
+$C4Whoever or whatever this clown may be...
+Mess with me, big brother...
+..and YOU'RE TOAST!
+#PICT 1707
+
+$C3...Chuckle...$C0
+
+This is Durandal, the Marathon's AI...
+
+Let me show you something $C3...chuckle...$C0 amusing.
+#PICT 1700
+
+$C4GODDAMN!
+$C4Hmm...
+Aliens and a rogue AI, eh? What am I going to do about THIS?
+#PICT 1721
+
+$C6Be a man, my son... A man I can be proud of...!
+
+Have pride... and honor...
+#PICT 1722
+
+$C4Dad...
+#PICT 1722
+
+$C4Dad...
+
+$C4Well, I guess I've decided what to do...
+#LOGOFF 1707
+#INTERLEVEL TELEPORT 2
+#ENDTERMINAL 0

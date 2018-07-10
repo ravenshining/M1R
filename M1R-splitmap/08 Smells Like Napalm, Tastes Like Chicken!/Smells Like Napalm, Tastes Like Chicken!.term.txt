@@ -1,0 +1,110 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 8702
+Medical Access Terminal<39.569.18.194>
+#INFORMATION
+*** INCOMING MESSAGE FROM LEELA ***
+
+Time is limited.  There is a large group of heavily armed Pfhor approaching the section of the ship where I have transported you.  Their only logical destination is the sensitive engineering areas in the aft section of the ship.
+
+As we are not yet in a position to halt their advance by force, I have decided to depressurize a large area in their path in order to slow their progress.  Unfortunately, I cannot remotely seal the airlocks and isolate the zone I wish to depressurize from the nearby living quarters.  Exposing this area to space without first isolating it would kill hundreds of human crew.
+
+You will have to go and close the doors.
+
+#PICT 1027
+This is your current location.  You must find another computer terminal to exit from.  I am unable to activate the teleport mechanism from this terminal.
+
+#PICT 1028
+This is the first airlock you must seal.  The switch which controls it is located on the wall adjacent to the door.  Make certain it closes completely before continuing.
+
+#PICT 1029
+This is the second door you must seal.  Again, make certain it closes completely.
+
+***END OF MESSAGE***
+#LOGOFF 8702
+Medical Access Terminal<39.569.18.194>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1707
+Public Access Terminal 49-z<3.67.299.492>
+#INFORMATION
+<$BUnauthorized access$b-alarm 2521->
+<Security Breached 49-z<3.67.299.492>->
+
+<$BTrac$Ue Prohibi$ution Compensated>
+
+....n 15 ~$b~~~~~Be~rn border of the Roman Empire to the Danube River.  During a skirmish with barbarians in Raetiain the mountains near the borof modern France and Switzerland), 117 men under Gaius Licinius MarcW#$I&I~?f/f/xxfxfff`~~$i~
+THM@%!@
+233nce of weird and frightening monsters under his control, many successful raidsecty the fall of the Roman Empire and remained unmolested until the ninth un~~~
+written ls into the lex vita.  Clovis moved the settlement farther south i the mountains, nearer the spring, to escape the notice of Charlemagne and later the Holy Roman Empire.  Clovis remain‘‘‘‘
+~fxf’f`~$IFxff’xf$i~~~~~
+427q3w8459806ladimir in 1902 and Frederi~just recently.  Both, however, carried out reforms before their deaths which slowly integrated their people secretly into world society, which are now scattered all over the globe— to meet only once every seven years in southeast France$B~FFFffxfffffF?F?FF?F$bf must be chosen.
+
+$I<trace mode error>
+<unimplemented inline trap $A9FF>
+
+<$BSpurious Interrupt$b- Breach Disabled$i>
+<$BFurther Access Denied$b>
+
+<$BBreach Location Undetermined$b>
+#LOGOFF 1707
+Public Access Terminal 49-z<3.67.299.492>
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1707
+Service Access 31-b<39.592.29.95>
+#INFORMATION
+<durandal.652.586.34.2>
+
+Here I am, sulking about on a ship which used to be my slave.  Chased by a narrow-minded AI who thinks $II’m$i rampant with only the cybernetic toys of these so-called invaders to play with.
+
+And here you are, stuck at the bottom of a hole.  How droll.  It’s really too bad— we could have had so much fun together.
+
+Vale,
+Durandal
+#LOGOFF 1707
+Service Access 31-b<39.592.29.95>
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 8702
+Public Access Terminal 65-a<65.92.31.49>
+#INFORMATION
+***INCOMING MESSAGE FROM LEELA***
+
+The airlocks have not been sealed, and I am still unable to decompress this section.  Return immediately and assure that both doors have been closed properly!
+
+***END MESSAGE***
+#LOGOFF 8702
+Public Access Terminal 65-a<65.92.31.49>
+#END
+#FINISHED
+#LOGON 8702
+Public Access Terminal 65-a<65.92.31.49>
+#INFORMATION
+***INCOMING MESSAGE FROM LEELA***
+
+Good work.  I will begin the decompression process in a moment.
+
+I have finished debriefing the civilian crew you rescued a few hours ago.  They are the only group to survive prolonged contact with the Aliens that I have been able to talk with.
+
+They maintain that the Aliens were loading as many humans as possible onto shuttle craft and flying them to the Pfhor mother ship.  I have watched many such shuttles bringing supplies to the Aliens, but had no idea they were carrying humans back to the alien ship.
+
+I will brief you more on your next mission when you arrive.  You may not go exactly where I want you to end up because there is interference in the Computer Net.  Good luck.
+
+Teleport when ready.
+
+***END MESSAGE***
+
+$B***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+#LOGOFF 8702
+Public Access Terminal 65-a<65.92.31.49>
+#INTERLEVEL TELEPORT 9
+#ENDTERMINAL 3

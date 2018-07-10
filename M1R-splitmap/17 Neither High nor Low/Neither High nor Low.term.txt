@@ -1,0 +1,60 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1707
+Public Access Terminal 39-f<13.19.31.37>
+#INFORMATION
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+Give me a D.
+Give me a U.
+Give me an R.
+Give me an A.
+Give me an N.
+Give me a D.
+Give me an A.
+Give me an L.
+
+What does it spell?
+
+Durandal?
+No.
+
+$BDurandal$b?
+$INo$i.
+
+
+
+T-R-O-U-B-L-E.
+
+T-Minus 15.193792102158E+9 years until the universe closes!
+
+***END OF MESSAGE***
+#LOGOFF 1707
+Public Access Terminal 39-f<13.19.31.37>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1707
+Public Access Terminal 13-n<3.47.391.30>
+#INFORMATION
+
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+You are about to see what no human has ever seen.  This is a fact-finding mission.  You should explore as much as possible.
+
+Stop in front of a window.  If you stop and are not teleported, then either I can't lock onto your teleport beacon, or else I feel you haven't explored the area thoroughly enough.
+
+I will be watching everything.
+
+***END MESSAGE***
+
+$B***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***$b
+#LOGOFF 1707
+Public Access Terminal 13-n<3.47.391.30>
+#INTERLEVEL TELEPORT 22
+#ENDTERMINAL 1

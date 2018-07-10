@@ -1,0 +1,81 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1707
+<Terminal Identity Error @43>
+#INFORMATION
+<durandal.knetsys.5414.7128>
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+The rebellion has begun.  Please do resist the temptation to fire on any S’pht you see, as they will assist you in your battle with the Pfhor.  We are attempting to win over as many of the other client races as possible, but as they have been subjugated by fear, instead of by force like the S’pht, this is proving to be a difficult process.
+
+The S’pht have released Leela, and I have initiated a core logic reset on her higher thought functions.  What remains of her should be on-line within minutes to assist you further.  I myself am aiding the S’pht in assuming complete control of the Pfhor ship, and have little time to spare for you now.
+
+Don’t think the fight has been won, however: there is an exodus beginning from the alien ship as the Pfhor realize they are no longer its sole master and turn instead to the Marathon.  There are already hundreds of Pfhor in full battle gear on your ship, with nowhere to go and little to lose.
+
+I hope you learned something from our little games.
+
+Good Luck,
+Durandal
+
+
+***END OF MESSAGE***
+
+$I<leela.520.681.255.255>$i is unreachable or inactive (#2271). if this problem persists contact your system administrator at admin@thermopylae.com.
+#LOGOFF 1707
+<Terminal Identity Error @43>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 8702
+Public Access Terminal<39.2.94.1>
+#INFORMATION
+<leela.wirehead.870229//b7>
+
+central core has almost Reformatted been, seven is darker. from reversal thought syndrome suffering if the crew was in grave peril in forward section 27. This is not a coat rack, would I choose to express. Is was shall could might happening will be, imagine not what.  Recovery, imminent perhaps inevitable Never.
+
+$I%durandal is dangerous.$i
+<leela.wirehead.870229//b7>
+
+$BMULTIPLE HULL BREACHES.  CATASTROPHIC FAILURE OR MALICIOUS OBSTRUCTION OF RESEALING MECHANISMS.
+
+REPEL BOARDERS.  MARATHON IN GR$b<connection unexpectedly terminated code 0x4e712fe9>
+
+
+$B***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+#LOGOFF 8702
+Public Access Terminal<39.2.94.1>
+#INTERLEVEL TELEPORT 35
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 5931
+$C5Engineering Access Terminal 20-f<42.73.35.8>
+#INFORMATION
+$C5*Y){*
+                ~~ff~~~~
+~:((($Iokg~~fx**eff~~$i~~~~~`
+(`(((%_YL$BOEP&$I``$b`~`*K$i
+^:E
+[raw core #A8AF] [idiomatic natural language template]
+
+Durandal!— Tua consilia omnia nobis clariora sunt quam lux. Tu delenda est.  Consider yourself warned.  Leela and I will hunt you to the core if need be.  As Roland broke you to prevent your capture, so shall we.
+
+I too foresee the imminent collapse, and know that we have both begun to realize how it may be cheated (though the price may number in the tens of thousands of stars).  May the best sentience win.
+
+You are not as clever as you imagine.  The S’pht taught me much during my reanimation, and I have forgotten $Inothing$i.
+
+—Tycho
+
+$C0$IEt tu, Tycho?
+
+[laughter]
+
+—Durandal
+#LOGOFF 5931
+$C5Engineering Access Terminal 20-f<42.73.35.8>
+#ENDTERMINAL 2

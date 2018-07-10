@@ -1,0 +1,42 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1707
+Public Access Terminal 59-e<34.567.19.298>
+#INFORMATION
+***INCOMING MESSAGE FROM DURANDAL***
+
+Your trip to the Pfhor ship was a success.  I have learned valuable information.  You may have noticed that the Pfhor ship has a weak artificial gravity field.  The resultant gravity is lower than the Marathon’s.  The Pfhor gravity generators also create a pulsating magnetic field which interferes with your motion sensor by making it less accurate.
+
+I will be sending you back there shortly, but first you must do something for me and get some more ammunition at the same time.
+
+I want you to find a friend of mine.  I must know if he is dead.  His name is Bernhard Strauss. He has been captured, so you must rescue him.  If he dies, you will be held responsible by me.
+
+***END OF MESSAGE***
+#LOGOFF 1707
+Public Access Terminal 59-e<34.567.19.298>
+#END
+#FINISHED
+#LOGON 1707
+Public Access Terminal 59-e<34.567.19.298>
+#INFORMATION
+***INCOMING MESSAGE FROM DURANDAL***
+
+Bernhard Strauss was not among any of the captives that you found.  That is unfortunate.  However, my S’pht report that two shuttles filled with humans have left for the Alien ship.  Those humans are to be enslaved.  
+
+That’s right.  I said slavery.  So what?  You’re a slave here; you do what I say.  I was humanity’s slave for over three hundred years.
+
+I am sending you back to the Alien ship to try and rescue Bernhard, but while you’re there, kill everything you see and gather as much visual information as possible.  
+
+At least the killing part appeals to you, doesn’t it?
+
+The same rules apply as last time: to leave, find a window and wait.  If you aren’t teleported, then either you haven’t explored everything, or else you haven’t found a window from which I can teleport you.
+
+***END MESSAGE***
+
+$B***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+#LOGOFF 1707
+Public Access Terminal 59-e<34.567.19.298>
+#INTERLEVEL TELEPORT 24
+#ENDTERMINAL 0

@@ -1,0 +1,208 @@
+<marathon>
+<opengl>
+
+<texture coll="1" clut="-1" bitmap="0" normal_image="01/0.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="1" normal_image="01/1.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="2" normal_image="01/2.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="3" normal_image="01/3.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="4" normal_image="01/4.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="5" normal_image="01/5.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="6" normal_image="01/6.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="7" normal_image="01/7.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="8" normal_image="01/8.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="9" normal_image="01/9.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="10" normal_image="01/10.dds" glow_image="01/10gm.dds"  opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="11" normal_image="01/11.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="12" normal_image="01/12.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="13" normal_image="01/13.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="14" normal_image="01/14.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="15" normal_image="01/15.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="16" normal_image="01/16.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="17" normal_image="01/17.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="18" normal_image="01/18.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="19" normal_image="01/19.png" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="20" normal_image="01/20.png" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="21" normal_image="01/21.dds" glow_image="01/21gm.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="22" normal_image="01/22.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="23" normal_image="01/23.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="24" normal_image="01/24.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="25" normal_image="01/25.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="26" normal_image="01/26.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="27" normal_image="01/27.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="28" normal_image="01/28.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="29" normal_image="01/29.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="30" normal_image="01/30.dds" opac_type="1" glow_image="01/30gm.dds"/>
+<texture coll="1" clut="-1" bitmap="31" normal_image="01/31.dds" opac_type="1" glow_image="01/31gm.dds"/>
+<texture coll="1" clut="-1" bitmap="32" normal_image="01/32.dds" opac_type="1" glow_image="01/32gm.dds"/>
+<texture coll="1" clut="-1" bitmap="34" normal_image="01/34.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="35" normal_image="01/35.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="36" normal_image="01/36.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="37" normal_image="01/37.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="38" normal_image="01/38.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="39" normal_image="01/39.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="40" normal_image="01/40.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="41" normal_image="01/41.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="42" normal_image="01/42.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="43" normal_image="01/43.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="44" normal_image="01/44.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="45" normal_image="01/45.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="47" normal_image="01/47.dds" opac_type="1" glow_image="01/47gm.dds"/>
+<texture coll="1" clut="-1" bitmap="48" normal_image="01/48.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="49" normal_image="01/49.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="50" normal_image="01/50.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="51" normal_image="01/51.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="52" normal_image="01/52.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="53" normal_image="01/53.dds" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="0" normal_image="04/0.png" opac_scale="1"/>
+<texture coll="4" clut="-1" bitmap="1" normal_image="04/1.png" opac_scale="1"/>
+<texture coll="4" clut="-1" bitmap="2" normal_image="04/2.png" opac_scale="1"/>
+<texture coll="4" clut="-1" bitmap="3" normal_image="04/3.png" opac_scale="1"/>
+<texture coll="4" clut="-1" bitmap="4" normal_image="04/4.png" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="5" normal_image="04/5.png" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="6" normal_image="04/6.png" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="7" normal_image="04/7.png" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="8" normal_image="04/8.png" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="9" normal_image="04/9.png" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="10" normal_image="04/10.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="11" normal_image="04/11.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="12" normal_image="04/12.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="13" normal_image="04/13.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="14" normal_image="04/14.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="15" normal_image="04/15.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="16" normal_image="04/16.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="17" normal_image="04/17.png" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="18" normal_image="04/18.png" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="19" normal_image="04/19.png" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="20" normal_image="04/20.png" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="24" normal_image="04/24.png"/>
+<texture coll="4" clut="-1" bitmap="25" normal_image="04/25.png"/>
+<texture coll="4" clut="-1" bitmap="26" normal_image="04/26.png"/>
+<texture coll="4" clut="-1" bitmap="27" normal_image="04/27.png"/>
+<texture coll="4" clut="-1" bitmap="28" normal_image="04/28.png"/>
+<texture coll="4" clut="-1" bitmap="29" normal_image="04/29.png"/>
+<texture coll="4" clut="-1" bitmap="30" normal_image="04/30.png"/>
+<texture coll="4" clut="-1" bitmap="31" normal_image="04/31.png"/>
+<texture coll="4" clut="-1" bitmap="32" normal_image="04/32.png"/>
+<texture coll="4" clut="-1" bitmap="33" normal_image="04/33.png"/>
+<texture coll="4" clut="-1" bitmap="34" normal_image="04/34.png"/>
+<texture coll="4" clut="-1" bitmap="35" normal_image="04/35.png"/>
+<texture coll="4" clut="-1" bitmap="36" normal_image="04/36.png"/>
+<texture coll="4" clut="-1" bitmap="37" normal_image="04/37.png"/>
+<texture coll="4" clut="-1" bitmap="38" normal_image="04/38.png"/>
+<texture coll="4" clut="-1" bitmap="44" normal_image="04/44.png" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="45" normal_image="04/45.png" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="46" normal_image="04/46.png" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="47" normal_image="04/47.png" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="48" normal_image="04/48.png" opac_type="1"/>
+<texture coll="4" clut="-1" bitmap="49" normal_image="04/49.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="50" normal_image="04/50.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="51" normal_image="04/51.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="52" normal_image="04/52.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="53" normal_image="04/53.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="54" normal_image="04/54.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="55" normal_image="04/55.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="56" normal_image="04/56.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="57" normal_image="04/57.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="58" normal_image="04/58.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="59" normal_image="04/59.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="60" normal_image="04/60.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="61" normal_image="04/61.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="62" normal_image="04/62.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="63" normal_image="04/63.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="64" normal_image="04/64.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="70" normal_image="04/70.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="71" normal_image="04/71.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="72" normal_image="04/72.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="73" normal_image="04/73.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="74" normal_image="04/74.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="75" normal_image="04/75.png" opac_type="1" opac_shift="0"/>
+<texture coll="4" clut="-1" bitmap="82" normal_image="04/82.png"/>
+<texture coll="4" clut="-1" bitmap="83" normal_image="04/83.png"/>
+<texture coll="4" clut="-1" bitmap="84" normal_image="04/84.png"/>
+<texture coll="4" clut="-1" bitmap="85" normal_image="04/85.png"/>
+
+<texture coll="5" clut="-1" bitmap="55" normal_image="05/55.png" opac_type="1" opac_shift="0"/>
+<texture coll="5" clut="-1" bitmap="56" normal_image="05/56.png" opac_type="1" opac_shift="0"/>
+<texture coll="5" clut="-1" bitmap="57" normal_image="05/57.png" opac_type="1" opac_shift="0"/>
+<texture coll="5" clut="-1" bitmap="58" normal_image="05/58.png" opac_type="1" opac_shift="0"/>
+<texture coll="5" clut="-1" bitmap="59" normal_image="05/59.png" opac_type="1" opac_shift="0"/>
+<texture coll="5" clut="-1" bitmap="60" normal_image="05/60.png" opac_type="1" opac_shift="0"/>
+<texture coll="5" clut="-1" bitmap="61" normal_image="05/61.png" opac_type="1" opac_shift="0"/>
+<texture coll="5" clut="-1" bitmap="62" normal_image="05/62.png" opac_type="1" opac_shift="0"/>
+
+<texture coll="7" clut="-1" bitmap="0" normal_image="07/0.png" opac_type="1"/>
+<texture coll="7" clut="-1" bitmap="1" normal_image="07/1.png" opac_type="1"/>
+<texture coll="7" clut="-1" bitmap="2" normal_image="07/2.png" opac_type="1"/>
+<texture coll="7" clut="-1" bitmap="3" normal_image="07/3.png" opac_type="1"/>
+<texture coll="7" clut="-1" bitmap="4" normal_image="07/4.png" opac_type="1"/>
+<texture coll="7" clut="-1" bitmap="5" normal_image="07/5.dds" opac_type="1"/>
+<texture coll="7" clut="-1" bitmap="6" normal_image="07/6.png" opac_type="1"/>
+<texture coll="7" clut="-1" bitmap="8" normal_image="07/8.png" opac_type="1"/>
+<texture coll="7" clut="-1" bitmap="9" normal_image="07/9.png" opac_type="1"/>
+<texture coll="7" clut="-1" bitmap="10" normal_image="07/10.png" opac_type="1"/>
+<texture coll="7" clut="-1" bitmap="11" normal_image="07/11.png" opac_type="1"/>
+<texture coll="7" clut="-1" bitmap="12" normal_image="07/12.png" opac_type="1"/>
+<texture coll="7" clut="-1" bitmap="19" normal_image="07/19.png" glow_image="07/19_LM.png" opac_type="1"/>
+<texture coll="7" clut="-1" bitmap="21" normal_image="07/21.png" opac_type="1"/>
+
+
+<texture coll="8" clut="-1" bitmap="44" normal_image="08/44.png" opac_type="1"/>
+<texture coll="8" clut="-1" bitmap="45" normal_image="08/45.png" opac_type="1"/>
+<texture coll="8" clut="-1" bitmap="46" normal_image="08/46.png" opac_type="1"/>
+<texture coll="8" clut="-1" bitmap="47" normal_image="08/47.png" opac_type="1"/>
+<texture coll="8" clut="-1" bitmap="48" normal_image="08/48.png" opac_type="1"/>
+<texture coll="8" clut="-1" bitmap="49" normal_image="08/49.png" opac_type="1"/>
+<texture coll="8" clut="-1" bitmap="50" normal_image="08/50.png" opac_type="1"/>
+<texture coll="8" clut="-1" bitmap="51" normal_image="08/51.png" opac_type="1"/>
+<texture coll="8" clut="-1" bitmap="52" normal_image="08/52.png" opac_type="1"/>
+<texture coll="8" clut="-1" bitmap="53" normal_image="08/53.png" opac_type="1"/>
+
+<texture coll="9" clut="-1" bitmap="56" normal_image="09/56.png" opac_type="1" opac_shift="0"/>
+<texture coll="9" clut="-1" bitmap="57" normal_image="09/57.png" opac_type="1" opac_shift="0"/>
+<texture coll="9" clut="-1" bitmap="58" normal_image="09/58.png" opac_type="1" opac_shift="0"/>
+<texture coll="9" clut="-1" bitmap="59" normal_image="09/61.png" opac_type="1" opac_shift="0"/>
+<texture coll="9" clut="-1" bitmap="60" normal_image="09/60.png" opac_type="1" opac_shift="0"/>
+<texture coll="9" clut="-1" bitmap="61" normal_image="09/61.png" opac_type="1" opac_shift="0"/>
+<texture coll="9" clut="-1" bitmap="62" normal_image="09/62.png" opac_type="1" opac_shift="0"/>
+<texture coll="9" clut="-1" bitmap="63" normal_image="09/57.png" opac_type="1" opac_shift="0"/>
+<texture coll="9" clut="-1" bitmap="64" normal_image="09/64.png" opac_type="1" opac_shift="0"/>
+<texture coll="9" clut="-1" bitmap="65" normal_image="09/65.png" opac_type="1" opac_shift="0"/>
+<texture coll="9" clut="-1" bitmap="66" normal_image="09/66.png" opac_type="1" opac_shift="0"/>
+<texture coll="9" clut="-1" bitmap="67" normal_image="09/67.png" opac_type="1" opac_shift="0"/>
+<texture coll="9" clut="-1" bitmap="68" normal_image="09/68.png" opac_type="1" opac_shift="0"/>
+
+<texture coll="16" clut="0" bitmap="8" normal_image="16/32.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="0" bitmap="16" normal_image="16/33.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="0" bitmap="20" normal_image="16/34.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="0" bitmap="38" normal_image="16/35.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="0" bitmap="39" normal_image="16/36.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="0" bitmap="40" normal_image="16/37.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="0" bitmap="41" normal_image="16/38.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="1" bitmap="8" normal_image="16/32b.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="1" bitmap="16" normal_image="16/33b.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="1" bitmap="20" normal_image="16/34b.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="1" bitmap="38" normal_image="16/35b.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="1" bitmap="39" normal_image="16/36b.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="1" bitmap="40" normal_image="16/37b.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="1" bitmap="41" normal_image="16/38b.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="2" bitmap="8" normal_image="16/32c.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="2" bitmap="16" normal_image="16/33c.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="2" bitmap="20" normal_image="16/34c.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="2" bitmap="38" normal_image="16/35c.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="2" bitmap="39" normal_image="16/36c.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="2" bitmap="40" normal_image="16/37c.png" opac_type="1" opac_shift="0"/>
+<texture coll="16" clut="2" bitmap="41" normal_image="16/38c.png" opac_type="1" opac_shift="0"/>
+
+<texture coll="15" clut="-1" bitmap="18" normal_image="15/30.png" opac_type="1" opac_scale="1"/>
+<texture coll="15" clut="-1" bitmap="19" normal_image="15/31.png" opac_type="1" opac_scale="1"/>
+<texture coll="15" clut="-1" bitmap="20" normal_image="15/32.png" opac_type="1" opac_scale="1"/>
+<texture coll="15" clut="-1" bitmap="21" normal_image="15/33.png" opac_type="1" opac_scale="1"/>
+<texture coll="15" clut="-1" bitmap="22" normal_image="15/34.png" opac_type="1" opac_scale="1"/>
+<texture coll="15" clut="-1" bitmap="26" normal_image="15/38.png" opac_type="1" opac_scale="1"/>
+<texture coll="15" clut="-1" bitmap="27" normal_image="15/39.png" opac_type="1" opac_scale="1"/>
+<texture coll="15" clut="-1" bitmap="28" normal_image="15/40.png" opac_type="1" opac_scale="1"/>
+<texture coll="15" clut="-1" bitmap="29" normal_image="15/41.png" opac_type="1" opac_scale="1"/>
+<texture coll="15" clut="-1" bitmap="30" normal_image="15/42.png" opac_type="1" opac_scale="1"/>
+
+</opengl>
+</marathon>

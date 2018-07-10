@@ -1,0 +1,102 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 8702
+Public Access Terminal 903-e<334.920.22.602>
+#INFORMATION
+$B<security channel open> 
+$I<defense priority 120-f$b$i>
+***INCOMING MESSAGE FROM LEELA***
+
+I have some bad news: Durandal has gone $BRampant$b, and he is in the Angry stage.  This explains how Durandal was able to communicate with the Pfhor and the S’pht, while I have not.  Theoretically, the Marathon Computer Net is not big enough to sustain Rampant growth for very long.  This means that as Durandal grows into the Computer Net, he will begin to affect all aspects of the ship, resulting in unpredictable failures of otherwise benign computer systems.
+
+I have teleported you here to make sure that Durandal cannot gain access to a vital section of the ship.  There are a series of control switches that you will need to activate to block his access.  
+
+#PICT 1023
+This is where you are now.  Study the map, so that you can do this quickly.
+
+#PICT 1024
+Here is the first of three switches that you’ll need to activate.
+
+#PICT 1025
+Here is the second switch.
+
+#PICT 1026
+This is the last switch.  Be warned that the Aliens have already entered this area.
+
+***END MESSAGE***
+#LOGOFF 8702
+Public Access Terminal 903-e<334.920.22.602>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1000
+Public Access Terminal 24-f<434.87.18.198>
+#INFORMATION
+<$BUnauthorized access$b-alarm 2521->
+<Security Breached 24-f<434.87.18.198>->
+
+<Data Transfer Cohesion E3F04C>
+<Search String “crist”>
+The CRIST Sol Orbiters:
+
+The CRIST Sol orbiters, or Cargo and Resources In-System Transports were huge ships shaped like a hollow potato and designed to be able to move huge amounts of material between Earth and Mars with low cost and, theoretically, low maintenance.  The system was simple.  The CRIST was put into orbit around SOL on the plane of the ecliptic.  Built with a powerful solar sail, the CRIST could change its orbit easily to pass by the Earth or Mars.  On a flyby, materials could be loaded or offloaded.  The energy used to accelerate or decelerate the materials would be supplied by the solar sail.  Loading was accomplished with a giant tether and reel system, which would swing the material into orbit behind the CRIST and then reel it in slowly.  Offloading was accomplished with a powerful ion beam which would pound the offloading material with a steady stream of ion particles.  
+
+The design of the CRIST was innovative and useful, but it was not low-maintenance.  Of the five CRISTs that were built, four lasted around one hundred years, and the other one only seventy three before they needed to be brought back to Earth and refitted.  Each refitting took about fifteen years, and completely occupied the Earth-Space Shipbuilding Facility for that time.  The result was that no more than five CRISTs could be kept in service at any time.  No CRIST was ever built after 2310.
+
+The CRIST failures devastated Mars.  As the first five CRISTs were built, Mars colony grew quickly, confident that the growth would continue.  But when the source of Mars’ resources failed, the colony found that it had overgrown its supportable size, and extreme poverty struck most of the population.  Each time that a CRIST broke down, the result was famine on Mars.  
+
+The conversion of Deimos into the Marathon began when the Mars colony was at the height of its power.  By the time it was completed sixty four years later, the decline of Mars was well advanced.  During that time, the Martian population had seen its standard of living drop by eighty percent.  On top of oppressive poverty, Martians saw one of their moons being converted into a colony ship in an expensive and risky colony venture which was predominantly funded by a ruling foreign power.  The argument to make the Marathon into a CRIST became more and more popular, but the UESC never seriously considered this an option.  The farther that Mars sank into the depths of poverty, the more that the Marathon became a symbol for the oppression of the Martian people.
+
+The Declining Martian World:
+
+After the Marathon left Mars, the UESC’s attentions focused primarily on technological development, and the upkeep of the CRISTs.  Mars was left to decay.  Population continued to increase as attempts at mandating abortion or sterilization always started revolt. 
+
+<$BSpurious Interrupt$b- $IBreach Disabled$i>
+<$BFurther Access Denied$b>
+<$BAccess Denied$b>
+<$BAccess Denied$b>
+<$BAccess Denied$b>
+#LOGOFF 1000
+Public Access Terminal 24-f<434.87.18.198>
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 8702
+Service Area 39 Public Access Terminal<7-j-2.52.91.321> 
+#INFORMATION
+***MESSAGE FROM LEELA***
+
+I have detected no change in the status of the control circuitry.  You must return and make sure that all of the switches were activated.
+
+***END OF MESSAGE***
+#LOGOFF 8702
+Service Area 39 Public Access Terminal<7-j-2.52.91.321>
+#END
+#FINISHED
+#LOGON 8702
+Service Area 39 Public Access Terminal<7-j-2.52.91.321> 
+#INFORMATION
+***MESSAGE FROM LEELA***
+
+Durandal has been denied access to some of the critical computer systems.  This should insure the mobility and reliability of the Defense Drones.
+
+Unfortunately, I have received a distress signal from some crew who had sealed themselves off in one of the nearby access areas.  They say that they have lost control over the doors and elevators on the level, and that the Pfhor have access to the area.
+
+It appears that Durandal has reacted to our move against him by giving the Pfhor access to a formerly secure area.  
+
+We will have to deal with Durandal sooner or later, but we can’t be distracted from the Pfhor attack.  I only hope that his Rampant behavior won’t continually sabotage our defense efforts. 
+
+I am sending you to go and save these crew.  Clear the area of Aliens.  If enough of the crew survive, then perhaps we can get an intelligence report from them. 
+
+***END MESSAGE***
+
+
+$B***JUMP PAD ACTIVATION INITIATION START***$b
+$B***TRANSPORT WHEN READY***$b
+#LOGOFF 8702
+Service Area 39 Public Access Terminal<7-j-2.52.91.321>
+#INTERLEVEL TELEPORT 7
+#ENDTERMINAL 2

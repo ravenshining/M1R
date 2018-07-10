@@ -1,0 +1,47 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1000
+Public Access Terminal 47-a<102.21.521.146>
+#INFORMATION
+Hey you, looking through my resource fork:
+
+Because of time constraints, many of the interesting parts of Marathon (i.e., the texts, the chapter screens, etc.) were not encrypted like I’ve done in the past with Minotaur or Pathways.  This also makes globalization easier.
+
+So when you read all the computer terminals from ResEdit or find out what the final screen looks like, don’t post on comp.sys.mac.games or AOL or whereever you call home on the information toll-road and ruin things for everyone else.  Go find it in the game, and tell people how to get there themselves.
+
+I’d also like to say that Greg and I have only slept for 15 hours in the last seven days.  <grin>
+
+I hope you guys are already working on level editors and figuring out the format of the “Physics Model” file! Competent programmers serious about doing any sort of add-ons to Marathon should e-mail me on the internet at jon3@quads.uchicago.edu for help and (maybe) header files.
+
+Thanks, Jason (Dec. 18, 1994 1:57am.)
+
+PS.  In case you were wondering, you can’t ever find the pirated copy of Copland in Marathon.  That item used to be a weapon that we took out late in development (the copy of Windows NT was it’s ammunition) but that will find it’s way into the Network Upgrade for Marathon. 
+#LOGOFF 1000
+Public Access Terminal 47-a<102.21.521.146>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1000
+Public Access Terminal 56-c<93.53.211.53>
+#INFORMATION
+You again?
+
+Two and a half years after the wild coding Blitzkrieg that created Marathon, I’m back here removing the serial number protection for the trilogy release.  Without source.
+
+I had this really dumb idea back then that I’d have the game wait until April 1st 1995 before enabling a second layer of serial number verification.
+
+Ha.  After hacking out three dialogs from each of the 68k and PowerPC versions, with only MacsBug to light the way, I’m sort of glad I never got time to do that.
+
+Now Myth is the order of the day, and we’re aiming for a early fall release.  The coming summer won’t turn into the unairconditioned blur of boiling late nights ordering pizza and drinking powdered Gatorate to stay hydrated that 1995 was, but I imagine we’ll keep busy somehow.
+
+I have this feeling it’s going to be snowing again when I have free time again.
+
+So.  No serial numbers.  It’s always bothered me that Marathon’s public lifetime would be over when the last registration card or serial number list got lost.  Hopefully this is the version that I’ll be playing in fifty years under emulation on some fuckfast portable the thickness of a sheet of paper that walks my dog, dresses me every morning and grinds up my food because I don’t have any teeth left.  And hopefully it won’t be running Windows.
+
+Later,
+Jason (March 17, 1997 4:39pm)
+#LOGOFF 1000
+Public Access Terminal 56-c<93.53.211.53>
+#ENDTERMINAL 1

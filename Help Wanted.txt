@@ -1,0 +1,162 @@
+Want to join in on the fun?
+
+Are you a programmer?  Aleph One 1.3 needs to become stable for distribution.
+M1 Redux relies on MML scripting to play level music, but there is a bug that
+crashes games on maps like this in the current stable release, which has been
+fixed in 1.3. Secondly, there is a much less important bug that causes sprites
+to clip through walls and floor when 3D models are in use under shader mode.
+
+Are you proficient with Forge/Weland?  Help me design missions to take place on
+the colony moon!  The Jjaro set is intended for use on the colony.  Or, take a
+map I've already done (currently only Bigger Guns Nearby) and improve it or work
+on lighting & texture alignment.
+
+Are you a 2-D artist?  Re-drawn chapter screens would be awesome!  As would be
+terminal art, especially for the rampant AIs and the Pfhor, for whom I'd like to
+have terminals in colour and more detailed than Leela's.  The title screen
+console needs a redraw, too. 
+
+Are you a writer?  I'd love to have some community-written terminals.  As yet
+the new plots are unplanned, so now is the time to propose your vision!
+
+Are you a 3-D artist?  You could work on scenery, items, or possibly even
+monsters- the Juggernaut especially could use a 3D treatment.
+
+Are you proficient with Lua?  I'd love for this scenario to take full advantage
+of Aleph One's capabilities, but I don't even know what is possible!  Right now
+I need someone to help port or create a floating HUD.  
+
+Are you a sonic artist?  How about some new sounds for the chapter screens?
+
+Just a player?  Tell me what you want improved, report bugs, point out mistakes.
+Point out to me where I've got a bouncy polygon, sticky line, or bad monster path,
+so I know where to go in Weland and fix it.
+
+Whatever your talents, remember to stay true to the aesthetic and spirit of the
+original games.  Let me know if you'd like to do any of the above or have any
+other ideas over on the Pfhorums or the Story Forum, I check them both daily:
+
+http://pfhorums.com/viewtopic.php?f=13&t=53510
+http://forums.bungie.org/story/?read=71178
+
+
+77777777777777777777777777777777777777777777777777777777777777777777777777777777
+
+The following is a list of object names, as they are used in M1 Redux, what M1A1
+uses for that slot if applicable, and what Infinity uses in that slot if
+different from M1 Redux.  See the "For Weland" folder for files you can use to
+make Weland use the right names for Redux.
+
+Marine Suit = x1 Energy
+Hunter Armour = x2 Energy
+Cyborg Powerup = x3 Energy
+Shock Staff = Shotgun
+Shock Staff Battery = Shotgun Shells
+Energy Converter = Door Key
+Repair Chip = Uplink Chip
+Trooper Gun = Submachine Gun
+Trooper Gun Magazine = Submachine Gun Magazine
+
+Looker Minor = Tick Energy
+Looker Silen = Tick Oxygen
+Looker Invisible = Tick Kamikaze
+
+Civilian Green = Crew
+Civilian Yellow Minor = Science
+Civilian Blue Major = Security
+Civillian Red = Tiny BoB
+
+Wasp Minor = Hummer Minor
+Wasp Major = Hummer Major
+
+Drone Minor = Hummer Big Minor
+Drone Major = Hummer Big Major
+
+Fighter Grey = Tiny Fighter
+
+Trooper Homing Minor = Cyborg Minor
+Trooper Homing Major = Cyborg Major
+
+Enforcer Minor = Cyborg Flame Minor
+Enforcer Major = Cyborg Flame Major
+Enforcer Tough Minor = Enforcer Minor
+Enforcer Tough Major = Enforcer Major
+
+Mother of all Hunters Minor = Mother of All Cyborgs
+Mother of all Hunters Major = Mother of All Hunters
+
+Drinnol Minor = Sewage Yeti
+Drinnol Grenade = Water Yeti
+Drinnol Grenade Major = Lava Yeti
+
+MADD Friendly = Defender Minor
+MADD Rampant = Hummer Possesed 
+
+Hound = Defender Major
+
+Battleroid Shotgun = Civillian Fusion Crew
+Battleroid Flamethrower = Civillian Fusion Science
+Battleroid Missile = Civillian Fusion Security
+Spht Controller = Civillian Fusion Assimilated
+
+Light Dirt
+Dark Dirt
+Marathon = M1A1 Paper = Bones
+Transport = Bone
+Probed Bob = M1A1 Alien Ship = Ribs
+Green Orb = Skull
+Globe Light
+Cluster Light
+Grey Orb = M1A1 Upright Barrel = Large Cylinder
+Electrosynth = M1A1 Upright Cylinder = Small Cylinder
+Dissected Bob = M1A1 Sideways Barrel = Block #1
+Pfhor Egg = M1A1 Sideways Cylinder = Block #2
+Hunter Suit = Block #3
+Pistol Clip
+Short Glass Light
+Long Blue Light
+Destroyable Radioactive Waste = Siren
+Rocks
+Blood Drops = M1A1 Biohazard
+Macerator = Filtration Device
+Leaking Radioactive Waste = M1A1 Alien Ship = Bloody Gun
+Bob Remains
+Puddles = M1A1 Comm Antenna
+Big Puddles = M1A1 Sideways Barrel
+Comm Antenna = M1A1 Upright Cylinder = Security Monitor
+Biohazard Crate = M1A1 Upright Barrel = Alien Trashcan
+Machine (now destroyable)
+Sideways Cylinder = Fighter's Staff
+Stubby Green Light = M1A1 Marathon
+Pointy Green Light = M1A1 Demon
+Paper = Junk
+Upright Barrel = M1A1 Upright Cylinder = Antenna #1
+Sideways Barrel = M1A1 Paper = Antenna #2
+Escape Pod = Alien Trashcan
+Upright Cylinder = Bones
+Alien Ship = M1A1 Upright Barrel = Big Bones
+Pfhor Pieces = M1A1 Sideways Barrel
+Bob Pieces = M1A1 Escape Pod
+Bob Blood = M1A1 Alien Ship
+Short Green Light
+Blue Diamond Light
+Dripping Green Light
+Bulbous Yellow Alien Object = M1A1 Dissected BOB
+Square Grey Organic Object = M1A1 Pfhor Egg
+Pfhor Skeleton = M1A1 Empty Armour
+Pfhor Mask = M1A1 Probed Bob
+Pfhor Blood = M1A1 Electrosynth
+Hunter Shield = M1A1 Green Orb
+Bones = M1A1 Marathon
+Alien Sludge = M1A1 Slave Transport
+Short Ceiling Light (now destroyable)
+Long Light (now destroyable)
+Safety Railing = Weird Rod (now destroyable)
+Pfhor Ship
+Sun
+Large Glass Container
+Nub #1
+Nub #2
+Planet
+Floor Whip Antenna
+Ceiling Whip Antenna

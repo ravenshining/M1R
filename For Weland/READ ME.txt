@@ -1,0 +1,7 @@
+These files from Weland's source have been modified to use M1R's names for monsters, items, and most importantly scenery.  For ease of converting M1A1 maps, an abbreviated corresponding M1A1 scenery item is given in parenthesis when present.  For example, if you find a "(sicyl) Big Puddles" in an M1A1 map, it would need to be changd to "(water) Sideways Cylinder" to work with M1 Redux.  Monsters are mostly the same, except for MADDs, the Alien Leader, and red BOBs.
+
+
+To use, place the two .glade files in the glade folder in your Weland source directory, and compile Weland.  You'll want to rename the resultant Weland executable to something different from your regular Marathon Infinity weland!
+
+These files are available under the GNU General Public License, see the file
+COPYING for details.

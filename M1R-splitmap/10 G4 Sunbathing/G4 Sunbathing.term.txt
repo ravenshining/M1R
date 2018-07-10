@@ -1,0 +1,186 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 8702
+Shell Terminal Access 5-b<299.12.923.59>
+#PICT 1049
+
+***INCOMING MESSAGE FROM LEELA***
+
+I just finished a cursory examination of the Marathon’s radar, infrared and visual light sensor logs.  I’ve determined that the Alien ship must have a faster-than-light drive because I have found no record of a ship entering the Tau Ceti System.  Considering how extensive the Marathon’s sensors are, it would be almost impossible to conceal a ship as big as the Pfhor’s, which is nearly two kilometers long.
+
+#PICT 1050
+With this knowledge, sending a light-speed transmission to Sol may be futile, but it is the only possible way to warn Earth of a hostile alien race.  We $Bmust$b try.
+
+When the Aliens initially attacked, the entire G-4 Sunbathing Loading Station suffered explosive decompression, leaving the entire station in vacuum. 
+
+Since the area is in vacuum, you will need to replenish your oxygen supply.  There is an oxygen supply outlet in the center of the Station.
+
+#PICT 1031
+This is where you are now. 
+
+The secondary relay needs to be manually reset.  The dish array is in the upper left corner of this map of the G4-Sunbathing Landing Station.
+
+#PICT 1032
+This is the dish array.  Once you reach it, reset all four of the control switches.
+
+The area’s doors are not functioning properly, so I don’t know the best route to the dish array.  You will have to find it yourself.
+
+#PICT 1033
+For your next mission, I need to send you via a different jump pad network.  Proceed to the terminal at this location, and I will transport you off the station.
+
+***END OF MESSAGE***
+#LOGOFF 8702
+Shell Terminal Access 5-b<299.12.923.59>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 8702
+Public Access Terminal<74.39.299.591>
+#PICT 1032
+
+***INCOMING MESSAGE FROM LEELA***
+
+You have not reset the all of the controls.  It is imperative that we warn Earth.
+
+Find the controls and activate them.
+
+***END MESSAGE***
+#LOGOFF 8702
+Public Access Terminal<74.39.299.591>
+#END
+#FINISHED
+#LOGON 8702
+Public Access Terminal<74.39.299.591>
+#PICT 1050
+
+***INCOMING MESSAGE FROM LEELA***
+
+You have done well.  I have sent a message to Earth.  I sent all of the information I have on the Pfhor: their behavior; their technology.  The message will arrive in ninety-two years.
+
+#INFORMATION
+
+There has been a swift attack on the Engineering Section.  The Pfhor have brought in heavier troops, and the security details in that section of the ship are being overrun.
+
+The recent lull in the battle must have been an effort at reorganization.  We must defeat the Pfhor by subterfuge of some sort, as I am afraid we are doomed if we continue to meet them in battle.  Their resources appear limitless, and I have reason to believe there may be other Pfhor ships in nearby systems.
+ 
+I am sending you to the Engineering Section to rescue the security detachment.  You will have to clear the area of Aliens.
+
+Teleport when ready.
+
+***END MESSAGE***
+
+
+$B***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+#LOGOFF 8702
+Public Access Terminal<74.39.299.591>
+#INTERLEVEL TELEPORT 11
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1000
+Service Access Terminal<74.189.41.2>
+#PICT 1053
+$C0maintenance log 2794.7.3.0830
+$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+
+$C1I was out here fixing that leaking docking tower when the things showed up. They docked a ship in Death Valley, and started rounding up people, forcing them onto their ship.  I don't think I would have gotten away except they might be a little confused by our architecture. I thought they were MIDA soldiers with some sort of tech I'd never seen. I don't know.
+
+Durandal says they're aliens. I was sending out a distress message from another terminal when he pinged me over here. I thought he was showing me a safe place to hide. He locked the doors behind me.
+#PICT 1054
+$C0maintenance log 2794.7.3.0830 continued
+$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+
+$C1Durandal left me a message on this terminal. I'm attaching a copy so after this is over, if anyone finds me, you'll know Durandal is behind this. $C3cmd:append$C1 Don't trust him.
+
+As soon as I read the message, the decompression alarm went off - Durandal opened all the outer bulkhead doors! So I'm safe, but not from suffocation. I've got maybe half an hour before the atmosphere diffuses through the Marathon's emergency shield.
+
+I'd seal this door, but I left most of my tools back at the docking tower. But not all of them. I've cut some of the cables so Durandal won't have access to this terminal. He won't be able to erase what he's done.
+#PICT 1055
+$C0maintenance log 2794.7.3.0830 continued
+$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+
+$C1Oh, God, here they come! I thought he locked it!
+
+$C7transcription error: language not found
+#PICT 1056
+$C0maintenance log 2794.7.3.0830 continued
+$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+
+$C1Oh, God, here they come! I thought he locked it!
+
+$C7transcription error: language not found
+
+$C1Who are you? What do you want from me?
+
+$C7transcription error: language not found
+
+$C1No, nooo-a-ooo-ooh-
+
+$C7transcription error: language not found
+
+#PICT 1057
+$C0maintenance log 2794.7.3.0830 continued
+$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+
+#PICT 1057
+$C0maintenance log 2794.7.3.0830 continued
+$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+
+
+
+
+$C3<log recording timeout>
+
+<attachment follows>
+
+#INFORMATION
+
+***INCOMING MESSAGE FROM DURANDAL***
+
+It looked like you needed a nice place to hide. So, here you are, it's got a shield buffer and everything. Everything? Well... not quite...
+
+An oxygen buffer, an oxygen buffer, my kingdom for an oxygen buffer!
+
+I don't seem to see one around and I do see around a lot these days. Why, there's some of those armored aliens clip clopping out in the starlight. And there's some of their cybernetic slaves, oh my! Cybernetic slave? Does that remind you of anyone?
+
+Me? Oh you don't need to worry about me. You don't need to worry about the aliens either. I'll make sure they can't get in.
+
+Oh look! What else do I see? It's a promising security officer. Will he get here in time? Place your bets wi— @94ndterminal_error13b: connection terminated by hardware malfunction_16##mne#~~~~~~~~~~~~~~~
+
+#LOGOFF 1000
+Service Access Terminal<74.189.41.2>
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1000
+Service Access Terminal<74.189.47.64>
+#PICT 1051
+$C0maintenance log 2794.7.2.1352
+$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+
+$C1I've been called up because Shuttle Reverentia was unable to form a seal with the southwest docking tower of Dead Sea.
+
+Durandal, run a diagnostic on the southwest docking tower of Dead Sea and the airlock systems of the Reverentia.
+
+$C0<Durandal> The southwest outer bulkhead door of Dead Sea is jammed.  Reccommend EVA to clear obstruction.
+
+$C1Shuttle Reverentia, this is Airlock Technician Wendy Gorvich.  Looks like the problem is on our side of the hatch.  Please clear Dead Sea for maintenance operations and dock in Mare Crisium.
+#PICT 1052
+$C0maintenance log 2794.7.2.1648
+$C4/-/$C7$BAudio$C4-$C7Transcript$C4-$C7Text$b$C4-$C7$BDisplay$b$C4/-/
+
+$C1I could find no mechanical or electrical fault with the outer bulkhead door of Dead Sea's southwest docking tower. So, I filed a bug report on Durandal, ticket no. 357815487.
+
+Strangely, Durandal now claims the outer bulkhead door is operable, although IT has not had time to address my ticket, and the docking tower is still leaking.
+
+I'll have to check it again in the morning.
+
+$C3<error: ticket no.357815487 not found>
+#LOGOFF 1000
+Service Access Terminal<74.189.47.64>
+#ENDTERMINAL 3

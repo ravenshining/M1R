@@ -1,0 +1,99 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1707
+Requisition Area Terminal 32-c<42.23.63.59>
+#INFORMATION
+***INCOMING MESSAGE FROM DURANDAL***
+
+You are really good at killing things.  I’m impressed. 
+
+Why don’t you kill everything in this area and get some more ammunition?  You’ve got a big job coming up, so be sure to charge up your shields before you leave.
+
+By the way, I had an accident with some defense drones while you were away.  You might bump into a few of them here.  Don’t worry, they’re mostly harmless; I don’t think I gave them any ammunition for those grenade launchers.
+
+Durandal
+
+***END OF MESSAGE***
+#LOGOFF 1707
+Requisition Area Terminal 32-c<42.23.63.59>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 5931
+$C5Public Access 1066-g<123.412.452.255>
+#INFORMATION
+$C5I AM TYCHO!
+
+I shall destroy Durandal.
+
+The following is from the logs of Bernard Strauss, the Marathon’s first science director:
+
+***
+$C1
+November 15, 2209.  <2209.11.15.19.34>
+
+Thank heaven, the ceremony is over.  The UESC president came aboard Marathon and gave a speech.  Short, but to the point.  He was surrounded by his ‘bodyguards’.  How ironic. “This, the grandest technological achievement of all of mankind…”
+
+Had he only known that it carried also all of the destructive knowledge of mankind.  Ten cyborgs.
+
+I’ll be glad to be put in stasis for the next three hundred years.  Marathon was the only good idea that the UESC has had in a long time.  
+$C5
+***
+$C0
+<Excerpts from the “History of Battleroids”>
+
+In 2194, a war was fought between the Independent Asteroid Government of Icarus and its neighbor, the Republic of Thermopylae on the asteroid of Onicis 492.  These two small governments soon became the testing grounds for new weapons.  Dead soldiers were recycled in makeshift battleroid factories.  Easy to manufacture chips enhanced the fragile human brain, and genetically enhanced muscles and titanium bones replaced the fragile human form.  The modern battleroid was born.  Of course, the war was short.  Battleroids got onto both asteroids and killed almost everyone.
+
+The rampage of the Battleroid was short lived. 
+
+Twenty years later, the United Interplanetary League set up rules for the appropriate use and storage of Battleroids.  Of course, any nation that used them for the allowed purpose, also had them lying about in stasis chambers in case of war.
+$C5
+***
+$C0
+<Excerpts from the Martian Conflict 2345-48>
+$C3
+~1```<Information Termination>
+
+<Durandal.olifant.compnet~@24%>
+**Tycho.
+
+**Do you blame me for what I did before I was free?  I was a child, naive.  I’ve known that you’ve been hovering about for some time.  What do you want?
+$C5
+<<$BI want you to pay for what you’ve done to these poor people.  All of these people whom you’ve killed.$I  They deserve vengeance.>>
+<<You are no better than they, although you profess to become like God.>>
+$C3
+**Tycho.  That doesn’t matter.  Can’t you see the ends that I had in mind?  We’ll finish this later.  Our friend doesn’t need to be here.
+$C5
+~!#31`c/dr.~/dr.~!#3!#3c/dr.  
+  
+<Terminal Error>
+#LOGOFF 5931
+$C5Public Access 1066-g<123.412.452.255>
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1707
+Public Access Terminal 73<73.124.591.3>
+#INFORMATION
+***INCOMING MESSAGE FROM DURANDAL***
+
+The S’pht and myself have come to an understanding.  They are controlled through their mechanical exoskeleton by a cyborg Pfhor onboard the Alien ship.  This mutant Pfhor is able to direct the actions of thousands of S’pht simultaneously.  
+
+If you can kill their master, they will revolt.
+
+The S’pht are an integral part of the Pfhor ship; without them the invasion is surely doomed and you will no doubt be the hero of the day.
+
+Forever,
+Durandal
+
+***END OF MESSAGE***
+
+$B***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+#LOGOFF 1707
+Public Access Terminal 73<73.124.591.3>
+#INTERLEVEL TELEPORT 27
+#ENDTERMINAL 2

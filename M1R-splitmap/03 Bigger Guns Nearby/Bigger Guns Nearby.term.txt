@@ -1,0 +1,162 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 8702
+Level 29-b Section 10 Public Access Terminal<102.21.521.146>
+#PICT 1043
+***INCOMING MESSAGE FROM LEELA***
+
+I am now in contact with a number of colonists planetside, but their reports on the situation below are conflicting and obviously exaggerated.  The primary medium-range radio antenna has been disabled or destroyed, which makes communication extremely difficult.
+
+#PICT 1042
+
+The only thing which seems clear is that the spaceport was obliterated by low-yield nuclear weapons minutes after the attack on the Marathon began.  This I can verify through my own optical instruments.
+
+The invaders seem to be more interested in the Marathon than the colony, at least in the short term.  The motives behind their unprovoked attack are still unknown, however.
+
+#PICT 1005
+
+If we are to repel these invaders, I need you to be better armed.
+
+Here is the computer terminal you are using now.  I cannot teleport you out of this section from here, so you will have to leave from a jump-pad equipped terminal once you're done here.
+
+#PICT 1006
+
+I've located a free M.75 Assault Rifle/Grenade Launcher and ammunition at this location.  When firing on the fully automatic setting this weapon is highly inaccurate, but the grenades hit hard and it’s the best we can do right now.  Ammunition may be scarce for a while, so be prepared to fall back to your pistol or scavenge what you can off the Aliens.
+
+#PICT 1007
+
+Here is the terminal you must reach to leave this section.  Alien infiltration of this area is high; proceed with caution.  You may find doors blocked, stairways retracted, or oxygen stations malfunctioning on the way, because the AIs in control of these functions are damaged and behaving erratically.
+
+The BioVent core's macerators are still running, so stay off the bottom if you must venture through them.
+
+***END OF MESSAGE***
+#LOGOFF 8702
+Level 29-b Section 10 Public Access Terminal<102.21.521.146>
+#END
+#FINISHED
+#LOGON 1000
+Level 29-b Section 10 Public Access Terminal<102.21.521.146>
+#PICT 1045
+
+Marathon Internal Engineering Documents
+Section 7-b
+
+$IFigure 7.13$i
+
+$B.45 Magnum Mega Class$b
+
+Standard Issue for all security officers and active duty field personnel. Utilizes 8-shot clips of .45 caliber high velocity, vacuum enabled teflon rounds (teflon maintains stable flight for accuracy). Titanium construction results in a sturdy, reliable, light weight firearm.
+
+#PICT 1044
+
+Marathon Internal Engineering Documents
+Section 7-b
+
+$IFigure 7.14$i
+
+$BM.75 Assault Rifle With Grenade Option$b
+
+Fires 600 rounds per minute of .75 caliber shells. Standard clip holds 52 rounds of high velocity ammunition. Also fires M-class ultra-high yield grenade cartridges. Grenade clips hold 7 rounds. M.75 Ammunition is neither vacuum enabled nor teflon coated, and due to a manufacturing defect is highly inaccurate at long range.
+
+#PICT 1008
+
+<$BSpurious Interrupt$b>
+
+$B<Alert>$b
+Security Breach at <12.53.2111.42>
+#LOGOFF 1000
+Level 29-b Section 10 Public Access Terminal<102.21.521.146>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1000
+Public Access Terminal 2362-d<12.53.2111.42>
+#INFORMATION
+<$BUnauthorized access$b-alarm 2521->
+<Security Breached 2362-d<12.53.2117.42>->
+
+Marathon Internal Engineering Documents 
+Section 1-c appendix H
+
+Subject: Doors
+By:  Estasia Orestes, Dominick I. Plackar, and Ursa Simbalzi
+Date: <2402.03.23.16.42>
+
+There are five basic door designs to be used on the Marathon:
+1. Outer Bulkhead Doors
+2. Airlock Doors
+3. Inner Bulkhead Doors
+4. Tertiary or Inner Sealed Non-Vacuum Safe Doors
+5. Quaternary or Inner Powered Automatic Opening Doors
+
+Direct control of all doors except the Tertiary and Quaternary doors will be given to Durandal with indirect control of all other doors going to Durandal.  The difference between direct and indirect control primarily has to do with the manner of opening the doors.  Durandal will only open a directly controlled door when he is specifically asked to do so.   Indirectly controlled doors are automatically controlled by Durandal to open when needed.  
+
+However, due to the expense involved with adding thermal and visual spectrum sensors to the Tertiary and Quaternary door groups, these doors will be minimally used.  The expected savings of not using this extra sensory input is estimated to be fifty-seven percent of the base cost of the basic inner bulkhead door.
+
+The types of doors are all basically the same with some slight variations.  The doors in classes 1 and 3 are the same doors classified separately to distinguish between the level of safety checking required to assure acceptable leakage.  The airlock doors are specifically modified to work with manual and remote activation switches.  Airlocks are all to be marked with a specific airlock symbol and to be outfitted with an air recharge system.
+
+The tertiary and quaternary doors are designed exactly as the bulkhead doors, but are checked coarsely for air leakage.
+
+This article as well as articles 530-f and 532-g on windows and elevators respectively will be placed for public access in the Marathon Internal Engineering Documents section 1-c appendix H.
+<$BSpurious Interrupt- Breach Disabled$b>
+<$BFurther Access Denied$b>
+
+#PICT 1008
+
+$B<Alert>$b 
+$BSecurity Breach at Terminal 2362-d$b<12.53.2111.42>
+#LOGOFF 1000
+Public Access Terminal 2362-d<12.53.2111.42>
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 8702
+Public Access Terminal <101.532.74.95>
+#PICT 1047
+
+***INCOMING MESSAGE FROM LEELA***
+
+Good work clearing this section of the Aliens.  However, you have not picked up the assault rifle.  It is essential that you properly arm yourself as soon as possible.
+
+There is a circuit breaker at this location.  Resetting it will create a surge that should cycle the warehouse doors, but may damage some equipment in the area.
+
+#PICT 1006
+
+That should clear the way for you to retrieve the assualt rifle from this room.
+
+Return here when you have the assault rifle.
+
+***END OF MESSAGE***
+
+#LOGOFF 8702
+Public Access Terminal <101.532.74.95>
+#END
+#FINISHED
+#LOGON 8702
+Public Access Terminal <101.532.74.95>
+#PICT 1700
+
+***INCOMING MESSAGE FROM LEELA***
+
+The Marathon’s automated defenses were disabled during the initial attack by a directed magnetic pulse.  The aliens used the same weapon to disable the Marathon’s other two AIs, Durandal and Tycho, and to severely damage myself.
+
+Durandal is responsible for controlling the ship’s autonomous functions: doors, life support, kitchens, air reprocessors, stairs, and so on.  Because he is non-functional, I am working to assume as many of these tasks as possible.  Tycho controls the science and engineering network.
+
+#PICT 1048
+
+Now that you are better armed, our first priority is to reactivate the Marathon’s defenses, under my control, so that we may offer some resistance to the aliens.  I have built three replacement circuit boards for the defense system, but cannot move them from the manufacturing center without assistance.
+
+I will now transport you to retrieve the replacement parts, and will give you further instructions when you arrive.
+
+
+***END OF MESSAGE***
+
+$B***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+#LOGOFF 8702
+Public Access Terminal <101.532.74.95>
+#INTERLEVEL TELEPORT 4
+#ENDTERMINAL 2

@@ -1,0 +1,40 @@
+
+<Unauthorized access-alarm 9815->
+<Security Breached 7961-j<59.678.12.3>-
+
+Marathon Internal Engineering Documents
+Section 1-c Appendix H
+
+Subject: Platforms, Lifts, and Elevators
+By: Estasia Orestes, Ursa Simbalzi, and Yelen Lasa
+Date:<2402.03.28.18.11>
+
+While there are many types of platforms in terms of purpose (light crew elevator, heavy cargo lift, light cargo lift, vehicle repair platform, etc.), in terms of engineering there are two main types of platforms, hard schedule and soft schedule.
+
+Hard schedule platforms are those whose speed and extents are mechanically determined by the hardware of the platform. Typically hydraulic, there is no way to modify their behavior save by an emergency stop. Soft schedule platforms are those platforms whose speed and extents can be modified by technicians or by Durandal. The typically electromagnetic hardware of soft schedule platforms is designed to be capable of multiple states with no hard locks.
+
+Without proper supervision by Durandal or a qualified technician, a soft schedule platform could rise high enough to crush cargo or a crewmember against the ceilling; alternatively it could sink low enough to bring cargo or crewmembers deep into the floor for storage. This is why the use and adjustment of soft schedule platforms must be performed, tested, and monitored by Durandal or a qualified technician.
+
+All platforms are overseen digitally by Durandal, with Durandal having direct control over soft schedule platforms. Should Durandal be down for maintenace, soft schedule platforms are programmed with rudmentary safe operation software. Additionally, hard schedule platforms are outfitted with physical safety measures in case of mechanical failure. As soft schedule platforms do not require dedicated mechanical safety features, they are significantly less expensive than hard schedule platforms and shall be installed in preference to them whenever possible.
+
+In addition to having digital access to platforms, Durandal will also have thermal and visual spectrum sensor to survey platforms in sensitive or secure areas. Visual confirmation of user will be required for Durandal to give access. Because of Durandal's supervision, minimal security presence will be required in these areas.
+
+This article as well as articles 530-f and 531-b on windows and doors respectively will be placed for public access in the Marathon Internal Engineering Documents section 1-c appendix H.
+<Spurious Interrupt- BreachDisabled>
+<Further Access Denied>
+
+
+{{~~~``xtttxx~~~`~wwww7~~eimos into the Marathon continued so did the unrest and resentment on Mars. In a tone deaf attempt to spin positive PR, the administration behind Marathon's construction announced that the colony ship would be outfitted with three top-of-the-line AI. This backfired in two ways. First, it was viewed as the Earth government once again flaunting their wealth and power in the face of Martian poverty. Second, there was an immediate call from Martian citizens asking for these AI to be installed on the planet's computer networks to help build the colony back up to healthy standards. This was suggested with the understanding that the AI would be transferred to the Marathon once its construction was completed.
+
+However, this demand was refused as the Martian computer network posed a Rampancy risk due to its size and lack of safeg$$$$$$..as9as....#^^)):}}{____
+
+((~t---Be---rauss&&&HRR**SS#&&1i1901ne of the touted features was placing Durandal in total control of mechanical equipment such as platforms, lifts, and doors. The claim was that with Durandal overseeing these things there would be no need for mechanical safety features or diagnostic software, resulting in extensive savings from the Marathon's construction budget.
+
+Having Durandal in control would make it possible to have lifts automatically adjust to various loads for maximum efficiency. As an example, an engineer could step onto a cargo lift and Durandal would raise the lift at a comfortable speed and bring it to an exact stop two metres below the ceiling. Alternatively, someone could place cargo on that same lift and Durandal could raise the platform at a much higher rate of speed to one metre below ceiling height for easy unloading.
+
+%^~~~ touted by the administration as a user friendly time saver, i* *a* **-v-l- --i/i//z/d--+r b i g+ ++ec+**a/y// //ul`i`` `` ``a`g```u`::engineers and maintenance staff pointed out that if anything happened to Durandal, or to his connection to the network, that the equipment would become unusable at best and fatal at worst.
+
+==-r--p-9s90-t---M--a09on'*-a**-n+s+*a/i// /l/i/-+ +h+ 1o``l1i``22w2r4 44s4 fe44 4ong-r=-= =n&&resentment due to a lack of understanding of current AI technolo-=-=-=-=a--m-n--w-s -+d+ +++t9t--r+ +a++no_chanCe of system failure, and/-f+a+y+h++g-d-+ +a-+e/ *8 59+a*d*5 5h9* t*e**-h=r=t--=M=r=-h==-A00c=-l= =-k=--0090h-9 9u--0s--i0h9little affect on t-*-r*-r+cessing load.
+
+~!@~!#~#~!!!!!!!~~~~~~!!~!~!!!!!!!!!@}}}{!fatal error>
+<terminating connection>

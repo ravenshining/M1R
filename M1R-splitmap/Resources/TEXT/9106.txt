@@ -1,0 +1,1 @@
+<marathon><!-- Niebla Azul --><opengl><fog on="true" type="0" depth="6"><color red="0" green="0" blue="0.1"/></fog></opengl></marathon>

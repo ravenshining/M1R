@@ -1,0 +1,1 @@
+<marathon>  <overhead_map>    <assign_live monster="20" type="-1"/>    <assign_live monster="13" type="-1"/>    <assign_live monster="14" type="-1"/>  </overhead_map></marathon>

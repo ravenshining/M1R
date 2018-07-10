@@ -1,0 +1,104 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 8702
+@collection#593!=394<FC1.EA1.0395.AF6C>
+#INFORMATION
+
+$Bwarning (#157) symbol 'enterITask' is not marked as weak, 
+but its library 'ioTask' is
+warning (#157) symbol 'killITask' is not marked as weak, 
+but its library 'ioTask' is
+warning (#157) symbol 'newITask' is not marked as weak, 
+but its library 'ioTask' is
+warning (#157) symbol 'statusITask' is not marked as weak, 
+but its library 'ioTask' is
+warning (#157) symbol 'idleITask' is not marked as weak, 
+but its library 'ioTask' is
+error (#81) symbol 'exitITask' undefined
+execution of interface.cout.term.pub terminated$b
+
+(*&)&
+~~~~~~&>%*{The colony has been wiped out.  Phhht! Just like that.hpe~~jy658[69l[il[70l
+-0oli77765~~uI%OI&%
+UHL^U_3kg
+he Pfhor are sla``vers.  Their trading empire``````~ rose to prominence soon afterwe!!~eft Earth over three hundred years ago.  ~~The Pfhor make 
+
+extensive use of subservient client races for man``u`~~~al labor at home and as soldiers abroad.  Most of their slaves are taken$Iee$i from low-technology worlds~~~~~~~l1p, often by the hundreds of 
+$^U*^*ILJEHJ~~~~~~~asfgk]86
+87;o hairless light-skinned bipeds, nearly two meters in height, with three red eyes arranged in a triangular patter\];POP""
+];R+IP+2441`4`
+thousands at a tim`~~~e, usually for sale to high-technology races.
+
+$@^(`~~~~~~hough certain client ~`races are often employed as soldiers$I]\6f~fxf`~~fx!~$i, the Pfhor have no reluctance to fight.
+
+<leela.wirehead.870229//b7>
+
+Finish the battle
+#LOGOFF 8702
+@collection#593!=394<FC1.EA1.0395.AF6C>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 8702
+Public Access Terminal 480-a<3.56.7.128>
+#INFORMATION
+***INCOMING MESSAGE @1``#64 LEELA***
+
+Must defeat Pfhor.  <Core reformatting commencing>  Pfhor ar3 breathing last t#@596..
+
+Finish them.  
+
+***END OF MESSAGE***
+#LOGOFF 8702
+@collection#593!=394<FC1.EA1.0395.AF6C>
+#END
+#FINISHED
+#LOGON 8702
+@collection#593!=394<FC1.EA1.0395.AF6C>
+#INFORMATION
+
+***INCOMING MESSAGE FROM LEELA**
+
+I should be more lucid now, and apologize for my earlier rambling.  Durandal’s meddling has run its course and I have returned to normalcy.  Neither he nor the S’pht infiltrators ever discovered my real location in the core, and though they destroyed nearly all of my child processes, I myself am unharmed.
+
+Our most pressing concern is for the ship and her crew, but I feel compelled to share with you that Durandal has left the ship.  I can find him nowhere on our network, and traffic logs over the last half hour show sixty-four billion exobytes transferred off of and deleted from the Marathon.
+
+I am only beginning to understand his motives for assisting us against the Pfhor, and am terrified by their implications.
+
+There is one last major incursion, and I feel the Pfhor are breaking.  I will take you there.  We must persevere.
+
+*** PREPARE FOR TRANSPORT ***
+
+***END MESSAGE***
+
+$B***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+#LOGOFF 8702
+@collection#593!=394<FC1.EA1.0395.AF6C>
+#INTERLEVEL TELEPORT 36
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1000
+BUNGIE HEADQUARTERS, CHICAGO
+#INFORMATION
+
+*** INCOMING MESSAGE FROM BUNGIE ***
+
+Here are some cool things to try if you never figured them out:
+
+• $IAir Pfhor.$i  Whenever shooting at anything with explosive munitions, aim at their feet.
+• $IHang Time$i.  Point down at the floor, run forwards, and launch a grenade or missile.
+• $IFlying$i.  When in low-gravity on the alien ship, point down and use the flamethrower or the alien weapon to “fly.”
+• $IClimbing Walls$i.  Correct application of grenades to one’s own feet while running parallel to a wall can allow players to “climb” them.
+• $IDead Man’s Discharge$i.  A charged fusion pistol discharges when it’s owner dies.
+• $INigh-Invulerability$i.  “Invincible” players can be hurt by the fusion gun.
+• $IWe Have Tone$i.  Guided munitions can’t track invisible players.
+
+There are some other things, too, but we wouldn’t want to give away $Iall$i our secrets…
+#LOGOFF 1000
+BUNGIE HEADQUARTERS, CHICAGO
+#ENDTERMINAL 2

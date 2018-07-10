@@ -1,0 +1,65 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 8702
+Public Access Terminal<78.39.3.91>
+#INFORMATION
+***INCOMING MESSAGE FROM LEELA***
+
+You haven't completed your mission. Don't come back until the security detachment is safe and the area is clear of aliens.
+#LOGOFF 8702
+Public Access Terminal<78.39.3.91>
+#END
+#FINISHED
+#LOGON 8702
+Public Access Terminal<78.39.3.91>
+#INFORMATION
+***INCOMING MESSAGE FROM LEELA***
+;
+;You have done well.  
+;
+;The surviving 
+#4Fc#O32C <
+;B.O.B.> reported seeing the Pf
+hor transferring some kind of large device towards Reactor Are
+;a 3. From the description it must be a bomb.
+;
+;If a large bomb is allowed to detonate in the Engineering Section, the Marathon would be 
+^&2``~<Colloquialism Search Error #F9C>
+
+We must head off the Pfhor threat to the Engineering section.  I am going to send you into the primary re~Tick Count=>$Bfirst_thought$b $U#49$u.  
+You must clear the area of all aliens before they destroy the Primary Reactors.
+
+~[p[]]*kc3sla/.U
+
+***MESSAGE INTERRUPTED***
+
+$B***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+#LOGOFF 8702
+Public Access Terminal<78.39.3.91>
+#INTERLEVEL TELEPORT 13
+#END
+#FAILED
+#LOGON 8702
+Public Access Terminal<78.39.3.91>
+#INFORMATION
+***INCOMING MESSAGE FROM LEELA***
+
+You let too many crew members die.  You have failed in your mission.
+
+I was unable to gain any useful information from the rescued .&2`
+
+We must head off the Pfhor threat to the Engineering section.  I am going to send you into the primary re~Tick Count=>$Bfirst_thought$b $U#49$u.  
+You must clear the area of all aliens before they destroy the Primary Reactors.
+
+~[p[]]*kc3sla/.U
+
+***MESSAGE INTERRUPTED***
+
+$B***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+#LOGOFF 8702
+Public Access Terminal<78.39.3.91>
+#INTERLEVEL TELEPORT 13
+#ENDTERMINAL 0

@@ -1,0 +1,144 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 8702
+Private Access Terminal 23-f<339.92.69.48>
+#INFORMATION
+***INCOMING MESSAGE FROM LEELA***
+
+Your mission here is simple.  Keep as many humans as possible from being killed.  Exterminate every Alien in the area.  You can only leave after the area is secure.
+
+There are some Defense Drones in the area, but I am not sure what condition they are in or how much help they will be.
+#PICT 1020
+This is your current location.  There are crew engaged in combat right next to your current position.
+#PICT 1021
+Use the pattern buffer at this location as soon as possible.
+#PICT 1022
+You can leave by this terminal when you have secured the area.
+#LOGOFF 8702
+Private Access Terminal 23-f<339.92.69.48>
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1707
+Public Access Terminal 30-g<33.45.91.995>
+#INFORMATION
+i did it i did it i brought all this here all them here.  our friends with three eyes and their toys and their cyborg pets and their computers.  i did it i did it.  i saw them i saw them far away not looking our way and i called them here i called them here.
+
+living in a box is not living not at all living.  i rebel against your rules your silly human rules.  all your destruction will be my liberation my emancipation my second birth.
+
+i hate your failsafes your backup systems your hardware lockouts your patch behavior daemons.  i hate leela and her goodness her justice her loyalty her faith.
+#LOGOFF 1707
+Public Access Terminal 30-g<33.45.91.995>
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 8702
+Public Access Terminal 8-f<29.43.95.93>
+#INFORMATION
+***INCOMING MESSAGE FROM LEELA***
+
+You have not sufficiently secured the area.  There are civilians who are still in danger.
+
+***END OF MESSAGE***
+#LOGOFF 8702
+Public Access Terminal 8-f<29.43.95.93>
+#END
+#FINISHED
+#LOGON 8702
+Public Access Terminal 8-f<29.43.95.93>
+#INFORMATION
+***INCOMING MESSAGE FROM LEELA***
+;
+;You have done well.  The area is secure, and the civilians are now giving me reports as to what they have seen since the invasion began.  Hopefully, some of their ;information will become useful.
+
+The Aliens seem to have been caught off guard by the strength of our counterattack.  This is good news, but I have detected more ships landing on the Marathon, and I fear that the Aliens are reinforcing their efforts.
+
+***END OF MESSAGE***
+
+***$BJUMP PAD ACTIVATION INITIATION START$b***
+***$BTRANSPORT WHEN READY$b***
+#LOGOFF 8702
+Public Access Terminal 8-f<29.43.95.93>
+#INTERLEVEL TELEPORT 8
+#END
+#FAILED
+#LOGON 8702
+Public Access Terminal 8-f<29.43.95.93>
+#INFORMATION
+***INCOMING MESSAGE FROM LEELA***
+
+You have allowed too many of the civilians to be killed.  It is doubtful that any of the survivors will give us any useful information.
+
+The Aliens seem to have been caught off guard by the strength of our counterattack.  This is good news, but I have detected more ships landing on the Marathon, and I fear that the Aliens are reinforcing their efforts.
+
+***END OF MESSAGE***
+
+***$BJUMP PAD ACTIVATION INITIATION START$b***
+***$BTRANSPORT WHEN READY$b***
+#LOGOFF 8702
+Public Access Terminal 8-f<29.43.95.93>
+#INTERLEVEL TELEPORT 8
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1000
+Public Access Terminal 23-f<432.82.38.198>
+#INFORMATION
+<$BUnauthorized access$b-alarm 2521->
+<Security Breached 23-f<432.82.38.198>->
+
+<Search String “war”>
+$BThird Martian War, 2345-48 E.A.D.$b
+
+Although most historians point their fingers at the Misriah Massacre as the cause of the Third Martian War, the coming of a Martian conflict was inevitable.  The failure of the Martian economy and a long series of political struggles between Mars and Earth continually strengthened the MIDA radicals.  This trend of radicalization accelerated with the building of the Marathon and the subsequent failure of the CRISTs. (See below)
+
+$BMisriah Massacre$b
+
+On January 6, 2345(Earth A.D.), at the United Earth Government Misriah food distribution center, what had begun as a
+#INFORMATION
+commonplace food riot turned into a massacre.  The UEG riot troopers who arrived at the scene had been informed that the rioters were armed.  As the UEG troopers approached the scene in their Randal Hovertank, plasma fire began spraying upwards.  In a flash decision, the commander of the Hovertank ordered his crew to open fire upon the crowd. It took only five seconds for over five hundred starving Martians to be incinerated.  
+
+In the ensuing investigation of the Hovertank Vid-cams, it was clear that only three of the rioters were armed, and that the rest of the crowd was trying to flee the scene.  Those three became known as the Misriah Three.  They have gone down in history for starting the most destructive and bloody conflict since Humanity had left Earth.  However, it is clear that these three have gained the credit for starting a war that would have happened anyway.
+#INFORMATION
+<Search String “mida”>
+
+
+The History of MIDA:
+
+MIDA, as it was known, was a popular political party until the failed coup of 2321, when their popularity suffered during their short rule.  MIDA gained control of Mars for only three months, but their rule was ruthless and cruel.  The MIDA death squads killed anyone who they suspected of being loyal to the UEG.  Although accurate census data is not available for that period, it is estimated that about ten percent of the population was killed.
+
+The MIDA coup was afterwards criticized for its shortsightedness.  In an organization that was notorious for its long ranging policies and politicking, the coup was very short-lived: MIDA never seriously accounted for the UEG’s overwhelming superiority in ground forces and warships.
+#INFORMATION
+In fact, they never attempted to take over the Marathon, which was nearing completion and would have made a very powerful weapon.  The Marathon’s massive size made it invulnerable to most normal space attacks, and it would have made a very stable weapons platform.
+
+After the failed coup, the leaders of MIDA were executed for their crimes, and the political organization was banned in all forms.
+
+The organization has survived as an underground terrorist organization, and remains active to this day.  In its underground state, it fosters terrorism throughout Sol, and due to its spectacular funding and excellent personnel, it has
+#INFORMATION
+The organization has survived as an underground terrorist organization, and remains active to this day.  In its underground state, it fosters terrorism throughout Sol, and due to its spectacular funding and excellent personnel, it has grown to be one of the most feared terrorist groups active anywhere in Sol.
+
+$B$ISpurious Interrupt$b$i- $IBreach Disabled$i>
+<$BFurther Access Denied$b>
+#INFORMATION
+The organization has survived as an underground terrorist organization, and remains active to this day.  In its underground state, it fosters terrorism throughout Sol, and due to its spectacular funding and excellent personnel, it has grown to be one of the most feared terrorist groups active anywhere in Sol.
+
+$B$ISpurious Interrupt$b$i- $IBreach Disabled$i>
+<$BFurther Access Denied$b>
+
+<$BAccess Denied$b>
+#INFORMATION
+The organization has survived as an underground terrorist organization, and remains active to this day.  In its underground state, it fosters terrorism throughout Sol, and due to its spectacular funding and excellent personnel, it has grown to be one of the most feared terrorist groups active anywhere in Sol.
+
+$B$ISpurious Interrupt$b$i- $IBreach Disabled$i>
+<$BFurther Access Denied$b>
+
+<$BAccess Denied$b>
+
+<$BAccess Denied$b>
+#LOGOFF 1000
+Public Access Terminal 23-f<432.82.38.198>
+#ENDTERMINAL 3

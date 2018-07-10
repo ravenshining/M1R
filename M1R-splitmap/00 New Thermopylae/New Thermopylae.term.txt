@@ -1,0 +1,26 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1000
+Welcome to the Marathon 1 Redux alpha
+#PICT 6000
+The prolouge levels, which will contain the backstory as relayed in the Marathon manual and other sources, have not yet been constructed.  In fact, I would currently only call one level, Bigger Guns Nearby, complete.  Continue on this terminal, and you will be taken straight to Bigger Guns Nearby.
+
+Remaining levels are included for testing and to ensure consistency in teleportation. Escape out of this term and use the terminal opposite to proceed through the scenario normally.
+#LOGOFF 1000
+Have fun!
+#INTERLEVEL TELEPORT 3
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1000
+Welcome to the Marathon 1 Redux alpha
+#PICT 6000
+The prolouge levels, which will contain the backstory as relayed in the Marathon manual and other sources, have not yet been constructed.  In fact, I would currently only call one level, Bigger Guns Nearby, complete.  Escape out of this term and use the terminal opposite to go there.
+
+Remaining levels are included for testing and to ensure consistency in teleportation. Continue on this terminal to proceed through the sceanario normally.
+#LOGOFF 1000
+Have fun!
+#INTERLEVEL TELEPORT 1
+#ENDTERMINAL 0
