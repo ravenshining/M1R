@@ -51,8 +51,8 @@ Public Access Terminal 8-f<29.43.95.93>
 Public Access Terminal 8-f<29.43.95.93>
 #INFORMATION
 ***INCOMING MESSAGE FROM LEELA***
-;
-;You have done well.  The area is secure, and the civilians are now giving me reports as to what they have seen since the invasion began.  Hopefully, some of their ;information will become useful.
+
+You have done well.  The area is secure, and the civilians are now giving me reports as to what they have seen since the invasion began.  Hopefully, some of their information will become useful.
 
 The Aliens seem to have been caught off guard by the strength of our counterattack.  This is good news, but I have detected more ships landing on the Marathon, and I fear that the Aliens are reinforcing their efforts.
 
