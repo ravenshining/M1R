@@ -13,26 +13,6 @@ edafc79 2018-07-07 alien weapon learning curve physics & rebellion
 ad21904 2018-07-07 version bump
 27c68b3 2018-07-07 version bump
 356b82b 2018-07-07 pfhor starscape & term fix
-c52c63a 2018-07-06 merging scenario, netmaps, placeholders; physics fixes
-5f1f1b2 2018-07-05 BoB fixes
-2d3fc61 2018-07-02 why not netmaps
-cb20bef 2018-07-01 revamped Mirata & Arrival CS & better rampant tycho logon
-d8ab9d7 2018-07-01 yay marking more things done
-ae82904 2018-06-30 blargh whole scenario schlepping
-be60ce4 2018-06-30 DT tycho assimilation & BQ rebirth
-2de1597 2018-06-30 NBM tycho & durandal degredation
-cd59d68 2018-06-30 demo 'fire' text as finished message
-050a672 2018-06-29 logon logo alignment
-9cf18c0 2018-06-29 wider maze for coop, switch improvage
-b0d334d 2018-06-29 beta skitter & sensor
-e8dfd81 2018-06-27 pulling in music while I've got unlimited internet
-5071f9b 2018-06-27 pulling in Pfhor textures while I have unlimited internets
-922109d 2018-06-27 pulling in CH's music to WAB
-30ee46b 2018-06-25 BBQ, rescue bandaid, term stuff, & merge
-eb7b14f 2018-07-07 alien weapon learning curve physics & rebellion
-8b7d030 2018-07-07 version bump
-371f9d6 2018-07-07 version bump
-b235d13 2018-07-07 pfhor starscape & term fix
 55d959f 2018-07-06 merging scenario, netmaps, placeholders; physics fixes
 7757d2e 2018-07-05 BoB fixes
 0417bcb 2018-07-02 why not netmaps
@@ -48,6 +28,7 @@ d2b2947 2018-06-29 logon logo alignment
 fcfc422 2018-06-27 pulling in music while I've got unlimited internet
 f866cce 2018-06-27 pulling in Pfhor textures while I have unlimited internets
 b850315 2018-06-27 pulling in CH's music to WAB
+release 0.0.10-alpha
 d7b1864 2018-06-25 BBQ, rescue bandaid, term stuff, & merge
 4b5e2cd 2018-06-24 pull in remaining Marathon textures
 a738bd1 2018-06-24 split images file for atque

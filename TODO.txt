@@ -1,15 +1,13 @@
 Lua:		Floating HUD, controllable infravision?, level titles, ammo pickup.
 		Rocket launcher ammo sprite?
 MML:
-Shapes:		
+Shapes:		Check AR marine scale, flame scale, staff/legs align
 Sounds:
 Physics:
 Music:		
 Images:		Redraw title console
 Textures:	Bump maps
-Other:		Get the A1 dev team to accept my rescue mission fix PR
-		...or get someone to write a Lua rescue mission script
-		Complile myself a stable A1 to test against
+Other:		Complile myself a stable A1 to test against
 3-D:		Make railing, scenery, furniture
 		Get someone to fix the depth-test bug
 
@@ -29,6 +27,7 @@ Arrival - Add moon background, New sound
 		One flickering terminal w/compiler.
 		Secret passageways in the maze.
 		Kill all compilers victory condition?
+		fix bad line in maze
 	1.  Bigger Guns Nearby - Texture alignment & lighting.
 	2.  Never Burn Money
 		Add second elevator for coop.
@@ -53,6 +52,7 @@ Counterattack - make new sound
 	5.  The Rose
 		Better OR more hurried terminal directions.
 		Throw light from light tunnel.
+		Secret off buffer room, incentive to head there
 	6.  SLN,TLC!
 		Add a second timing puzzle to leave death trap.
 		Add second recharge in east wing.
