@@ -62,6 +62,7 @@ Counterattack - make new sound
 		Pathways reference term
 At Some Point here or earlier: Term explaining Elevators and Platforms!
 	7.  Cool Fusion
+		Fix start for coop bug
 		Airlocks.
 		Charge corridors need elaboration.
 		Guardrails.
