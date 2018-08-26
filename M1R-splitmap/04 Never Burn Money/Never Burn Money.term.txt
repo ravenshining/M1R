@@ -33,11 +33,27 @@ AMS Terminal 33-f<31.6.7.885>
 #STATIC 14
 #PICT 1702
 $BAutomatic Manufacturing System$b
+#TAG 3
+#PICT 1702
+$BAutomatic Manufacturing System$b
+
+*Transfer 5990-p success
+
+*TRANSPORT MATERIALS ON
+AMS RECEPTION COUNTER 3*
+#TAG 5
+#PICT 1702
+$BAutomatic Manufacturing System$b
+
+*Transfer 5991-p success
+
+*TRANSPORT MATERIALS ON
+AMS RECEPTION COUNTER 5*
+#STATIC 7
 #PICT 1702
 $BAutomatic Manufacturing System$b
 
 *Transfer 5992-p delayed
-#STATIC 7
 #PICT 1702
 $BAutomatic Manufacturing System$b
 
@@ -90,6 +106,7 @@ $BAutomatic Manufacturing System$b
 
 *Transfer 5997-p delayed
 #STATIC 14
+#TAG 6
 #PICT 1702
 $BAutomatic Manufacturing System$b
 
@@ -145,14 +162,17 @@ Collect the two circuit boards that were transferred and then go to the Transpor
 #PICT 1012
 Take the elevator here to access the main processor tunnel.
 
+#TAG 1
 #PICT 1013
 You should find the third chip intact on the Transport Station.  The error was a failure of the final transporter conductor. 
 
 ***END MESSAGE***
 
+#TAG 2
 #PICT 1014
 $B<Alert>$b
 Security Breach at <40.638.49.993>
+#TAG 4
 #LOGOFF 8702
 AMS Terminal 33-f<31.6.7.885>
 #END
