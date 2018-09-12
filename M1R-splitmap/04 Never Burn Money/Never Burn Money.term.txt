@@ -6,9 +6,9 @@ Public Access Terminal 4-a<892.33.12.479>
 #INFORMATION
 ***INCOMING MESSAGE FROM LEELA***
 
-The Marathon’s Automatic Manufacturing Systems have finished making replacement circuits.  There are three circuits; each should be in its manufacturing holding chamber. 
+The Marathon’s Automatic Manufacturing Systems have finished making replacement circuits.  There are three circuits; each should be in its manufacturing holding chamber.
 
-With luck, the alien viruses have not infiltrated the Manufacturing Systems, but even if they had, I would have no way of knowing.  The attacks on my systems are growing more steady.  If the counterattack is not able to remove some of the computer infiltrators, then I will eventually succumb.  
+With luck, the alien viruses have not infiltrated the Manufacturing Systems, but even if they had, I would have no way of knowing.  Tycho is responsible for the engineering network, and he is preoccupied with the increasingly steady attacks on our systems.  If the counterattack is not able to remove some of the computer infiltrators, then we will eventually succumb.  
 
 It is absolutely imperative that a counterattack begin as soon as possible.  The Marathon is not defenseless, and we can’t let it be taken without a fight.
 
@@ -183,7 +183,7 @@ AMS Terminal 33-f<31.6.7.885>
 #PICT 1702
 $BAutomatic Manufacturing System offline$b
 
-Human!  You must find a jump pad and install those circuts!  I have expended precious processor cycles creating them for Leela, cycles I could have expended fighting the alien compilers.  You must save the victims of %*)~~^^J!
+Human!  You mu~t find a jump p4d and install those circuts!  I have expended [precious,limited] processor cycles creating them for you and AI:870229, cycles I could have expended figh````ting!ing the alien compilers.  You mus7_~4ve the vic#*ms of %*)~n^^J!
 
 <$BSpurious Interrupt$b>
 #PICT 1014
