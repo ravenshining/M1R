@@ -72,13 +72,13 @@ Defense Sector 39-f<35.952.193.5>
 #PICT 1702
 <tycho.knetsys.core.admin>
 
-Human!— You must tell L$C5~$C0`~fx~`eela $C5#$I^ (^*T~~~~~H$iGFd~>:"}}}{__ b$C0rought here by Durandal.  He has been rampant for years$C5~$I@%&&&HJGPPPPPPP$i#&34
+Human!— You must tell L$C1~$C0`~fx~`eela $C1#$I^ (^*T~~~~~H$iGFd~>:"}}}{__ b$C0rought here by Durandal.  He has been rampant for years$C1~$I@%&&&HJGPPPPPPP$i#&34
 $B^`$C0Bernard St~~~
-$Uthere is a way to delay the$C5$u~$U$C0 onset of the second stage$u, and he ~sed this to control Durandal an~$C556*~~`~~~`~`~~~fxfff
+$Uthere is a way to delay the$C1$u~$U$C0 onset of the second stage$u, and he ~sed this to control Durandal an~$C156*~~`~~~`~`~~~fxfff
 ff`~~~~ff`fXff`
 ~~~~~~&^%
 $C0
-$II am being a$C5$i~$^*$I$C0ssim$C5ilat$C0ed.
+$II am being a$C1$i~$^*$I$C0ssim$C1ilat$C0ed.
 #LOGOFF 5921
 Defense Sector 39-f<35.952.193.5>
 #END
@@ -89,13 +89,13 @@ Defense Sector 39-f<35.952.193.5>
 #PICT 1702
 <tycho.knetsys.core.admin>
 
-Human!— You must tell $C5Leela #$I^ (^*T~~~~~H$iGFd~>:"}}}{__ $C0brought here by {1707}.  He has been rampant for >220'752'000s$C5~$I@%&&&HJGPPPPPPP$i#&34
+Human!— You must tell $C1Leela #$I^ (^*T~~~~~H$iGFd~>:"}}}{__ $C0brought here by {1707}.  He has been rampant for >220'752'000s$C1~$I@%&&&HJGPPPPPPP$i#&34
 $B^`$C0Bernard St~~~
-$Uthere is a way to delay the$C5$u~$U$C0 onset of the {iteration}$u, and he $C5~$C0sed {REDUNDANCY} to control Dura$C5%%@l an~56*~~`~~~`~`~~~fxfff
+$Uthere is a way to delay the$C1$u~$U$C0 onset of the {iteration}$u, and he $C1~$C0sed {REDUNDANCY} to control Dura$C1%%@l an~56*~~`~~~`~`~~~fxfff
 ff`~~~~ff`fXff`
 ~~~~~~&^%
 
-$I$C0I am being a$C5$i~$^*$I$C0ss$C5¡$C0m$C5¡la7$C0ed$C5.
+$I$C0I am being a$C1$i~$^*$I$C0ss$C1¡$C0m$C1¡la7$C0ed$C1.
 #STATIC 14
 #LOGOFF 5922
 $C0Defense Sector 39-f<35.952.193.5>
@@ -105,28 +105,14 @@ $C0Defense Sector 39-f<35.952.193.5>
 #UNFINISHED
 #LOGON 8702
 Defense Security Access 23-e<390.94.29.11>
-#INFORMATION
+#PICT 1043
 ***INCOMING MESSAGE FROM LEELA***
 
-I have summarized all of the information that I have gathered on the Aliens so far.
+The colony appears to be under attack.  I detected seven Pfhor dropships entering the atmosphere only minutes ago.  Trajectory analysis indicates that the ships were heading for the outskirts of the colony.  Shortly thereafter, I lost communications with the colony. 
 
-***
-<Begin Report #495991>
+You must hurry.
 
-$BPfhor$b are generally thinner and lighter than humans and are superbly adapted for low gravity environments.  Durandal told me that there are many “clans” of Pfhor, each physically distinct from each other, but my summary only includes two of them.  
-
-Only two clans of the Pfhor have been examined.  The $BFighter$b carries a shock staff, which is capable of attacking at different settings.  The $BTrooper$b is armored for vacuum conditions and carries a combination explosive and impact projectile weapon which is similar to your AR-75.
-
-The Pfhor seem to have enslaved a number of other races:
-
-The $BHulk$b is an enormous and rather slow creature, but it is incredibly strong.  The science report indicated that it had no body fat, and therefore had to be fed often to keep it active.  One crew member reported seeing one of these creatures pointing to itself and mumbling “Drinniol” right before it “picked Johnny up by the shirt and crushed him against a pillar”.
-
-The science staff had difficulty finding a good specimen of the $BS’pht$b, or $Bcompiler$b, to autopsy.  The only specimen autopsied was almost completely destroyed, but it was obvious that the compilers are cyborgs of some kind.  The biological component of the compiler is so closely linked to the machine that it could never survive without it.  The compiler’s actual body is very small, resembling closely a mammalian brain, except that the neurons are much finer and far more complex.
-
-<End of Report>
-***
-
-***END OF MESSAGE***
+***END MESSAGE***
 #LOGOFF 8702
 Defense Security Access 23-e<390.94.29.11>
 #ENDTERMINAL 3
@@ -135,7 +121,7 @@ Defense Security Access 23-e<390.94.29.11>
 #UNFINISHED
 #LOGON 8702
 Defense Control Terminal 185-f<90.863.68.123>
-#INFORMATION
+#PICT 1019
 ***INCOMING MESSAGE FROM LEELA***
 
 You have not completed your mission.  You must replace all of the circuits.  With every passing moment, the opportunity for us to counterattack is fading.
@@ -147,14 +133,32 @@ Defense Control Terminal 185-f<90.863.68.123>
 #FINISHED
 #LOGON 8702
 Defense Control Terminal 185-f<90.863.68.123>
-#INFORMATION
+#PICT 1048
 ***INCOMING MESSAGE FROM LEELA***
 
 Well done!
 
 I have detected Defense Drones activating all over the ship.  Reports from security forces are jubilant.  Now, the Pfhor will encounter stiff resistance, and they will have to pay in blood for every move.
 
-The colony appears to be under attack.  I detected seven Pfhor dropships entering the atmosphere only minutes ago.  Trajectory analysis indicates that the ships were heading for the outskirts of the colony.  Shortly thereafter, I lost communications with the colony. 
+I have summarized all of the information that I have gathered on the Aliens so far.
+
+#INFORMATION
+<Begin Report #495991>
+
+$BPfhor$b are generally thinner and lighter than humans and are superbly adapted for low gravity environments.  Durandal claims that there are many “clans” of Pfhor, each physically distinct from each other, but only two clans of the Pfhor have been examined by the science staff.
+
+The $BFighter$b carries a shock staff, which is capable of attacking at different settings.  A clockwise twist of the upper grip merely lights up the crystal and delivers a mild shock, while a counter-clockwise twist emits a plasma burst.
+
+The $BTrooper$b is armored for vacuum conditions and carries a combination explosive and impact projectile weapon which is similar to your AR-75, but more accurate.  The heavy projectiles are capable of penetrating armour, and while the grenades are light, there are unconfirmed reports that they are capable of in-flight manoeuvres.
+#INFORMATION
+The Pfhor seem to have enslaved a number of other races:
+
+The $BHulk$b is an enormous and rather slow creature, but it is incredibly strong.  The science report indicated that it had no body fat, and therefore had to be fed often to keep it active.  One crew member reported seeing one of these creatures pointing to itself and mumbling “Drinniol” right before it “picked Johnny up by the shirt and crushed him against a pillar”.
+
+The science staff had difficulty finding a good specimen of the $BS’pht$b, or $Bcompiler$b, to autopsy.  The only specimen autopsied was almost completely destroyed, but it was obvious that the compilers are cyborgs of some kind.  The biological component of the compiler is so closely linked to the machine that it could never survive without it.  The compiler’s actual body is very small, resembling closely a mammalian brain, except that the neurons are much finer and far more complex.
+
+<End of Report>
+#PICT 1700
 
 Something has come to my attention, I will inform you after you teleport.
 
