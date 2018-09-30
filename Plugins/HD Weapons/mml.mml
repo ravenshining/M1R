@@ -53,6 +53,10 @@
 <texture coll="1" clut="-1" bitmap="51" normal_image="01/51.dds" opac_type="1"/>
 <texture coll="1" clut="-1" bitmap="52" normal_image="01/52.dds" opac_type="1"/>
 <texture coll="1" clut="-1" bitmap="53" normal_image="01/53.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="60" normal_image="01/60.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="61" normal_image="01/61.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="62" normal_image="01/62.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="63" normal_image="01/63.dds" opac_type="1"/>
 <texture coll="4" clut="-1" bitmap="0" normal_image="04/0.png" opac_scale="1"/>
 <texture coll="4" clut="-1" bitmap="1" normal_image="04/1.png" opac_scale="1"/>
 <texture coll="4" clut="-1" bitmap="2" normal_image="04/2.png" opac_scale="1"/>
