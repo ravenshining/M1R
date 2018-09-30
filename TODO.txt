@@ -1,7 +1,7 @@
 Lua:		Floating HUD, controllable infravision?, level titles, ammo pickup.
 		Rocket launcher ammo sprite?
 MML:
-Shapes:		Check AR marine scale, flame scale, staff/legs align
+Shapes:		Check AR marine scale, flame scale, staff/legs align, upscale weapons in hand to match original
 Sounds:
 Physics:
 Music:		
@@ -41,7 +41,6 @@ Counterattack - make new sound
 		Tweak corridors for better monster pathfinding.
 		Scenery monsters in the compactor, add control room, make garbage chute.
 		Add more corridors to access past areas.
-		Move terms / buffers for better exposition.
 	4.  Couch Fishing
 		Require switches to be sequential
 		add failure condition.
