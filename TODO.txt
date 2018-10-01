@@ -41,6 +41,7 @@ Counterattack - make new sound
 		Tweak corridors for better monster pathfinding.
 		Scenery monsters in the compactor, add control room, make garbage chute.
 		Add more corridors to access past areas.
+		Activate only one switch for a failure branch
 	4.  Couch Fishing
 		Require switches to be sequential
 		add failure condition.
@@ -77,14 +78,18 @@ At Some Point here or earlier: Term explaining Elevators and Platforms!
 		Solve the texture alignment nightmare.
 		A wrecked shuttle perhaps?
 		"Pfhor troops are on the colony"
+		Bad texture in air closet
+		Replace trooper ammo with some other prize
+		Remove green orbs, they are annoying
 	9.  BlasphemeQuarantine
 		Button for slow door.
 		Check monster paths.
+		Make some platforms never/only once deactivate to fix coop
 Reprisal
 	10. Bob-B-Q
 		Make sure 2 players can fit through the final corridors.
-		Make sure it's winnable as rescue/extermination.
-		Throw in some MADDs as originally intended.
+		Make sure it's winnable on Total Carnage (insane not guaranteed!)
+		Make sure it's losable on Normal
 		Possible new room with climactic BoB encounter.
 		Monster / co-op pathing.
 		Intro term - situation worse than when Leela intented to bring you here, falling to compilers
@@ -98,8 +103,12 @@ Durandal - make new sound
 	12. Fire!!!!!
 		good place for lava secrets, MIDA
 		second lava texture for solid lava
+		Add fog script to explain lack of oxygen
+		Add another O2 cannister and more coop 02
 	13. CS4S,C
-		Remove the cheap way out. Instead, add interconnecting hallways, improve the view, and put a texture that better indicates platform height (maybe even make the platforms telescoping!)
+		Remove the cheap way out. Instead, add interconnecting hallways, improve the view, and put a texture that better indicates platform height (maybe even make the platforms telescoping or ratcheting!)
+		Redesign as Chernobyl-style reactor?
+		Add oxygen buffer
 		Colonist cryogenic storage.
 		Text term on Marathon's armaments, MADDs
 		Secret term - by Tycho?  Durandal in symbiotic relationship with compilers, stabilising rampancy
@@ -108,9 +117,10 @@ Tycho - Create!
 	14. Habe Quiddam
 		Provide alternate exit
 		Tycho provided the alien interfacer!?
-		Success branch places you in his control, not Durandal's.
+		Success branch places you in Tycho's control, not Durandal's.
 		"Humanity is corrupt and no better than the Pfhor, really. Slavers, all."
 		Teleport enemies into areas on second pass
+		Serious monster pathing needed
 	15. ECC - Create!
 	16. PTICN - Create!
 	17. RSC - Create!
@@ -120,6 +130,8 @@ Tycho - Create!
 		Uplink chip puzzle for teleporter mod?  Or Tycho/Durandal choice?
 		"I sent a probe (or MADD) over, but didn't learn much before it was destroyed.  You have more durability..."
 		"Violence is restructuring by another name - reordering of chaotic values."
+		Replace lookers with something vacuum-enabled.
+		More platforms to make re-ascension easier.
 The Pfhor - make new sound maybe?
 	20. PfhorYourEyesOnly…
 		add terminals
