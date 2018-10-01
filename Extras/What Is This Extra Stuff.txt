@@ -1,0 +1,58 @@
+The files in this folder exist purely for testing and development purposes.
+
+For Weland - Files for compiling yourself a copy of Weland with
+M1R object names.  Instructions and GNU licence included therein.
+
+marsneedswomen.sceA - The former "welcome" level, which has been
+replaced by a placeholder as I plan to start work on creating a
+proper spaceport for the next release.  Kept in case I want to
+implement some of the changes to the actual Mars Needs Women.
+
+Traxus Industrial Tower - A level Flowers submitted to the project
+as a possible colony level. I am not yet sure where or whether I
+will use this.
+
+oldhistory.txt & oldreleases.txt - a record of git commits from
+before I rebased.
+
+Other.term.txt - Terminal text by Philtron that is waiting for
+a level to grow a new terminal to use it.
+
+Storyboard.odg - LibreOffice Draw flowchart outlining how we plan
+to thread the levels so far.
+
+3D_Scenery.zip - Install this plugin for 3D-modelled scenery.
+I have removed it here because Aleph One currently has a bug that
+causes depth-testing issues with sprites when 3D models and the
+shader renderer are in use: dead bodies and scenery items glitch
+into the floor, and detonation effects glitch into walls.  In light
+of this issue, I have created 8-view sprites based on Tacticus's
+3D Scenery plugin with resolutions up to 1024x1024 as the default,
+so you may still enjoy viewing Tacticus's scenery from multiple
+angles without installing this plugin.
+
+
+Files listed below will not be included in Simplici7y releases:
+
+Chroma Key - map used in conjunction with Wrkncaknter's Differential Shading Checker to made sprites out of 3D models
+
+Monster Piano - a map that spawns in the Major of every monster type when you step on the appropriate polygon, for testing physics
+
+Terminal Test - a map, whose source can't be in git because it mostly consists of symbolic links, which I occasionally compile to quickly test terminal edits with.
+
+Symbolic Interactionism.odg - LibreOffice Draw master for the "fire and the aspects of the theory" terminal on Arrival in case you want to edit it.
+
+CREDITS.xcf - GIMP master for adding people to the credits
+
+splash.xcf - GIMP master for the title and splash screens
+
+MIDAs.xcf - GIMP master for the graffiti / secret door textures
+
+
+Replace the first line with the paragraph below for Simplici7y releases:
+
+In addition to the files below, you can find the full source of this
+project on GitHub.  GitHub is currently being updated every few weeks
+rather than every few months like Simplici7y, so you can find the
+latest untested updates there:
+https://github.com/ravenshining/M1R
