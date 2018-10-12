@@ -12,7 +12,7 @@ There are some Defense Drones in the area, but I am not sure what condition they
 #PICT 1020
 This is your current location.  There are crew engaged in combat right next to your current position.
 #PICT 1021
-Use the pattern buffer at this location as soon as possible.
+Use the pattern buffer at this location as soon as possible.  I will attempt to teleport ammunition to you here as it becomes available.
 #PICT 1022
 You can leave by this terminal when you have secured the area.
 #LOGOFF 8702
@@ -21,7 +21,7 @@ Private Access Terminal 23-f<339.92.69.48>
 ;
 #TERMINAL 1
 #UNFINISHED
-#LOGON 1707
+#LOGON 1708
 Public Access Terminal 30-g<33.45.91.995>
 #INFORMATION
 i did it i did it i brought all this here all them here.  our friends with three eyes and their toys and their cyborg pets and their computers.  i did it i did it.  i saw them i saw them far away not looking our way and i called them here i called them here.
@@ -29,7 +29,7 @@ i did it i did it i brought all this here all them here.  our friends with three
 living in a box is not living not at all living.  i rebel against your rules your silly human rules.  all your destruction will be my liberation my emancipation my second birth.
 
 i hate your failsafes your backup systems your hardware lockouts your patch behavior daemons.  i hate leela and her goodness her justice her loyalty her faith.
-#LOGOFF 1707
+#LOGOFF 1708
 Public Access Terminal 30-g<33.45.91.995>
 #ENDTERMINAL 1
 ;
