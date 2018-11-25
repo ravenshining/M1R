@@ -44,7 +44,7 @@ Counterattack - make new sound
 		Activate only one switch for a failure branch
 	4.  Couch Fishing
 		Require switches to be sequential
-		add failure condition.
+		add failure condition - 5-minute time limit
 		Enter underwater, fight up a stairway.
 		Start in new vat with pattern buffer.
 		"what about bob" music.
@@ -52,7 +52,6 @@ Counterattack - make new sound
 	5.  The Rose
 		Better OR more hurried terminal directions.
 		Throw light from light tunnel.
-		Secret off buffer room, incentive to head there
 	6.  SLN,TLC!
 		Add a second timing puzzle to leave death trap.
 		Add second recharge in east wing.
