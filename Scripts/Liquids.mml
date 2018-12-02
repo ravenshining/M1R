@@ -9,7 +9,6 @@
 
 <opengl>
   <texture coll="17" bitmap="19" opac_type="2" opac_shift=".5"/>
-  <texture coll="18" bitmap="12" opac_type="2" opac_shift=".7"/>
   <texture coll="19" bitmap="13" opac_type="2" opac_shift=".5"/>
   <texture coll="20" bitmap="13" opac_type="2" opac_shift=".5"/>
   <texture coll="21" bitmap="5" opac_type="2" opac_shift=".7"/>
