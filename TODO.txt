@@ -1,4 +1,8 @@
-Lua:		Floating HUD, controllable infravision?, level titles, ammo pickup.
+Lua:		Use lua to handle vacuum for BQ, Arrival, CF
+                Floating HUD
+                controllable infravision?
+                level titles
+                ammo pickup.
 		Rocket launcher ammo sprite?
 MML:
 Shapes:		Check AR marine scale, flame scale, staff/legs align, upscale weapons in hand to match original
