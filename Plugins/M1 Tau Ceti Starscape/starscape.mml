@@ -7,6 +7,7 @@
   <opengl>
     <texture coll="27" bitmap="0" normal_image="starscapes/taucetisky1536.dds" landscape_bloom="0" type="1"/>
     <texture coll="29" bitmap="0" normal_image="starscapes/taucetei3072plow.dds" landscape_bloom="0" type="1"/>
+    <texture coll="29" bitmap="1" normal_image="starscapes/taucetei3072-noship.dds" landscape_bloom="0" type="1"/>
     <texture coll="30" bitmap="0" normal_image="starscapes/taucetei3072ppfhor.dds" landscape_bloom="0" type="1"/>
     <texture coll="24" bitmap="24" normal_image="scenery/transport.png"/>
     <texture coll="23" bitmap="18" normal_image="scenery/marathon.png"/>
