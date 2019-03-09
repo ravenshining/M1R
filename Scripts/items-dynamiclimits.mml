@@ -1,0 +1,12 @@
+<marathon>
+
+<items>
+  <item index="22" maximum="1"/>
+  <item index="25" maximum="3"/>
+</items>
+
+<dynamic_limits>
+  <paths value="128"/>
+</dynamic_limits>
+
+</marathon>

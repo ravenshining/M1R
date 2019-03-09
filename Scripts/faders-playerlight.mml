@@ -1,0 +1,13 @@
+<marathon>
+
+<faders>
+  <liquid index="1" fader="17"/>
+  <liquid index="4" fader="19"/>
+  <fader index="19">
+    <color red="0" green="1" blue="0"/>
+  </fader>
+</faders>
+
+<player light="0.2"></player>
+
+</marathon>

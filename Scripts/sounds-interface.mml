@@ -1,0 +1,39 @@
+<marathon>
+<sounds center_button="138">
+  <dialog index="0" sound="16"/>
+  <dialog index="1" sound="14"/>
+  <dialog index="2" sound="142"/>
+  <dialog index="3" sound="11"/>
+  <dialog index="4" sound="12"/>
+  <dialog index="5" sound="143"/>
+  <dialog index="6" sound="143"/>
+  <dialog index="7" sound="7"/>
+  <dialog index="8" sound="13"/>
+</sounds>
+
+<interface>
+  <rect index="7" top="145" left="251" bottom="173" right="387"/>
+  <rect index="8" top="180" left="251" bottom="209" right="387"/>
+  <rect index="9" top="211" left="117" bottom="237" right="237"/>
+  <rect index="10" top="243" left="122" bottom="270" right="233"/>
+  <rect index="11" top="277" left="142" bottom="302" right="212"/>
+  <rect index="12" top="213" left="414" bottom="239" right="510"/>
+  <rect index="13" top="246" left="422" bottom="272" right="504"/>
+  <rect index="14" top="277" left="410" bottom="303" right="511"/>
+  <rect index="15" top="362" left="297" bottom="390" right="343"/>
+  <rect index="16" top="394" left="297" bottom="424" right="344"/>
+  <rect index="17" top="222" left="265" bottom="295" right="371"/>
+  <color index="5" red="0" green="0" blue="0"/>
+  <weapon index="6" start_y="412" end_y="434" start_x="412" end_x="580" top="352" left="384">
+    <ammo index="0" type="0"/>
+    <ammo index="1" type="0"/>
+  </weapon>
+  <weapon index="7" start_y="412" end_y="434" start_x="412" end_x="580" top="352" left="384" multiple="false">
+    <ammo index="0" type="0"/>
+    <ammo index="1" type="0"/>
+  </weapon>
+  <weapon index="9" start_y="412" end_y="434" start_x="412" end_x="580" top="352" left="384">
+    <ammo index="0" type="0"/>
+  </weapon>
+</interface>
+</marathon>

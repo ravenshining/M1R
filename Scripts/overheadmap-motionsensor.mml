@@ -1,0 +1,28 @@
+<marathon>
+
+<overhead_map>
+  <assign_live monster="20" type="0"/>
+  <assign_live monster="36" type="0"/>
+  <assign_live monster="41" type="0"/>
+  <color index="6" red="0" green="1" blue="0"/>
+  <color index="19" red="1" green=".5" blue="0"/>
+  <color index="20" red="0" green="1" blue="0"/>
+  <color index="21" red="1" green="0" blue="1"/>
+</overhead_map>
+
+<motion_sensor>
+  <assign monster="4" type="2"/>
+  <assign monster="5" type="2"/>
+  <assign monster="6" type="2"/>
+  <assign monster="7" type="2"/>
+  <assign monster="18" type="2"/>
+  <assign monster="19" type="2"/>
+  <assign monster="20" type="2"/>
+  <assign monster="36" type="2"/>
+  <assign monster="38" type="2"/>
+  <assign monster="39" type="2"/>
+  <assign monster="41" type="0"/>
+  <assign monster="46" type="2"/>
+</motion_sensor>
+
+</marathon>

@@ -1,0 +1,30 @@
+<marathon>
+  <scenery>
+    <object index="2" flags="1" radius="720" height="940"/>
+    <object index="3" flags="1" radius="460" height="590"/>
+    <object index="4" flags="1" radius="340" height="280"/>
+    <object index="5" flags="5" radius="140" height="280" destruction="30"/>
+    <object index="8" flags="5" radius="170" height="340" destruction="28"/>
+    <object index="9" flags="5" radius="130" height="250" destruction="28"/>
+    <object index="10" flags="1" radius="300" height="620"/>
+    <object index="11" flags="5" radius="210" height="730" destruction="28"/>
+    <object index="12" flags="5" radius="260" height="1020" destruction="28"/>
+    <object index="16" flags="5" radius="170" height="710" destruction="2"/>
+    <object index="24" flags="1" radius="440" height="890"/>
+    <object index="25" flags="1" radius="290" height="510"/>
+    <object index="26" flags="5" radius="360" height="800" destruction="31">
+      <destroyed>
+	<shape coll="22" seq="19"/>
+      </destroyed>
+    </object>
+    <object index="27" flags="1" radius="370" height="350"/>
+    <object index="31" flags="1" radius="190" height="580"/>
+    <object index="32" flags="1" radius="330" height="480"/>
+    <object index="33" flags="1" radius="450" height="1400"/>
+    <object index="34" flags="1" radius="100" height="560"/>
+    <object index="35" flags="1" radius="2150" height="1090"/>
+    <object index="50" flags="5" radius="180" height="-280" destruction="28"/>
+    <object index="51" flags="5" radius="90" height="1000" destruction="28"/>
+    <object index="52" flags="5" radius="30" height="480" destruction="28"/>
+  </scenery>
+</marathon>

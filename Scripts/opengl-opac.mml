@@ -1,5 +1,95 @@
 <marathon>
 <opengl>
+    <!-- Walls -->
+  <texture coll="17" bitmap="19" opac_type="2" opac_shift=".5"/>
+  <texture coll="17" bitmap="53" opac_type="1"/>
+  <texture coll="17" bitmap="55" opac_type="1"/>
+  <texture coll="17" bitmap="57" opac_type="1"/>
+
+  <texture coll="19" bitmap="13" opac_type="2" opac_shift=".5"/>
+
+  <texture coll="20" bitmap="13" opac_type="2" opac_shift=".5"/>
+
+  <texture coll="21" bitmap="5" opac_type="2" opac_shift=".7"/>
+  
+    <!-- Scenery -->
+  <texture coll="22" bitmap="0" opac_type="2"/>
+  <texture coll="22" bitmap="1" opac_type="2"/>
+  <texture coll="22" bitmap="2" opac_type="2"/>
+  <texture coll="22" bitmap="3" opac_type="2"/>
+  <texture coll="22" bitmap="4" opac_type="2"/>
+  <texture coll="22" bitmap="5" opac_type="2"/>
+  <texture coll="22" bitmap="6" opac_type="2"/>
+  <texture coll="22" bitmap="7" opac_type="2"/>
+  <texture coll="22" bitmap="8" opac_type="2"/>
+  <texture coll="22" bitmap="9" opac_type="2"/>
+  <texture coll="22" bitmap="10" opac_type="2"/>
+  <texture coll="22" bitmap="11" opac_type="2"/>
+  <texture coll="22" bitmap="12" opac_type="2"/>
+  <texture coll="22" bitmap="14" opac_type="2" opac_shift=".25"/>
+  <texture coll="22" bitmap="15" opac_type="2" opac_shift=".25"/>
+  <texture coll="22" bitmap="25" opac_type="2" opac_shift=".5"/>
+  <texture coll="22" bitmap="26" opac_type="2"/>
+  <texture coll="22" bitmap="27" opac_type="2"/>
+  <texture coll="22" bitmap="28" opac_type="2"/>
+  <texture coll="22" bitmap="35" opac_type="2" opac_shift=".5"/>
+  <texture coll="22" bitmap="36" opac_type="2" opac_shift=".5"/>
+  <texture coll="22" bitmap="37" opac_type="2"/>
+
+  <texture coll="23" bitmap="0" opac_type="2" opac_shift=".5"/>
+  <texture coll="23" bitmap="1" opac_type="2" opac_shift=".5"/>
+  <texture coll="23" bitmap="2" opac_type="2" opac_shift=".5"/>
+  <texture coll="23" bitmap="3" opac_type="2" opac_shift=".5"/>
+  <texture coll="23" bitmap="4" opac_type="2" opac_shift=".5"/>
+  <texture coll="23" bitmap="5" opac_type="2" opac_shift=".5"/>
+
+  <texture coll="24" bitmap="0" opac_type="2" opac_shift=".25"/>
+  <texture coll="24" bitmap="1" opac_type="2" opac_shift=".25"/>
+  <texture coll="24" bitmap="2" opac_type="2" opac_shift=".25"/>
+  <texture coll="24" bitmap="3" opac_type="2" opac_shift=".25"/>
+  <texture coll="24" bitmap="4" opac_type="2" opac_shift=".25"/>
+  <texture coll="24" bitmap="5" opac_type="2" opac_shift=".25"/>
+  <texture coll="24" bitmap="6" opac_type="2" opac_shift=".25"/>
+  <texture coll="24" bitmap="7" opac_type="2" opac_shift=".25"/>
+  <texture coll="24" bitmap="8" opac_type="2" opac_shift=".25"/>
+  <texture coll="24" bitmap="9" opac_type="2" opac_shift=".25"/>
+  <texture coll="24" bitmap="10" opac_type="2" opac_shift=".25"/>
+  <texture coll="24" bitmap="11" opac_type="2" opac_shift=".25"/>
+  <texture coll="24" bitmap="12" opac_type="2" opac_shift=".25"/>
+  <texture coll="24" bitmap="27" opac_type="2" opac_shift=".5" type="2"/>
+  <texture coll="24" bitmap="28" opac_type="2" opac_shift=".5" type="2"/>
+
+  <texture coll="25" bitmap="0" opac_type="2" opac_shift=".25"/>
+  <texture coll="25" bitmap="1" opac_type="2" opac_shift=".25"/>
+  <texture coll="25" bitmap="2" opac_type="2" opac_shift=".25"/>
+  <texture coll="25" bitmap="3" opac_type="2" opac_shift=".25"/>
+  <texture coll="25" bitmap="4" opac_type="2" opac_shift=".25"/>
+  <texture coll="25" bitmap="5" opac_type="2" opac_shift=".25"/>
+  <texture coll="25" bitmap="6" opac_type="2" opac_shift=".25"/>
+  <texture coll="25" bitmap="7" opac_type="2" opac_shift=".25"/>
+  <texture coll="25" bitmap="8" opac_type="2" opac_shift=".25"/>
+  <texture coll="25" bitmap="9" opac_type="2" opac_shift=".25"/>
+  <texture coll="25" bitmap="10" opac_type="2" opac_shift=".25"/>
+  <texture coll="25" bitmap="11" opac_type="2" opac_shift=".25"/>
+  <texture coll="25" bitmap="12" opac_type="2" opac_shift=".25"/>
+
+  <texture coll="26" bitmap="0" opac_type="2" opac_shift=".33"/>
+  <texture coll="26" bitmap="1" opac_type="2" opac_shift=".33"/>
+  <texture coll="26" bitmap="2" opac_type="2" opac_shift=".33"/>
+  <texture coll="26" bitmap="3" opac_type="2" opac_shift=".33"/>
+  <texture coll="26" bitmap="4" opac_type="2" opac_shift=".33"/>
+  <texture coll="26" bitmap="5" opac_type="2" opac_shift=".33"/>
+  <texture coll="26" bitmap="6" opac_type="2" opac_shift=".33"/>
+  <texture coll="26" bitmap="7" opac_type="2" opac_shift=".33"/>
+  <texture coll="26" bitmap="8" opac_type="2" opac_shift=".33"/>
+  <texture coll="26" bitmap="9" opac_type="2" opac_shift=".33"/>
+  <texture coll="26" bitmap="10" opac_type="2" opac_shift=".33"/>
+  <texture coll="26" bitmap="11" opac_type="2" opac_shift=".33"/>
+  <texture coll="26" bitmap="12" opac_type="2" opac_shift=".33"/>
+  <texture coll="26" bitmap="31" opac_type="2" opac_shift=".5" type="2"/>
+  <texture coll="26" bitmap="32" opac_type="2" opac_shift=".5" type="2"/>
+
+    <!-- Effects -->
   <texture coll="4" bitmap="0" opac_type="1" opac_scale="0.3"/>
   <texture coll="4" bitmap="1" opac_type="1" opac_scale="0.3"/>
   <texture coll="4" bitmap="2" opac_type="1" opac_scale="0.3"/>
@@ -66,6 +156,7 @@
   <texture coll="4" bitmap="84" opac_type="1" opac_scale="1"/>
   <texture coll="4" bitmap="85" opac_type="1" opac_scale="1"/>
 
+    <!-- Hunter -->
   <texture coll="5" bitmap="55" opac_type="2" opac_shift="0.25"/>
   <texture coll="5" bitmap="56" opac_type="2" opac_shift="0.25"/>
   <texture coll="5" bitmap="57" opac_type="2" opac_shift="0.25"/>
@@ -74,10 +165,12 @@
   <texture coll="5" bitmap="60" opac_type="2" opac_shift="0.25"/>
   <texture coll="5" bitmap="61" opac_type="2" opac_shift="0.25"/>
   <texture coll="5" bitmap="62" opac_type="2" opac_shift="0.25"/>
+    <!-- Trooper -->
   <texture coll="8" bitmap="30" opac_type="2" opac_shift="0.5"/>
   <texture coll="8" bitmap="31" opac_type="2" opac_shift="0.5"/>
   <texture coll="8" bitmap="32" opac_type="2" opac_shift="0.5"/>
   <texture coll="8" bitmap="33" opac_type="2" opac_shift="0.5"/>
+    <!-- Fighter -->
   <texture coll="9" bitmap="55" opac_type="2" opac_shift="0.5"/>
   <texture coll="9" bitmap="56" opac_type="2" opac_shift="0.5"/>
   <texture coll="9" bitmap="57" opac_type="2" opac_shift="0.5"/>
@@ -95,17 +188,21 @@
   <texture coll="9" bitmap="69" opac_type="2" opac_shift="0.65"/>
   <texture coll="9" bitmap="70" opac_type="2" opac_shift="0.65"/>
   <texture coll="9" bitmap="71" opac_type="2" opac_shift="0.65"/>
+    <!-- Drinnol -->
   <texture coll="11" bitmap="48" opac_type="2" opac_shift="0.5"/>
   <texture coll="11" bitmap="49" opac_type="2" opac_shift="0.5"/>
   <texture coll="11" bitmap="50" opac_type="2" opac_shift="0.5"/>
+    <!-- BoB -->
   <texture coll="12" bitmap="42" opac_type="2" opac_shift="0.5"/>
   <texture coll="12" bitmap="43" opac_type="2" opac_shift="0.5"/>
   <texture coll="12" bitmap="44" opac_type="2" opac_shift="0.5"/>
   <texture coll="12" bitmap="45" opac_type="2" opac_shift="0.5"/>
+    <!-- Enforcer -->
   <texture coll="14" bitmap="36" opac_type="2" opac_shift="0.5"/>
   <texture coll="14" bitmap="37" opac_type="2" opac_shift="0.5"/>
   <texture coll="14" bitmap="38" opac_type="2" opac_shift="0.5"/>
   <texture coll="14" bitmap="39" opac_type="2" opac_shift="0.5"/>
+    <!-- Wasp -->
   <texture coll="15" bitmap="30" opac_type="1" opac_scale="0.5"/>
   <texture coll="15" bitmap="31" opac_type="1" opac_scale="0.5"/>
   <texture coll="15" bitmap="32" opac_type="1" opac_scale="0.5"/>
@@ -119,6 +216,7 @@
   <texture coll="15" bitmap="40" opac_type="1" opac_scale="0.5"/>
   <texture coll="15" bitmap="41" opac_type="1" opac_scale="0.5"/>
   <texture coll="15" bitmap="42" opac_type="1" opac_scale="0.5"/>
+    <!-- Compiler -->
   <texture coll="16" bitmap="8" opac_type="2" opac_shift="0.3"/>
   <texture coll="16" bitmap="16" opac_type="2" opac_shift="0.3"/>
   <texture coll="16" bitmap="20" opac_type="2" opac_shift="0.3"/>
@@ -139,6 +237,7 @@
   <texture coll="16" bitmap="39" opac_type="2" opac_shift="0.3"/>
   <texture coll="16" bitmap="40" opac_type="2" opac_shift="0.3"/>
   <texture coll="16" bitmap="41" opac_type="2" opac_shift="0.3"/>
+    <!-- Cyborg -->
   <texture coll="31" bitmap="7" opac_type="2" opac_shift="0.5"/>
   <texture coll="31" bitmap="8" opac_type="2" opac_shift="0.5"/>
   <texture coll="31" bitmap="9" opac_type="2" opac_shift="0.5"/>
