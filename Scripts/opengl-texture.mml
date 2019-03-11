@@ -15,7 +15,7 @@
   <texture coll="17" bitmap="1" normal_image="Textures/general/controlpanels04.dds" type="0"/>
   <texture coll="17" bitmap="2" normal_image="Textures/general/rechargers01.dds" type="0"/>
   <texture coll="17" bitmap="3" normal_image="Textures/general/rechargers06.dds" type="0"/>
-  <texture coll="17" bitmap="4" normal_image="Textures/water/water04.dds" type="0"/>
+  <texture coll="17" bitmap="4" normal_image="Textures/general/buffer1.dds" type="0"/>
   <texture coll="17" bitmap="5" normal_image="Textures/water/water05.dds" type="0"/>
   <texture coll="17" bitmap="6" normal_image="Textures/water/water06.dds" type="0"/>
   <texture coll="17" bitmap="7" normal_image="Textures/water/water07.dds" type="0"/>
@@ -49,11 +49,11 @@
   <texture coll="17" bitmap="36" normal_image="Textures/general/teleporter.dds" type="0"/>
   <texture coll="17" bitmap="37" normal_image="Textures/general/special01.dds" type="0"/>
   <texture coll="17" bitmap="38" normal_image="Textures/general/special03.dds" type="0"/>
-  <texture coll="17" bitmap="39" normal_image="Textures/water/water44.dds" type="0"/>
-  <texture coll="17" bitmap="40" normal_image="Textures/water/water45.dds" type="0"/>
-  <texture coll="17" bitmap="41" normal_image="Textures/water/water46.dds" type="0"/>
-  <texture coll="17" bitmap="42" normal_image="Textures/water/water47.dds" type="0"/>
-  <texture coll="17" bitmap="43" normal_image="Textures/water/water48.dds" type="0"/>
+  <texture coll="17" bitmap="39" normal_image="Textures/general/buffer2.dds" type="0"/>
+  <texture coll="17" bitmap="40" normal_image="Textures/general/buffer3.dds" type="0"/>
+  <texture coll="17" bitmap="41" normal_image="Textures/general/buffer4.dds" type="0"/>
+  <texture coll="17" bitmap="42" normal_image="Textures/general/buffer5.dds" type="0"/>
+  <texture coll="17" bitmap="43" normal_image="Textures/general/buffer6.dds" type="0"/>
   <texture coll="17" bitmap="44" normal_image="Textures/general/rechargers02.dds" type="0"/>
   <texture coll="17" bitmap="45" normal_image="Textures/general/rechargers03.dds" type="0"/>
   <texture coll="17" bitmap="46" normal_image="Textures/general/rechargers04.dds" type="0"/>
@@ -101,12 +101,21 @@
   <texture coll="17" bitmap="88" normal_image="Textures/water/water88.dds" type="0"/>
   <texture coll="17" bitmap="89" normal_image="Textures/water/water89.dds" type="0"/>
   <texture coll="17" bitmap="90" normal_image="Textures/water/water90.dds" type="0"/>
+  <texture coll="17" bitmap="91" normal_image="Textures/water/water91.dds" type="0"/>
+  <texture coll="17" bitmap="92" normal_image="Textures/water/water92.dds" type="0"/>
+  <texture coll="17" bitmap="93" normal_image="Textures/water/water93.dds" type="0"/>
+  <texture coll="17" bitmap="94" normal_image="Textures/water/water94.dds" type="0"/>
+  <texture coll="17" bitmap="95" normal_image="Textures/water/water95.dds" type="0"/>
+  <texture coll="17" bitmap="96" normal_image="Textures/water/water96.dds" type="0"/>
+  <texture coll="17" bitmap="97" normal_image="Textures/water/water97.dds" type="0"/>
+  <texture coll="19" bitmap="98" normal_image="Textures/general/blankterm.dds" type="0"/>
+  <texture coll="19" bitmap="99" normal_image="Textures/general/blankbuffer.dds" type="0"/>
 
   <texture coll="18" bitmap="0" normal_image="Textures/general/controlpanels01.dds" type="0"/>
   <texture coll="18" bitmap="1" normal_image="Textures/general/controlpanels04.dds" type="0"/>
   <texture coll="18" bitmap="2" normal_image="Textures/general/rechargers01.dds" type="0"/>
   <texture coll="18" bitmap="3" normal_image="Textures/general/rechargers06.dds" type="0"/>
-  <texture coll="18" bitmap="4" normal_image="Textures/lava/lava04.dds" type="0"/>
+  <texture coll="18" bitmap="4" normal_image="Textures/general/buffer1.dds" type="0"/>
   <texture coll="18" bitmap="5" normal_image="Textures/lava/lava05.dds" type="0"/>
   <texture coll="18" bitmap="6" normal_image="Textures/lava/lava06.dds" type="0"/>
   <texture coll="18" bitmap="7" normal_image="Textures/lava/lava07.dds" type="0"/>
@@ -146,11 +155,11 @@
   <texture coll="18" bitmap="41" normal_image="Textures/general/rechargers03.dds" type="0"/>
   <texture coll="18" bitmap="42" normal_image="Textures/general/rechargers04.dds" type="0"/>
   <texture coll="18" bitmap="43" normal_image="Textures/general/rechargers05.dds" type="0"/>
-  <texture coll="18" bitmap="44" normal_image="Textures/general/lava/lava44.dds" type="0"/>
-  <texture coll="18" bitmap="45" normal_image="Textures/general/lava/lava45.dds" type="0"/>
-  <texture coll="18" bitmap="46" normal_image="Textures/general/lava/lava46.dds" type="0"/>
-  <texture coll="18" bitmap="47" normal_image="Textures/general/lava/lava47.dds" type="0"/>
-  <texture coll="18" bitmap="48" normal_image="Textures/general/lava/lava48.dds" type="0"/>
+  <texture coll="18" bitmap="44" normal_image="Textures/general/buffer2.dds" type="0"/>
+  <texture coll="18" bitmap="45" normal_image="Textures/general/buffer3.dds" type="0"/>
+  <texture coll="18" bitmap="46" normal_image="Textures/general/buffer4.dds" type="0"/>
+  <texture coll="18" bitmap="47" normal_image="Textures/general/buffer5.dds" type="0"/>
+  <texture coll="18" bitmap="48" normal_image="Textures/general/buffer6.dds" type="0"/>
   <texture coll="18" bitmap="49" normal_image="Textures/general/special02.dds" type="0"/>
   <texture coll="18" bitmap="51" normal_image="Textures/lava/MIDAlava.dds" glow_image="Textures/lava/MIDAlavagm.dds" type="0"/>
   <texture coll="18" bitmap="52" normal_image="Textures/lava/lava52.dds" glow_image="Textures/lava/lava52gm.dds" type="0"/>
@@ -173,12 +182,20 @@
   <texture coll="18" bitmap="69" normal_image="Textures/general/lava/lava69.dds" type="0"/>
   <texture coll="18" bitmap="70" normal_image="Textures/general/lava/lava70.dds" type="0"/>
   <texture coll="18" bitmap="71" normal_image="Textures/general/lava/lava71.dds" type="0"/>
+  <texture coll="18" bitmap="72" normal_image="Textures/general/lava/lava72.dds" type="0"/>
+  <texture coll="18" bitmap="73" normal_image="Textures/general/lava/lava73.dds" type="0"/>
+  <texture coll="18" bitmap="74" normal_image="Textures/general/lava/lava74.dds" type="0"/>
+  <texture coll="18" bitmap="75" normal_image="Textures/general/lava/lava75.dds" type="0"/>
+  <texture coll="18" bitmap="76" normal_image="Textures/general/lava/lava76.dds" type="0"/>
+  <texture coll="18" bitmap="77" normal_image="Textures/general/lava/lava77.dds" type="0"/>
+  <texture coll="18" bitmap="78" normal_image="Textures/general/blankterm.dds" type="0"/>
+  <texture coll="18" bitmap="79" normal_image="Textures/general/blankbuffer.dds" type="0"/>
 
   <texture coll="19" bitmap="0" normal_image="Textures/general/controlpanels01.dds" type="0"/>
   <texture coll="19" bitmap="1" normal_image="Textures/general/controlpanels04.dds" type="0"/>
   <texture coll="19" bitmap="2" normal_image="Textures/general/rechargers01.dds" type="0"/>
   <texture coll="19" bitmap="3" normal_image="Textures/general/rechargers06.dds" type="0"/>
-  <texture coll="19" bitmap="4" normal_image="Textures/sewage/sewage04.dds" type="0"/>
+  <texture coll="19" bitmap="4" normal_image="Textures/general/buffer1.dds" type="0"/>
   <texture coll="19" bitmap="5" normal_image="Textures/sewage/sewage05.dds" type="0"/>
   <texture coll="19" bitmap="6" normal_image="Textures/sewage/sewage06.dds" type="0"/>
   <texture coll="19" bitmap="7" normal_image="Textures/sewage/sewage07.dds" type="0"/>
@@ -222,14 +239,13 @@
   <texture coll="19" bitmap="47" normal_image="Textures/general/rechargers03.dds" type="0"/>
   <texture coll="19" bitmap="48" normal_image="Textures/general/rechargers04.dds" type="0"/>
   <texture coll="19" bitmap="49" normal_image="Textures/general/rechargers05.dds" type="0"/>
-  <texture coll="19" bitmap="50" normal_image="Textures/sewage/sewage50.dds" type="0"/>
-  <texture coll="19" bitmap="51" normal_image="Textures/sewage/sewage51.dds" type="0"/>
-  <texture coll="19" bitmap="52" normal_image="Textures/sewage/sewage52.dds" type="0"/>
-  <texture coll="19" bitmap="53" normal_image="Textures/sewage/sewage53.dds" type="0"/>
-  <texture coll="19" bitmap="54" normal_image="Textures/sewage/sewage54.dds" type="0"/>
+  <texture coll="19" bitmap="50" normal_image="Textures/general/buffer2.dds" type="0"/>
+  <texture coll="19" bitmap="51" normal_image="Textures/general/buffer3.dds" type="0"/>
+  <texture coll="19" bitmap="52" normal_image="Textures/general/buffer4.dds" type="0"/>
+  <texture coll="19" bitmap="53" normal_image="Textures/general/buffer5.dds" type="0"/>
+  <texture coll="19" bitmap="54" normal_image="Textures/general/buffer6.dds" type="0"/>
   <texture coll="19" bitmap="55" normal_image="Textures/sewage/sewage55.dds" type="0"/>
   <texture coll="19" bitmap="57" normal_image="Textures/sewage/MIDA57.dds" type="0"/>
-  <texture coll="19" bitmap="58" normal_image="Textures/sewage/sewage58.dds" type="0"/>
   <texture coll="19" bitmap="59" normal_image="Textures/sewage/MIDA59.dds" type="0"/>
   <texture coll="19" bitmap="60" normal_image="Textures/sewage/MIDA60.dds" type="0"/>
   <texture coll="19" bitmap="61" normal_image="Textures/sewage/sewage61.dds" type="0"/>
@@ -242,8 +258,100 @@
   <texture coll="19" bitmap="68" normal_image="Textures/sewage/sewage68.dds" type="0"/>
   <texture coll="19" bitmap="69" normal_image="Textures/sewage/sewage69.dds" type="0"/>
   <texture coll="19" bitmap="70" normal_image="Textures/sewage/sewage70.dds" type="0"/>
+  <texture coll="19" bitmap="71" normal_image="Textures/sewage/sewage71.dds" type="0"/>
+  <texture coll="19" bitmap="72" normal_image="Textures/sewage/sewage72.dds" type="0"/>
+  <texture coll="19" bitmap="73" normal_image="Textures/sewage/sewage73.dds" type="0"/>
+  <texture coll="19" bitmap="74" normal_image="Textures/sewage/sewage74.dds" type="0"/>
+  <texture coll="19" bitmap="75" normal_image="Textures/sewage/sewage75.dds" type="0"/>
+  <texture coll="19" bitmap="76" normal_image="Textures/sewage/sewage76.dds" type="0"/>
+  <texture coll="19" bitmap="77" normal_image="Textures/general/blankterm.dds" type="0"/>
+  <texture coll="19" bitmap="78" normal_image="Textures/general/blankbuffer.dds" type="0"/>
 
-  <texture coll="20" bitmap="52" normal_image="Textures/colony/colony52.dds" type="0"/>
+  <texture coll="20" bitmap="0" normal_image="Textures/jjaro/jjaro00.dds" type="0"/>
+  <texture coll="20" bitmap="1" normal_image="Textures/jjaro/jjaro01.dds" type="0"/>
+  <texture coll="20" bitmap="2" normal_image="Textures/jjaro/jjaro02.dds" type="0"/>
+  <texture coll="20" bitmap="3" normal_image="Textures/jjaro/jjaro03.dds" type="0"/>
+  <texture coll="20" bitmap="4" normal_image="Textures/jjaro/jjaro04.dds" type="0"/>
+  <texture coll="20" bitmap="5" normal_image="Textures/jjaro/jjaro05.dds" type="0"/>
+  <texture coll="20" bitmap="6" normal_image="Textures/jjaro/jjaro06.dds" type="0"/>
+  <texture coll="20" bitmap="7" normal_image="Textures/jjaro/jjaro07.dds" type="0"/>
+  <texture coll="20" bitmap="8" normal_image="Textures/jjaro/jjaro08.dds" type="0"/>
+  <texture coll="20" bitmap="9" normal_image="Textures/jjaro/jjaro09.dds" type="0"/>
+  <texture coll="20" bitmap="10" normal_image="Textures/jjaro/jjaro10.dds" type="0"/>
+  <texture coll="20" bitmap="11" normal_image="Textures/jjaro/jjaro11.dds" type="0"/>
+  <texture coll="20" bitmap="12" normal_image="Textures/jjaro/jjaro12.dds" type="0"/>
+  <texture coll="20" bitmap="13" normal_image="Textures/jjaro/jjaro13.dds" type="0"/>
+  <texture coll="20" bitmap="14" normal_image="Textures/jjaro/jjaro14.dds" type="0"/>
+  <texture coll="20" bitmap="15" normal_image="Textures/jjaro/jjaro15.dds" type="0"/>
+  <texture coll="20" bitmap="16" normal_image="Textures/jjaro/jjaro16.dds" type="0"/>
+  <texture coll="20" bitmap="17" normal_image="Textures/jjaro/jjaro17.dds" type="0"/>
+  <texture coll="20" bitmap="18" normal_image="Textures/jjaro/jjaro18.dds" type="0"/>
+  <texture coll="20" bitmap="19" normal_image="Textures/jjaro/jjaro19.dds" type="0"/>
+  <texture coll="20" bitmap="20" normal_image="Textures/jjaro/jjaro20.dds" type="0"/>
+  <texture coll="20" bitmap="21" normal_image="Textures/jjaro/jjaro21.dds" type="0"/>
+  <texture coll="20" bitmap="22" normal_image="Textures/jjaro/jjaro22.dds" type="0"/>
+  <texture coll="20" bitmap="23" normal_image="Textures/jjaro/jjaro23.dds" type="0"/>
+  <texture coll="20" bitmap="24" normal_image="Textures/jjaro/jjaro24.dds" type="0"/>
+  <texture coll="20" bitmap="25" normal_image="Textures/jjaro/jjaro25.dds" type="0"/>
+  <texture coll="20" bitmap="26" normal_image="Textures/jjaro/jjaro26.dds" type="0"/>
+  <texture coll="20" bitmap="27" normal_image="Textures/jjaro/jjaro27.dds" type="0"/>
+  <texture coll="20" bitmap="28" normal_image="Textures/jjaro/jjaro28.dds" type="0"/>
+  <texture coll="20" bitmap="29" normal_image="Textures/jjaro/jjaro29.dds" type="0"/>
+  <texture coll="20" bitmap="30" normal_image="Textures/jjaro/jjaro30.dds" type="0"/>
+  <texture coll="20" bitmap="31" normal_image="Textures/jjaro/jjaro31.dds" type="0"/>
+  <texture coll="20" bitmap="32" normal_image="Textures/jjaro/jjaro32.dds" type="0"/>
+  <texture coll="20" bitmap="33" normal_image="Textures/jjaro/jjaro33.dds" type="0"/>
+  <texture coll="20" bitmap="34" normal_image="Textures/jjaro/jjaro34.dds" type="0"/>
+  <texture coll="20" bitmap="35" normal_image="Textures/jjaro/jjaro35.dds" type="0"/>
+  <texture coll="20" bitmap="36" normal_image="Textures/jjaro/jjaro36.dds" type="0"/>
+  <texture coll="20" bitmap="37" normal_image="Textures/jjaro/jjaro37.dds" type="0"/>
+  <texture coll="20" bitmap="38" normal_image="Textures/jjaro/jjaro38.dds" type="0"/>
+  <texture coll="20" bitmap="39" normal_image="Textures/jjaro/jjaro39.dds" type="0"/>
+  <texture coll="20" bitmap="40" normal_image="Textures/jjaro/jjaro40.dds" type="0"/>
+  <texture coll="20" bitmap="41" normal_image="Textures/jjaro/jjaro41.dds" type="0"/>
+  <texture coll="20" bitmap="42" normal_image="Textures/jjaro/jjaro42.dds" type="0"/>
+  <texture coll="20" bitmap="43" normal_image="Textures/jjaro/jjaro43.dds" type="0"/>
+  <texture coll="20" bitmap="44" normal_image="Textures/jjaro/jjaro44.dds" type="0"/>
+  <texture coll="20" bitmap="45" normal_image="Textures/jjaro/jjaro45.dds" type="0"/>
+  <texture coll="20" bitmap="46" normal_image="Textures/jjaro/jjaro46.dds" type="0"/>
+  <texture coll="20" bitmap="47" normal_image="Textures/jjaro/jjaro47.dds" type="0"/>
+  <texture coll="20" bitmap="48" normal_image="Textures/jjaro/jjaro48.dds" type="0"/>
+  <texture coll="20" bitmap="49" normal_image="Textures/jjaro/jjaro49.dds" type="0"/>
+  <texture coll="20" bitmap="50" normal_image="Textures/jjaro/jjaro50.dds" type="0"/>
+  <texture coll="20" bitmap="51" normal_image="Textures/jjaro/jjaro51.dds" type="0"/>
+  <texture coll="20" bitmap="52" normal_image="Textures/jjaro/jjaro52.dds" type="0"/>
+  <texture coll="20" bitmap="53" normal_image="Textures/jjaro/jjaro53.dds" type="0"/>
+  <texture coll="20" bitmap="54" normal_image="Textures/jjaro/jjaro54.dds" type="0"/>
+  <texture coll="20" bitmap="55" normal_image="Textures/jjaro/jjaro55.dds" type="0"/>
+  <texture coll="20" bitmap="56" normal_image="Textures/jjaro/jjaro56.dds" type="0"/>
+  <texture coll="20" bitmap="57" normal_image="Textures/jjaro/jjaro57.dds" type="0"/>
+  <texture coll="20" bitmap="58" normal_image="Textures/jjaro/jjaro58.dds" type="0"/>
+  <texture coll="20" bitmap="59" normal_image="Textures/jjaro/jjaro59.dds" type="0"/>
+  <texture coll="20" bitmap="60" normal_image="Textures/jjaro/jjaro60.dds" type="0"/>
+  <texture coll="20" bitmap="61" normal_image="Textures/jjaro/jjaro61.dds" type="0"/>
+  <texture coll="20" bitmap="62" normal_image="Textures/jjaro/jjaro62.dds" type="0"/>
+  <texture coll="20" bitmap="63" normal_image="Textures/jjaro/jjaro63.dds" type="0"/>
+  <texture coll="20" bitmap="64" normal_image="Textures/jjaro/jjaro64.dds" type="0"/>
+  <texture coll="20" bitmap="65" normal_image="Textures/jjaro/jjaro65.dds" type="0"/>
+  <texture coll="20" bitmap="66" normal_image="Textures/jjaro/jjaro66.dds" type="0"/>
+  <texture coll="20" bitmap="67" normal_image="Textures/jjaro/jjaro67.dds" type="0"/>
+  <texture coll="20" bitmap="68" normal_image="Textures/jjaro/jjaro68.dds" type="0"/>
+  <texture coll="20" bitmap="69" normal_image="Textures/jjaro/jjaro69.dds" type="0"/>
+  <texture coll="20" bitmap="70" normal_image="Textures/jjaro/jjaro70.dds" type="0"/>
+  <texture coll="20" bitmap="71" normal_image="Textures/jjaro/jjaro71.dds" type="0"/>
+  <texture coll="20" bitmap="72" normal_image="Textures/jjaro/jjaro72.dds" type="0"/>
+  <texture coll="20" bitmap="73" normal_image="Textures/jjaro/jjaro73.dds" type="0"/>
+  <texture coll="20" bitmap="74" normal_image="Textures/jjaro/jjaro74.dds" type="0"/>
+  <texture coll="20" bitmap="75" normal_image="Textures/jjaro/jjaro75.dds" type="0"/>
+  <texture coll="20" bitmap="76" normal_image="Textures/jjaro/jjaro76.dds" type="0"/>
+  <texture coll="20" bitmap="77" normal_image="Textures/jjaro/jjaro77.dds" type="0"/>
+  <texture coll="20" bitmap="78" normal_image="Textures/jjaro/jjaro78.dds" type="0"/>
+  <texture coll="20" bitmap="79" normal_image="Textures/jjaro/jjaro79.dds" type="0"/>
+  <texture coll="20" bitmap="80" normal_image="Textures/jjaro/jjaro80.dds" type="0"/>
+  <texture coll="20" bitmap="81" normal_image="Textures/jjaro/jjaro81.dds" type="0"/>
+  <texture coll="20" bitmap="82" normal_image="Textures/jjaro/jjaro82.dds" type="0"/>
+  <texture coll="20" bitmap="83" normal_image="Textures/jjaro/jjaro83.dds" type="0"/>
+  <texture coll="20" bitmap="84" normal_image="Textures/jjaro/jjaro84.dds" type="0"/>
 
   <texture coll="21" bitmap="0" normal_image="Textures/pfhor/pfhor00.dds" type="0"/>
   <texture coll="21" bitmap="1" normal_image="Textures/pfhor/pfhor01.dds" type="0"/>
@@ -294,7 +402,38 @@
   <texture coll="21" bitmap="47" normal_image="Textures/pfhor/pfhor47.dds" type="0"/>
   <texture coll="21" bitmap="48" normal_image="Textures/pfhor/pfhor48.dds" type="0"/>
   <texture coll="21" bitmap="49" normal_image="Textures/pfhor/pfhor49.dds" type="0"/>
-  <texture coll="21" bitmap="50" normal_image="Textures/pfhor/pfhor36.dds" type="0"/>
+  <texture coll="21" bitmap="50" normal_image="Textures/pfhor/pfhor50.dds" type="0"/>
+  <texture coll="21" bitmap="51" normal_image="Textures/pfhor/pfhor51.dds" type="0"/>
+  <texture coll="21" bitmap="52" normal_image="Textures/pfhor/pfhor52.dds" type="0"/>
+  <texture coll="21" bitmap="53" normal_image="Textures/pfhor/pfhor53.dds" type="0"/>
+  <texture coll="21" bitmap="54" normal_image="Textures/pfhor/pfhor54.dds" type="0"/>
+  <texture coll="21" bitmap="55" normal_image="Textures/pfhor/pfhor55.dds" type="0"/>
+  <texture coll="21" bitmap="56" normal_image="Textures/pfhor/pfhor56.dds" type="0"/>
+  <texture coll="21" bitmap="57" normal_image="Textures/pfhor/pfhor57.dds" type="0"/>
+  <texture coll="21" bitmap="58" normal_image="Textures/pfhor/pfhor58.dds" type="0"/>
+  <texture coll="21" bitmap="59" normal_image="Textures/pfhor/pfhor59.dds" type="0"/>
+  <texture coll="21" bitmap="60" normal_image="Textures/pfhor/pfhor60.dds" type="0"/>
+  <texture coll="21" bitmap="61" normal_image="Textures/pfhor/pfhor61.dds" type="0"/>
+  <texture coll="21" bitmap="62" normal_image="Textures/pfhor/pfhor62.dds" type="0"/>
+  <texture coll="21" bitmap="63" normal_image="Textures/pfhor/pfhor63.dds" type="0"/>
+  <texture coll="21" bitmap="64" normal_image="Textures/pfhor/pfhor64.dds" type="0"/>
+  <texture coll="21" bitmap="65" normal_image="Textures/pfhor/pfhor65.dds" type="0"/>
+  <texture coll="21" bitmap="66" normal_image="Textures/pfhor/pfhor66.dds" type="0"/>
+  <texture coll="21" bitmap="67" normal_image="Textures/pfhor/pfhor67.dds" type="0"/>
+  <texture coll="21" bitmap="68" normal_image="Textures/pfhor/pfhor68.dds" type="0"/>
+  <texture coll="21" bitmap="69" normal_image="Textures/pfhor/pfhor69.dds" type="0"/>
+  <texture coll="21" bitmap="70" normal_image="Textures/pfhor/pfhor70.dds" type="0"/>
+  <texture coll="21" bitmap="71" normal_image="Textures/pfhor/pfhor71.dds" type="0"/>
+  <texture coll="21" bitmap="72" normal_image="Textures/pfhor/pfhor72.dds" type="0"/>
+  <texture coll="21" bitmap="73" normal_image="Textures/pfhor/pfhor73.dds" type="0"/>
+  <texture coll="21" bitmap="74" normal_image="Textures/pfhor/pfhor74.dds" type="0"/>
+  <texture coll="21" bitmap="75" normal_image="Textures/pfhor/pfhor75.dds" type="0"/>
+  <texture coll="21" bitmap="76" normal_image="Textures/pfhor/pfhor76.dds" type="0"/>
+  <texture coll="21" bitmap="77" normal_image="Textures/pfhor/pfhor77.dds" type="0"/>
+  <texture coll="21" bitmap="78" normal_image="Textures/pfhor/pfhor78.dds" type="0"/>
+  <texture coll="21" bitmap="79" normal_image="Textures/pfhor/pfhor79.dds" type="0"/>
+  <texture coll="21" bitmap="80" normal_image="Textures/pfhor/pfhor80.dds" type="0"/>
+  <texture coll="21" bitmap="81" normal_image="Textures/pfhor/pfhor81.dds" type="0"/>
 
     <!-- Scenery -->
 

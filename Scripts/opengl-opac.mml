@@ -1,17 +1,17 @@
 <marathon>
 <opengl>
     <!-- Walls -->
-  <texture coll="17" bitmap="19" opac_type="2" opac_shift=".5"/>
-  <texture coll="17" bitmap="53" opac_type="1"/>
-  <texture coll="17" bitmap="55" opac_type="1"/>
-  <texture coll="17" bitmap="57" opac_type="1"/>
+  <texture coll="17" bitmap="19" opac_type="1"/>
+  <texture coll="17" bitmap="61" opac_type="0"/>
 
-  <texture coll="19" bitmap="13" opac_type="2" opac_shift=".5"/>
+  <texture coll="19" bitmap="12" opac_type="1"/>
 
-  <texture coll="20" bitmap="13" opac_type="2" opac_shift=".5"/>
+  <texture coll="20" bitmap="13" opac_type="1"/>
+  <texture coll="20" bitmap="67" opac_type="0"/>
 
-  <texture coll="21" bitmap="5" opac_type="2" opac_shift=".7"/>
-  
+  <texture coll="21" bitmap="5" opac_type="2" opac_shift=".6"/>
+  <texture coll="21" bitmap="81" opac_type="1"/>
+
     <!-- Scenery -->
   <texture coll="22" bitmap="0" opac_type="2"/>
   <texture coll="22" bitmap="1" opac_type="2"/>
