@@ -28,19 +28,26 @@ I've located a free M.75 Assault Rifle/Grenade Launcher and ammunition at this l
 
 Here is the terminal you must reach to leave this section.  Alien infiltration of this area is high; proceed with caution.  You may find doors blocked, stairways retracted, or oxygen stations malfunctioning on the way, because the AIs in control of these functions are damaged and behaving erratically.
 
-The BioVent core's macerators are still running, so stay off the bottom if you must venture through them.
+It also controls the BioVent core's macerators.  If you must venture through there, remember to stay off the bottom of the macerator pits.
 
 ***END OF MESSAGE***
 #LOGOFF 8702
 Level 29-b Section 10 Public Access Terminal<102.21.521.146>
 #END
 #FINISHED
-#LOGON 1000
+#LOGON 8702
 Level 29-b Section 10 Public Access Terminal<102.21.521.146>
+#PICT 1700
+
+***INCOMING MESSAGE FROM LEELA***
+
+I've retrieved some information about your weapons.
+
+cmd:append
 #PICT 1045
 
-Marathon Internal Engineering Documents
-Section 7-b
+UESC Marathon Defense Planning Commission
+Report 1359-F - Militia Supply Supplement
 
 $IFigure 7.13$i
 
@@ -50,8 +57,8 @@ Standard Issue for all security officers and active duty field personnel. Utiliz
 
 #PICT 1044
 
-Marathon Internal Engineering Documents
-Section 7-b
+UESC Marathon Defense Planning Commission
+Report 1359-F - Militia Supply Supplement
 
 $IFigure 7.14$i
 
@@ -59,13 +66,14 @@ $BM.75 Assault Rifle With Grenade Option$b
 
 Fires 600 rounds per minute of .75 caliber shells. Standard clip holds 52 rounds of high velocity ammunition. Also fires M-class ultra-high yield grenade cartridges. Grenade clips hold 7 rounds. M.75 Ammunition is neither vacuum enabled nor teflon coated, and due to a manufacturing defect is highly inaccurate at long range.
 
-#PICT 1008
+#PICT 1007
 
-<$BSpurious Interrupt$b>
+You must reach this terminal for transport.  As you have seen, alien infiltration of this area is high.  You may find doors blocked, stairways retracted, or oxygen stations malfunctioning on the way, because the AIs in control of these functions are damaged and behaving erratically.
 
-$B<Alert>$b
-Security Breach at <12.53.2111.42>
-#LOGOFF 1000
+Remember, the BioVent core's macerators are still running, so stay off the bottom if you must venture through there.
+
+***END OF MESSAGE***
+#LOGOFF 8702
 Level 29-b Section 10 Public Access Terminal<102.21.521.146>
 #ENDTERMINAL 0
 ;
