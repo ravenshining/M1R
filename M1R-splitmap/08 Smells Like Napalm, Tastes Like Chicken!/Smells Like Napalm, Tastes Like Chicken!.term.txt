@@ -28,7 +28,7 @@ Medical Access Terminal<39.569.18.194>
 ;
 #TERMINAL 1
 #UNFINISHED
-#LOGON 1707
+#LOGON 1708
 Public Access Terminal 49-z<3.67.299.492>
 #INFORMATION
 <$BUnauthorized access$b-alarm 2521->
@@ -50,7 +50,7 @@ $I<trace mode error>
 <$BFurther Access Denied$b>
 
 <$BBreach Location Undetermined$b>
-#LOGOFF 1707
+#LOGOFF 1708
 Public Access Terminal 49-z<3.67.299.492>
 #ENDTERMINAL 1
 ;
