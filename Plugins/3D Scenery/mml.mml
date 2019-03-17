@@ -1,0 +1,57 @@
+<marathon>
+<opengl>
+
+<model coll="24" seq="9" file="Data/22_00.obj" type="obj" scale="200" x_rot="0" y_rot="0" z_rot="150" depth_type="0">
+<skin clut="-1" normal_image="Data/barrel_map.png" opac_type="1" glow_image="Data/barrel_lmp.png" minimum_glow_intensity="1"/>
+</model>
+
+<model coll="24" seq="10" file="Data/22_01.obj" type="obj" scale="200" x_rot="0" y_rot="0" z_rot="169" z_shift="0.1" depth_type="0" >
+<skin clut="-1" normal_image="Data/sidebarrel_map.png" opac_type="1" glow_image="Data/sidebarrel_lmp.png" minimum_glow_intensity="1" />
+</model>
+
+<model coll="24" seq="11" file="Data/22_06.obj" type="obj" scale="200" x_rot="0" y_rot="0" z_rot="10">
+<skin clut="-1" normal_image="Data/pod_map.png" />
+</model>
+
+<model coll="24" seq="4" file="Data/22_04.obj" type="obj" scale="100" x_rot="0" y_rot="0" z_rot="30" z_shift="0.1">
+<skin clut="-1" normal_image="Data/paper_map.png"/>
+</model>
+
+<model coll="22" seq="16" file="Data/22_05.obj" type="obj" scale="300" x_rot="0" y_rot="0" z_rot="315" depth_type="0">
+<skin clut="-1" normal_image="Data/dish_map.png"/>
+</model>
+
+<model coll="22" seq="17" file="Data/22_07.obj" type="obj" scale="125" x_rot="0" y_rot="0" z_rot="10" z_shift="0.1">
+<skin clut="-1" normal_image="Data/crate_map.png" glow_image="Data/crate_lmp.png" minimum_glow_intensity="1"/>
+</model>
+
+<model coll="24" seq="13" file="Data/22_02.obj" type="obj" scale="110" x_rot="0" y_rot="0" z_rot="30" z_shift="0">
+<skin clut="-1" normal_image="Data/cylinder_map.png"/>
+</model>
+
+<model coll="22" seq="20" file="Data/22_03.obj" type="obj" scale="110" x_rot="0" y_rot="0" z_rot="30" z_shift="0">
+<skin clut="-1" normal_image="Data/sidecylinder_map.png"/>
+</model>
+
+<model coll="07" seq="17" file="Data/07_20.obj" type="obj" scale="100" x_rot="0" y_rot="0" z_rot="0" z_shift="0">
+<skin clut="-1" normal_image="Data/converter_map.png" glow_image="Data/converter_map.png" minimum_glow_intensity="1"/>
+</model>
+
+<model coll="07" seq="16" file="Data/07_16.obj" type="obj" scale="100" x_rot="0" y_rot="0" z_rot="30" y_shift="100" z_shift="5" depth_type="+">
+<skin clut="-1" opac_type="0" normal_image="Data/card_map.png"/>
+</model>
+
+<model coll="23" seq="7" file="Data/cadavabob.obj" type="obj" scale="130" x_rot="0" y_rot="0" z_rot="0" x_shift="-85">
+<skin clut="-1" normal_image="Data/bob_map.png" opac_type="1"/>
+</model>
+
+<model coll="23" seq="15" file="Data/incubator.obj" type="obj" scale="130" x_rot="0" y_rot="0" z_rot="0" x_shift="0">
+<skin clut="-1" normal_image="Data/incubator_map.png" opac_type="1" />
+</model>
+
+<model coll="23" seq="12" file="Data/Orb.obj" type="obj" scale="200" x_rot="0" y_rot="0" z_rot="0" x_shift="0">
+<skin clut="-1" normal_image="Data/Orb_map.png"/>
+</model>
+
+</opengl>
+</marathon>

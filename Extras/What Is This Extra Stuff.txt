@@ -21,17 +21,6 @@ a level to grow a new terminal to use it.
 Storyboard.odg - LibreOffice Draw flowchart outlining how we plan
 to thread the levels so far.
 
-3D_Scenery.zip - Install this plugin for 3D-modelled scenery.
-I have removed it here because Aleph One currently has a bug that
-causes depth-testing issues with sprites when 3D models and the
-shader renderer are in use: dead bodies and scenery items glitch
-into the floor, and detonation effects glitch into walls.  In light
-of this issue, I have created 8-view sprites based on Tacticus's
-3D Scenery plugin with resolutions up to 1024x1024 as the default,
-so you may still enjoy viewing Tacticus's scenery from multiple
-angles without installing this plugin.
-
-
 Files listed below will not be included in Simplici7y releases:
 
 Chroma Key - map used in conjunction with Wrkncaknter's Differential Shading Checker to made sprites out of 3D models

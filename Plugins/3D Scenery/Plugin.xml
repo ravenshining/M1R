@@ -1,0 +1,3 @@
+<plugin name="3d scenery" version="1.2" description="3d Scenery for Marathon 1">
+<mml file="mml.mml"/>
+</plugin>
