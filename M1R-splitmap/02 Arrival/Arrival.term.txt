@@ -1,6 +1,7 @@
 ;
 #TERMINAL 0
 #UNFINISHED
+#TAG 2
 #LOGON 1000
 Airlock 34-a Terminal Access <Port 19.1.2.128>
 #PICT 1000
@@ -14,6 +15,7 @@ At 0830 hours, alien forces boarded the Marathon.  The current situation is dire
 <Posted 2794.7.3.14.08.39>
 #LOGOFF 1000
 Airlock 34-a Terminal Access <Port 19.1.2.128>
+#TAG 1
 #LOGON 8702
 Airlock 34-a Terminal Access <Port 19.1.2.128>
 #PICT 1700
@@ -39,6 +41,7 @@ Airlock 34-a Terminal Access <Port 19.1.2.128>
 #UNFINISHED
 #LOGON 5917
 Hangar Area-5 Engineering Access 50-h<291.7.577.456>
+#TAG 2
 #PICT 1046
 
 <$BUnauthorized access$b-alarm 2521->
@@ -73,6 +76,7 @@ Hangar Area-5 Engineering Access 50-h<291.7.577.456>
 #FINISHED
 #LOGON 5918
 Hangar Area-5 Engineering Access 50-h<291.7.577.456>
+#TAG 2
 #PICT 1046
 <$BUnauthorized access$b-alarm 2521->
 <Security Breached 50-h<291.7.577.456>->
@@ -99,6 +103,7 @@ Hangar Area-5 Engineering Access 50-h<291.7.577.456>
 #UNFINISHED
 #LOGON 5917
 Hangar Area-5 Engineering Access 49-h<294.2.577.456>
+#TAG 2
 #PICT 1700
 
 <$BUnauthorized access$b-alarm 2521->
@@ -129,6 +134,7 @@ Hangar Area-5 Engineering Access 49-h<294.2.577.456>
 #FINISHED
 #LOGON 5918
 Hangar Area-5 Engineering Access 49-h<294.2.577.456>
+#TAG 2
 #PICT 1701
 
 <$BUnauthorized access$b-alarm 2521->
