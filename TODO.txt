@@ -12,8 +12,7 @@ Music:
 Images:		Redraw title console
 Textures:	Bump maps
 Other:		Complile myself a stable A1 to test against
-3-D:		Make railing, scenery, furniture
-		Get someone to fix the depth-test bug
+3-D:		Make railing, scenery, furniture?
 
 Prolouge - Redraw and add sound
 	I.  New Thermopylae - Create!
@@ -179,5 +178,9 @@ Rebellion
 	33a A Good Way to Die - 
 	33b A Bad Way to Die
 Epilouge - the Marine helping the Bob
-	34. Cold storage? - Create?
+	34. Roots & Radicals - rename
+                add pfhor ship area
+                fix texturing
+                write terminals
+                add bodies
 The Final Screen - totally needs redraw
