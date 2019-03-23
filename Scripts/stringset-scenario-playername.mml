@@ -2,7 +2,7 @@
 
 <player_name>Mjolnir Recon 54</player_name>
 
-<scenario name="Marathon Redux" id="Marathon Redux 0.0.6"/>
+<scenario name="Marathon Redux" id="Marathon Redux 0.0.13"/>
 
 <stringset index="129">
   <string index="0">Redux Shapes.shpA</string>

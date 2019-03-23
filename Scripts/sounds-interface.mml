@@ -20,9 +20,9 @@
   <rect index="12" top="213" left="414" bottom="239" right="510"/>
   <rect index="13" top="246" left="422" bottom="272" right="504"/>
   <rect index="14" top="277" left="410" bottom="303" right="511"/>
-  <rect index="15" top="362" left="297" bottom="390" right="343"/>
-  <rect index="16" top="394" left="297" bottom="424" right="344"/>
-  <rect index="17" top="222" left="265" bottom="295" right="371"/>
+  <rect index="15" top="312" left="293" bottom="355" right="349"/>
+  <rect index="16" top="364" left="298" bottom="422" right="342"/>
+  <rect index="17" top="212" left="249" bottom="306" right="390"/>
   <color index="5" red="0" green="0" blue="0"/>
   <weapon index="6" start_y="412" end_y="434" start_x="412" end_x="580" top="352" left="384">
     <ammo index="0" type="0"/>
