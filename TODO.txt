@@ -179,8 +179,5 @@ Rebellion
 	33b A Bad Way to Die
 Epilouge - the Marine helping the Bob
 	34. Roots & Radicals - rename
-                add pfhor ship area
-                fix texturing
-                write terminals
                 add bodies
 The Final Screen - totally needs redraw
