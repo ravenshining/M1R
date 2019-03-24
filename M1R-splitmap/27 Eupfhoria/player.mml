@@ -1,0 +1,10 @@
+<marathon>
+  <player energy="400">
+    <item index="0" type="8"/>
+    <item index="3" type="1"/>
+    <item index="4" type="1"/>
+    <item index="5" type="3"/>
+    <item index="6" type="5"/>
+    <item index="7" type="24"/>
+  </player>
+</marathon>

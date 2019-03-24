@@ -1,0 +1,9 @@
+<marathon>
+  <player>
+    <item index="0" type="5"/>
+    <item index="3" type="1"/>
+    <item index="6" type="25"/>
+    <item index="7" type="25"/>
+    <item index="8" type="25"/>
+  </player>
+</marathon>
