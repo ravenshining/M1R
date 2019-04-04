@@ -1,0 +1,12 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1717
+$C2%·›ð´çÇ§ɛƒ@&!7ÇºÇ€^&!ƒµÇ§¡¢≥¡%·¢çÇ€ɛƒ@&!7Çº
+#PICT 1713 CENTER
+#PICT 1714 CENTER
+#PICT 1715 CENTER
+#LOGOFF 1717
+$C2%·›ð´çÇ§ɛƒ@&!7ÇºÇ€^&!ƒµÇ§¡¢≥¡%·¢çÇ€ɛƒ@&!7Çº
+#ENDTERMINAL 0
+;
