@@ -120,7 +120,7 @@
   <texture coll="18" bitmap="6" normal_image="Textures/lava/lava06.dds" type="0"/>
   <texture coll="18" bitmap="7" normal_image="Textures/lava/lava07.dds" type="0"/>
   <texture coll="18" bitmap="8" normal_image="Textures/lava/lava08.dds" type="0"/>
-  <texture coll="18" bitmap="9" normal_image="Textures/lava/lava09.bmp" glow_image="Textures/lava/lava09gm.bmp" glow_premultiply="true" type="0"/>
+  <texture coll="18" bitmap="9" normal_image="Textures/lava/lava09.dds" glow_image="Textures/lava/lava09gm.dds" glow_premultiply="true" type="0"/>
   <texture coll="18" bitmap="10" normal_image="Textures/lava/lava10.dds" type="0"/>
   <texture coll="18" bitmap="11" normal_image="Textures/lava/lava11.dds" type="0"/>
   <texture coll="18" bitmap="12" normal_image="Textures/lava/lava12.dds" glow_image="Textures/lava/lava12gm.dds" type="0"/>
@@ -204,6 +204,7 @@
   <texture coll="19" bitmap="10" normal_image="Textures/sewage/sewage10.dds" type="0"/>
   <texture coll="19" bitmap="11" normal_image="Textures/sewage/sewage11.dds" type="0"/>
   <texture coll="19" bitmap="12" normal_image="Textures/sewage/sewage12.dds" type="0"/>
+  <texture coll="19" bitmap="13" normal_image="Textures/sewage/sewage13.dds" type="0"/>
   <texture coll="19" bitmap="14" normal_image="Textures/sewage/sewage14.dds" type="0"/>
   <texture coll="19" bitmap="15" normal_image="Textures/sewage/sewage15.dds" type="0"/>
   <texture coll="19" bitmap="16" normal_image="Textures/sewage/sewage16.dds" type="0"/>

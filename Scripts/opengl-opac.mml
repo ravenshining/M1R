@@ -4,7 +4,11 @@
   <texture coll="17" bitmap="19" opac_type="1"/>
   <texture coll="17" bitmap="61" opac_type="0"/>
 
-  <texture coll="19" bitmap="12" opac_type="1"/>
+  <texture coll="18" bitmap="12" opac_type="1"/>
+  <texture coll="18" bitmap="50" opac_type="0"/>
+
+  <texture coll="19" bitmap="13" opac_type="1"/>
+  <texture coll="19" bitmap="41" opac_type="0"/>
 
   <texture coll="20" bitmap="13" opac_type="1"/>
   <texture coll="20" bitmap="67" opac_type="0"/>
