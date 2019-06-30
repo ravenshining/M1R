@@ -4,9 +4,12 @@ Lua:		Use lua to handle vacuum for BQ, Arrival, CF
                 level titles
                 ammo pickup.
 		Rocket launcher ammo sprite?
+		teleport flash
 MML:
-Shapes:		Check AR marine scale, flame scale, staff/legs align, upscale weapons in hand to match original
-Sounds:
+Shapes:		Check AR marine scale, flame scale, staff/legs align
+                upscale weapons in hand to match original
+                Fix weird glowing bits on Pfhor
+Sounds:         Change Pfhor victory sound to avoid confusion
 Physics:
 Music:		
 Images:		Redraw title console
