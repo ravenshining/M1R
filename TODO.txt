@@ -126,6 +126,7 @@ Tycho - Create!
 		"Humanity is corrupt and no better than the Pfhor, really. Slavers, all."
 		Teleport enemies into areas on second pass
 		Serious monster pathing needed
+		X number of converters for x number of players
 	15. ECC - Create!
 	16. PTICN - Create!
 	17. RSC - Create!
