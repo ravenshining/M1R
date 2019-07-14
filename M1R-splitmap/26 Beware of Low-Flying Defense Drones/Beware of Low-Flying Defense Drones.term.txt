@@ -15,6 +15,7 @@ By the way, I had an accident with some defense drones while you were away.  You
 Durandal
 
 ***END OF MESSAGE***
+#TAG 3
 #LOGOFF 1707
 Requisition Area Terminal 32-c<42.23.63.59>
 #ENDTERMINAL 0
@@ -55,7 +56,7 @@ $C0
 <Excerpts from the Martian Conflict 2345-48>
 $C3
 ~1```<Information Termination>
-
+#INFORMATION
 <Durandal.olifant.compnet~@24%>
 **Tycho.
 
@@ -69,6 +70,7 @@ $C5
 ~!#31`c/dr.~/dr.~!#3!#3c/dr.  
   
 <Terminal Error>
+#TAG 1
 #LOGOFF 5931
 $C5Public Access 1066-g<123.412.452.255>
 #ENDTERMINAL 1
@@ -77,6 +79,25 @@ $C5Public Access 1066-g<123.412.452.255>
 #UNFINISHED
 #LOGON 1707
 Public Access Terminal 73<73.124.591.3>
+#INFORMATION
+***INCOMING MESSAGE FROM DURANDAL***
+
+I don't want a bunch of grenades going off in this part of this ship while you're gone, and my next plan is too important for you to be going in under-equipped.
+
+Get out of here.  Come back after you've secured all the ammunition cahces in this area and I'll let you know what's going on.
+
+$B***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+***END OF MESSAGE***
+#TAG 2
+#LOGOFF 1707
+Public Access Terminal 73<73.124.591.3>
+#INTRALEVEL TELEPORT 233
+#END
+#FINISHED
+#LOGON 1707
+Public Access Terminal 73<73.124.591.3>
+#TAG 2
 #INFORMATION
 ***INCOMING MESSAGE FROM DURANDAL***
 
