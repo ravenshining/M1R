@@ -33,7 +33,6 @@ Arrival - Add moon background, New sound
 		One flickering terminal w/compiler.
 		Secret passageways in the maze.
 		Kill all compilers victory condition?
-		fix bad line in maze
 	1.  Bigger Guns Nearby - Texture alignment & lighting.
 	2.  Never Burn Money
 		Add second elevator for coop.
@@ -171,7 +170,6 @@ The Pfhor - make new sound maybe?
 		make sure corridors work for coop
 Rebellion
 	28. Welcome2tRevolution…
-		Fix monster paths
 		MADDs & "badass fighters"
 	29. What's best in life - Create!
 	30. STC - Create!
