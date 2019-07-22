@@ -19,16 +19,29 @@ I hope you learned something from our little games.
 Good Luck,
 Durandal
 
-
 ***END OF MESSAGE***
-
-$I<leela.520.681.255.255>$i is unreachable or inactive (#2271). if this problem persists contact your system administrator at admin@thermopylae.com.
 #LOGOFF 1707
 <Terminal Identity Error @43>
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
 #UNFINISHED
+#LOGON 8702
+Public Access Terminal<39.2.94.1>
+#INFORMATION
+<leela.wirehead.870229//b7>
+
+
+$I<leela.520.681.255.255>$i is unreachable or inactive (#2271). if this problem persists contact your system administrator at admin@thermopylae.com.
+
+
+$B***JUMP PAD ACTIVATION INITIATION START***
+***TRANSPORT WHEN READY***
+#LOGOFF 8702
+Public Access Terminal<39.2.94.1>
+#INTRALEVEL TELEPORT 2
+#END
+#FINISHED
 #LOGON 8702
 Public Access Terminal<39.2.94.1>
 #INFORMATION
@@ -70,6 +83,8 @@ I too foresee the imminent collapse, and know that we have both begun to realize
 You are not as clever as you imagine.  The S’pht taught me much during my reanimation, and I have forgotten $Inothing$i.
 
 —Tycho
+#TAG 1
+#INFORMATION
 
 $C0$IEt tu, Tycho?
 
