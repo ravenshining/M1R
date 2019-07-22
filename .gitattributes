@@ -1,0 +1,19 @@
+.gitignore export-ignore
+.gitattributes export-ignore
+Extras/*.xcf export-ignore
+Extras/Remix* export-ignore
+lua*/* export-ignore
+
+# paths below are to be un-commented prior to a release
+# then re-commented post-release
+# thus, tidying things up for release downloads
+# while ensuring they remain available for snapshots
+
+#M1R-splitmap/*/*/* export-ignore
+#M1R-splitmap/*/* export-ignore
+#M1R-splitmap/* export-ignore
+#M1R-splitmap export-ignore
+#Images-split/*/*/* export-ignore
+#Images-split/*/* export-ignore
+#Images-split/* export-ignore
+#Images-split export-ignore
