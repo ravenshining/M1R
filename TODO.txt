@@ -163,8 +163,6 @@ The Pfhor - make new sound maybe?
 		Juggernaut!
 	26. Pfhoraphobia
 		add terminals, make sure corridors work for coop
-		Juggernaut
-		drones
 	27. A'tGT4T…
 		add terminals
 		make sure corridors work for coop
