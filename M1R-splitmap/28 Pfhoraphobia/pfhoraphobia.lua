@@ -1,5 +1,5 @@
 Triggers = {}
-CollectionsUsed = {12}
+-- CollectionsUsed = {12}
 
 function Triggers.init(restoring_game)
   Game.proper_item_accounting = true
@@ -42,15 +42,17 @@ end
 
 function Triggers.monster_damaged(monster, aggressor_monster, damage_type, damage_amount, projectile)
   if monster.type == "explodavacbob" then
+    _mz = monster.z - 0.5
     bloodx = monster.x + Game.global_random(100) / 100 - 0.5
     bloody = monster.y + Game.global_random(100) / 100 - 0.5
-    Scenery.new(bloodx, bloody, monster.z, monster.polygon, "green stuff")
+    Scenery.new(bloodx, bloody, _mz, monster.polygon, "green stuff")
   end
 end
 
 function Triggers.monster_killed(monster, aggressor_player, projectile)
   if monster.type == "explodavacbob" then
-    Scenery.new(monster.x, monster.y, monster.z, monster.polygon, "light dirt")
+    _mz = monster.z - 0.5
+    Scenery.new(monster.x, monster.y, _mz, monster.polygon, "pistol clip")
     deathx = monster.x
     deathy = monster.y
     _os = 1
@@ -63,24 +65,29 @@ function Triggers.monster_killed(monster, aggressor_player, projectile)
         if m.type == "minor compiler" and m.life > 0 then
           orangespht[_os]:position(m.x, m.y, m.z, m.polygon)
           orangespht[_os]:move_by_path(pilgrim)
+          orangespht[_os].life = m.life + 7
           _os = _os + 1
         elseif m.type == "major compiler" and m.life > 0 then
           pinkspht[_ps]:position(m.x, m.y, m.z, m.polygon)
           pinkspht[_ps]:move_by_path(pilgrim)
+          pinkspht[_ps].life = m.life + 7
           _ps = _ps + 1
         elseif m.type == "minor invisible compiler" and m.life > 0 then
           blackspht[_bs]:position(m.x, m.y, m.z, m.polygon)
           blackspht[_bs]:move_by_path(pilgrim)
+          blackspht[_bs].life = m.life + 7
           _bs = _bs + 1
         elseif m.type == "major invisible compiler" and m.life > 0 then
           greyspht[_gs]:position(m.x, m.y, m.z, m.polygon)
           greyspht[_gs]:move_by_path(pilgrim)
+          greyspht[_gs].life = m.life + 7
           _gs = _gs + 1
         end
         m:position(deathx, deathy, 0, graveyard)
         m.life = Game.random(math.ceil(m.life)+1)
       elseif m.type.class == "drone" then
-        m:damage(m.life + 1)
+        m.active = true
+        m:damage(m.life + 7)
       end
     end
     Tags[1].active = true
@@ -91,8 +98,11 @@ function Triggers.idle()
   for p in Players() do
     if p.polygon.media and p.dead == false then
       if p.polygon.media.type == "water" then
-        p:damage(7, "oxygen drain")
-        p:damage(7, "suffocation")
+        p:damage(64, "oxygen drain")
+        p:damage(1, "suffocation")
+        if p.oxygen <=0 then
+          p:damage(451, suffocation)
+        end
       end
     end
   end

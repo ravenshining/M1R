@@ -11,4 +11,11 @@
     <assign_live monster="14" type="-1"/>
     <assign_live monster="41" type="-1"/>
   </overhead_map>
+  <scenery>
+    <object index="13" flags="1" radius="342" height="768"/>
+  </scenery>
+  <player>
+    <damage index="20" fade="5"/>
+    <damage index="22" fade="6"/>
+  </player>
 </marathon>
