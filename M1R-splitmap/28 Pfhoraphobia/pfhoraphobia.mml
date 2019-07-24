@@ -1,0 +1,14 @@
+<marathon>
+  <motion_sensor>
+    <assign monster="12" type="2"/>
+    <assign monster="13" type="2"/>
+    <assign monster="14" type="2"/>
+    <assign monster="41" type="2"/>
+  </motion_sensor>
+  <overhead_map>
+    <assign_live monster="12" type="-1"/>
+    <assign_live monster="13" type="-1"/>
+    <assign_live monster="14" type="-1"/>
+    <assign_live monster="41" type="-1"/>
+  </overhead_map>
+</marathon>
