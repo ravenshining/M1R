@@ -435,6 +435,7 @@
   <texture coll="21" bitmap="79" normal_image="Textures/pfhor/pfhor79.dds" type="0"/>
   <texture coll="21" bitmap="80" normal_image="Textures/pfhor/pfhor80.dds" type="0"/>
   <texture coll="21" bitmap="81" normal_image="Textures/pfhor/pfhor81.dds" type="0"/>
+  <texture coll="21" bitmap="82" normal_image="Textures/pfhor/pfhor82.dds" type="0"/>
 
     <!-- Scenery -->
 

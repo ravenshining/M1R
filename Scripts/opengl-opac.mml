@@ -15,6 +15,7 @@
 
   <texture coll="21" bitmap="5" opac_type="2" opac_shift=".6"/>
   <texture coll="21" bitmap="81" opac_type="1"/>
+  <texture coll="21" bitmap="82" opac_type="1"/>
 
     <!-- Scenery -->
   <texture coll="22" bitmap="0" opac_type="2"/>
