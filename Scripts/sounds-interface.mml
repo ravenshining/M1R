@@ -23,6 +23,7 @@
   <rect index="15" top="312" left="293" bottom="355" right="349"/>
   <rect index="16" top="364" left="298" bottom="422" right="342"/>
   <rect index="17" top="212" left="249" bottom="306" right="390"/>
+  <vidmaster stringset_index="177"/>
   <color index="5" red="0" green="0" blue="0"/>
   <weapon index="6" start_y="412" end_y="434" start_x="412" end_x="580" top="352" left="384">
     <ammo index="0" type="0"/>

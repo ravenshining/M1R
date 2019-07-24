@@ -79,4 +79,15 @@
   <string index="5">ORBS</string>
 </stringset>
 
+<stringset index="177">
+  <string index="0">Before proceeding any further, you</string>
+  <string index="1">must take the oath of the vidmaster:</string>
+  <string index="2"></string>
+  <string index="3">[QUOTE]"I pledge to punch all switches,</string>
+  <string index="4">[QUOTE]to never shoot where I could use grenades,</string>
+  <string index="5">[QUOTE]to admit the existence of no level below Total Carnage,</string>
+  <string index="6">[QUOTE]to never use Caps Lock as my 'run' key,</string>
+  <string index="7">[QUOTE]nor play with 'always run' enabled,</string>
+  <string index="8">[QUOTE]and to never, ever, leave a single BoB's killer alive."</string>
+</stringset>
 </marathon>
