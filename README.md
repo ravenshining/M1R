@@ -11,20 +11,17 @@ HD Textures by Tim Vogel and Jay Faircloth
 
 Durandal chapter screen by Nathan 92
 
-New Terminals written by Philtron and Lia Raven
+New Terminals written by Philtron and Ravenshining
 
-BoB Terminal art by Radix
+Terminal art by General Radix and Ravenshining
 
-Marine sprites by President People
+From Eternal with permission from Pfhorrest: Marine sprites by President People; Hulk, Wasp, & Looker sprites by Christopher Lund.
 
-Hulk, Wasp, & Looker sprites by Christopher Lund
+Juggernaut, Fighter, & S'pht sprite revisions, sound mods, and level embellishment by Ravenshining
 
-Juggernaut, Fighter, & S'pht sprite revisions, sound mods, and level embellishment by Lia Raven
+Special thanks to Treelama and Wrkncacnter for their help and efforts with Aleph One and its editors; and to CluckyInventor, Narcogen, and Blackstar for their playthough commentaries.
 
-Special thanks to Treelama & CluckyInventor
-
-Glade files under the "For Weland" directory are distributed under GNU General Public License, see the file
-COPYING for details.
+Glade files under the "For Weland" directory are distributed under GNU General Public License, see the file COPYING for details.
 
 Marathon Credits: Jason Jones, Ryan Martell, Alain Roy, J. Reginald Dujour, Alexander Seropian, Greg Kirkpatrick, Colin Brent, Doug Zartman, Don Dixon. Special Thanks: Eric Klein, Tuncer Deniz, Laura Weber, Max Minkoff, Brian Wink, J.k. Wright, 13th Floor.
 
