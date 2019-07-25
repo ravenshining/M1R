@@ -5,7 +5,7 @@
     <landscape coll="30" horiz_exp="0" vert_exp="0" ogl_asprat_exp="1"/>
     </landscapes>
   <opengl>
-    <texture coll="27" bitmap="0" normal_image="starscapes/taucetisky1536.dds" landscape_bloom="0" type="1"/>
+    <texture coll="27" bitmap="0" normal_image="starscapes/taucetisky.dds" landscape_bloom="0" type="1"/>
     <texture coll="29" bitmap="0" normal_image="starscapes/taucetei3072plow.dds" landscape_bloom="0" type="1"/>
     <texture coll="29" bitmap="1" normal_image="starscapes/taucetei3072-noship.dds" landscape_bloom="0" type="1"/>
     <texture coll="30" bitmap="0" normal_image="starscapes/taucetei3072ppfhor.dds" landscape_bloom="0" type="1"/>
