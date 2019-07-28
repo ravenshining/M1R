@@ -1,9 +1,9 @@
 ;
 #TERMINAL 0
 #UNFINISHED
-#TAG 2
 #LOGON 1000
 Airlock 34-a Terminal Access <Port 19.1.2.128>
+#TAG 1
 #PICT 1000
 <Message to All Marathon Terminals>
 
@@ -15,7 +15,6 @@ At 0830 hours, alien forces boarded the Marathon.  The current situation is dire
 <Posted 2794.7.3.14.08.39>
 #LOGOFF 1000
 Airlock 34-a Terminal Access <Port 19.1.2.128>
-#TAG 1
 #LOGON 8702
 Airlock 34-a Terminal Access <Port 19.1.2.128>
 #PICT 1700
@@ -34,6 +33,9 @@ There is a jump pad at this location.  Activate the terminal to leave the Hangar
 
 ***END MESSAGE***
 #LOGOFF 8702
+Airlock 34-a Terminal Access <Port 19.1.2.128>
+#TAG 3
+#LOGOFF 1000
 Airlock 34-a Terminal Access <Port 19.1.2.128>
 #ENDTERMINAL 0
 ;

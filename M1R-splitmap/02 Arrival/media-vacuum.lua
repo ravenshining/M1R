@@ -1,8 +1,8 @@
 Triggers = {}
 
 function Triggers.init()
-  outerdoor = Platforms[12]
-  innerdoor = Platforms[13]
+  outerdoor = Platforms[11]
+  innerdoor = Platforms[12]
   for p in Platforms() do
     if p.polygon.media then
       if p.polygon.media == "goo" then
@@ -69,16 +69,16 @@ function suffocatemonsters()
         if comic.action ~= "attacking close" and comic.action ~= "attacking far" and comic.action ~= "dying hard" and comic.action ~= "dying soft" and comic.action ~= "dying flaming" then
           comic._run = false
           if comic.polygon.media.type == "goo" then
-            comic:damage(9, "explosion")
+            comic:damage(3, "explosion")
             comic._run = true
           elseif comic.polygon.media.type == "jjaro" then
             comic:damage(comic.life+1, "explosion")
-          elseif outerdoor.active == "true" then
+          elseif outerdoor.floor_height < -0.8  then
             if comic.polygon.media.type == "lava" then
-              comic:damage(7, "explosion")
+              comic:damage(2, "explosion")
               comic._run = true
-            elseif innerdoor.active == "true" and comic.polygon.media == "water" then
-              comic:damage(5, "explosion")
+            elseif innerdoor.floor_height < -0.8 and comic.polygon.media == "water" then
+              comic:damage(1, "explosion")
               comic._run = true
             end
           end
