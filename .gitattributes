@@ -9,11 +9,11 @@ lua*/* export-ignore
 # thus, tidying things up for release downloads
 # while ensuring they remain available for snapshots
 
-M1R-splitmap/*/*/* export-ignore
-M1R-splitmap/*/* export-ignore
-M1R-splitmap/* export-ignore
-M1R-splitmap export-ignore
-Images-split/*/*/* export-ignore
-Images-split/*/* export-ignore
-Images-split/* export-ignore
-Images-split export-ignore
+#M1R-splitmap/*/*/* export-ignore
+#M1R-splitmap/*/* export-ignore
+#M1R-splitmap/* export-ignore
+#M1R-splitmap export-ignore
+#Images-split/*/*/* export-ignore
+#Images-split/*/* export-ignore
+#Images-split/* export-ignore
+#Images-split export-ignore
