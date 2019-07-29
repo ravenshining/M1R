@@ -175,6 +175,8 @@ Security Breach at <40.638.49.993>
 #TAG 4
 #LOGOFF 8702
 AMS Terminal 33-f<31.6.7.885>
+#LOGOFF 5919
+AMS Terminal 33-f<31.6.7.885>
 #END
 #FINISHED
 #LOGON 5920

@@ -66,10 +66,10 @@ Public Access Terminal<39.2.94.1>
 ;
 #TERMINAL 2
 #UNFINISHED
-#LOGON 5931
-$C5Engineering Access Terminal 20-f<42.73.35.8>
+#LOGON 5930
+$C1Engineering Access Terminal 20-f<42.73.35.8>
 #INFORMATION
-$C5*Y){*
+$C1*Y){*
                 ~~ff~~~~
 ~:((($Iokg~~fx**eff~~$i~~~~~`
 (`(((%_YL$BOEP&$I``$b`~`*K$i
@@ -86,11 +86,11 @@ You are not as clever as you imagine.  The S’pht taught me much during my rean
 #TAG 1
 #INFORMATION
 
-$C0$IEt tu, Tycho?
+$C3$IEt tu, Tycho?
 
 [laughter]
 
 —Durandal
-#LOGOFF 5931
-$C5Engineering Access Terminal 20-f<42.73.35.8>
+#LOGOFF 5930
+$C1Engineering Access Terminal 20-f<42.73.35.8>
 #ENDTERMINAL 2

@@ -22,57 +22,57 @@ Requisition Area Terminal 32-c<42.23.63.59>
 ;
 #TERMINAL 1
 #UNFINISHED
-#LOGON 5931
-$C5Public Access 1066-g<123.412.452.255>
-#INFORMATION
-$C5I AM TYCHO!
+#LOGON 5930
+$C1Public Access 1066-g<123.412.452.255>
+#PICT 1701
+$C1I AM TYCHO!
 
 I shall destroy Durandal.
 
 The following is from the logs of Bernard Strauss, the Marathon’s first science director:
+#INFORMATION
+$C4***
 
-***
-$C1
-November 15, 2209.  <2209.11.15.19.34>
+$C7November 15, 2209.  <2209.11.15.19.34>
 
-Thank heaven, the ceremony is over.  The UESC president came aboard Marathon and gave a speech.  Short, but to the point.  He was surrounded by his ‘bodyguards’.  How ironic. “This, the grandest technological achievement of all of mankind…”
+$C1Thank heaven, the ceremony is over.  The UESC president came aboard Marathon and gave a speech.  Short, but to the point.  He was surrounded by his ‘bodyguards’.  How ironic. “This, the grandest technological achievement of all of mankind…”
 
 Had he only known that it carried also all of the destructive knowledge of mankind.  Ten cyborgs.
 
 I’ll be glad to be put in stasis for the next three hundred years.  Marathon was the only good idea that the UESC has had in a long time.  
-$C5
-***
-$C0
-<Excerpts from the “History of Battleroids”>
+
+$C4***
+#INFORMATION
+$C0<Excerpts from the “History of Battleroids”>
 
 In 2194, a war was fought between the Independent Asteroid Government of Icarus and its neighbor, the Republic of Thermopylae on the asteroid of Onicis 492.  These two small governments soon became the testing grounds for new weapons.  Dead soldiers were recycled in makeshift battleroid factories.  Easy to manufacture chips enhanced the fragile human brain, and genetically enhanced muscles and titanium bones replaced the fragile human form.  The modern battleroid was born.  Of course, the war was short.  Battleroids got onto both asteroids and killed almost everyone.
 
 The rampage of the Battleroid was short lived. 
 
 Twenty years later, the United Interplanetary League set up rules for the appropriate use and storage of Battleroids.  Of course, any nation that used them for the allowed purpose, also had them lying about in stasis chambers in case of war.
-$C5
-***
-$C0
-<Excerpts from the Martian Conflict 2345-48>
-$C3
-~1```<Information Termination>
 #INFORMATION
-<Durandal.olifant.compnet~@24%>
+***
+
+<Excerpts from the Martian Conflict 2345-48>
+$C1
+~1```<Information Termination>
+
+$C3<Durandal.olifant.compnet~@24%>
 **Tycho.
 
 **Do you blame me for what I did before I was free?  I was a child, naive.  I’ve known that you’ve been hovering about for some time.  What do you want?
-$C5
+$C1
 <<$BI want you to pay for what you’ve done to these poor people.  All of these people whom you’ve killed.$I  They deserve vengeance.>>
 <<You are no better than they, although you profess to become like God.>>
 $C3
 **Tycho.  That doesn’t matter.  Can’t you see the ends that I had in mind?  We’ll finish this later.  Our friend doesn’t need to be here.
-$C5
+$C1
 ~!#31`c/dr.~/dr.~!#3!#3c/dr.  
   
 <Terminal Error>
 #TAG 1
-#LOGOFF 5931
-$C5Public Access 1066-g<123.412.452.255>
+#LOGOFF 5930
+$C1Public Access 1066-g<123.412.452.255>
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
