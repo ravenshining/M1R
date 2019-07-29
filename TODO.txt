@@ -8,7 +8,6 @@ Lua:		Use lua to handle vacuum for BQ, Arrival, CF
 MML:
 Shapes:		Check AR marine scale, flame scale, staff/legs align
                 upscale weapons in hand to match original
-                Fix weird glowing bits on Pfhor
 Sounds:         Change Pfhor victory sound to avoid confusion
 Physics:
 Music:		
@@ -107,7 +106,6 @@ Durandal - make new sound
 	12. Fire!!!!!
 		good place for lava secrets, MIDA
 		second lava texture for solid lava
-		Add fog script to explain lack of oxygen
 		Add another O2 cannister and more coop 02
 	13. CS4S,C
 		Remove the cheap way out. Instead, add interconnecting hallways, improve the view, and put a texture that better indicates platform height (maybe even make the platforms telescoping or ratcheting!)
@@ -141,7 +139,6 @@ The Pfhor - make new sound maybe?
 	20. PfhorYourEyesOnly…
 		add terminals
 		add secret M2 architecture
-		add drones!
 	21. NoArtificialColors
 		Strauss terminal?
 		MIDA plot?
