@@ -518,14 +518,18 @@
 
     <!-- Landscapes -->
 
-  <texture coll="27" bitmap="0" landscape_bloom="1"/>
+  <texture coll="27" bitmap="0" landscape_bloom="1" />
 
   <texture coll="28" bitmap="0" landscape_bloom="1"/>
 
-  <texture coll="29" bitmap="0" landscape_bloom="0"/>
-  <texture coll="29" bitmap="1" landscape_bloom="0"/>
+  <texture coll="29" bitmap="0" landscape_bloom="0" normal_image="Textures/general/deimos-1.dds" type="1"/>
+  <texture coll="29" bitmap="1" landscape_bloom="0" normal_image="Textures/general/deimos-noship.dds" type="1"/>
 
-  <texture coll="30" bitmap="0" landscape_bloom="0"/>
+  <texture coll="30" bitmap="0" landscape_bloom="0" normal_image="Textures/general/pfhorscape.dds" type="1"/>
 
 </opengl>
+<landscapes>
+  <landscape coll="29" horiz_exp="0" vert_exp="0" ogl_asprat_exp="1"/>
+  <landscape coll="30" horiz_exp="0" vert_exp="0" ogl_asprat_exp="1"/>
+</landscapes>
 </marathon>
