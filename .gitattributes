@@ -3,6 +3,7 @@
 Extras/*.xcf export-ignore
 Extras/Remix* export-ignore
 lua*/* export-ignore
+lua\ templates export-ignore
 
 # paths below are to be un-commented prior to a release
 # then re-commented post-release
