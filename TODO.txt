@@ -1,15 +1,17 @@
-Lua:		Use lua to handle vacuum for BQ, Arrival, CF
+Lua:            directional beacon when terminals give map info
                 Floating HUD
                 controllable infravision?
                 level titles
                 ammo pickup.
 		Rocket launcher ammo sprite?
 		teleport flash
-MML:
+                holding staff illuminates area
+MML:            Adjust player light
 Shapes:		Check AR marine scale, flame scale, staff/legs align
                 upscale weapons in hand to match original
+                Ensure replacement fidelity
 Sounds:         Change Pfhor victory sound to avoid confusion
-Physics:
+Physics:        Implement changes from poll results
 Music:		
 Images:		Redraw title console
 Textures:	Bump maps
@@ -73,6 +75,7 @@ At Some Point here or earlier: Term explaining Elevators and Platforms!
 		Elaborate control room.
 		Leela should mention where exit terminal is.
 		Info on Tycho being unreachable but in contact with Durandal
+                Use lua to handle vacuum
 	8.  G4 Sunbathing - In progress.
 		Elaborate hallways.
 		Add bulkheads.
