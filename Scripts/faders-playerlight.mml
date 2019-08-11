@@ -6,6 +6,7 @@
   <fader index="19">
     <color red="0" green="1" blue="0"/>
   </fader>
+  <fader index="8" period="700"/>
 </faders>
 
 <player light="0.3"></player>
