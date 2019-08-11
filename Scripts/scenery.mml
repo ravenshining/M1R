@@ -25,6 +25,10 @@
     <object index="35" flags="1" radius="2150" height="1090"/>
     <object index="50" flags="5" radius="180" height="-280" destruction="28"/>
     <object index="51" flags="5" radius="90" height="1000" destruction="28"/>
-    <object index="52" flags="5" radius="30" height="480" destruction="28"/>
+    <object index="52" flags="5" radius="30" height="480" destruction="28">
+	    <destroyed>
+		    <shape coll="25" seq="13"/>
+	    </destroyed>
+    </object>
   </scenery>
 </marathon>
