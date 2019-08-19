@@ -516,6 +516,15 @@
   <texture coll="24" bitmap="64" normal_image="Textures/scenery/escape6.dds" type="2"/>
   <texture coll="24" bitmap="65" normal_image="Textures/scenery/escape7.dds" type="2"/>
 
+  <texture coll="25" bitmap="23" opac_type="1" normal_image="Textures/scenery/bitmap 23.png" type="2"/>
+  <texture coll="25" bitmap="22" opac_type="1" normal_image="Textures/scenery/bitmap 22.png" type="2"/>
+  <texture coll="25" bitmap="20" opac_type="1" normal_image="Textures/scenery/bitmap 20.png" type="2"/>
+  <texture coll="25" bitmap="19" opac_type="1" normal_image="Textures/scenery/bitmap 19.png" type="2"/>
+  <texture coll="25" bitmap="18" opac_type="1" normal_image="Textures/scenery/bitmap 18.png" type="2"/>
+  <texture coll="25" bitmap="16" opac_type="1" normal_image="Textures/scenery/bitmap 16.png" glow_image="bitmap 16b.png" type="2"/>
+  <texture coll="25" bitmap="14" opac_type="1" normal_image="Textures/scenery/bitmap 14.png" glow_image="bitmap 14b.png" type="2"/>
+  <texture coll="25" bitmap="13" opac_type="1" normal_image="Textures/scenery/bitmap 13.png" type="2"/>
+
     <!-- Landscapes -->
 
   <texture coll="27" bitmap="0" landscape_bloom="1" />
