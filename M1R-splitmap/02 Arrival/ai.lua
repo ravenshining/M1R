@@ -1,7 +1,7 @@
 Triggers = {}
 
 function Triggers.monster_damaged(monster, aggressor_monster, damage_type, damage_amount, projectile)
-  if Game.difficulty ~= "kindergarten" or Game.difficulty ~= "easy" then
+  if Game.difficulty ~= "kindergarten" and Game.difficulty ~= "easy" then
     smartmonster(monster, aggressor_monster, damage_amount)
   end
 end
