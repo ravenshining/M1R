@@ -4,22 +4,26 @@ Lua:            directional beacon when terminals give map info
                 level titles
                 ammo pickup.
 		Rocket launcher ammo sprite?
-		teleport flash
                 holding staff illuminates area
-MML:            Adjust player light
+MML:            
 Shapes:		Check AR marine scale, flame scale, staff/legs align
                 upscale weapons in hand to match original
                 Ensure replacement fidelity
+                Offer original shapes as an option?
 Sounds:         Change Pfhor victory sound to avoid confusion
-Physics:        Implement changes from poll results
-Music:		
+                Rebuild to eliminate corruption
+                Use Aaron's remasters
+Physics:        Implement changes to flamethrower from poll results
+Music:		Review
 Images:		Redraw title console
 Textures:	Bump maps
-Other:		Complile myself a stable A1 to test against
-3-D:		Make railing, scenery, furniture?
+Other:		Test against stable A1 and Windows A1
+                Set up a hackintosh for testing Mac?
+                Migrate this list to git issues?
+3-D:		Make railing, scenery, furniture
 
 Prolouge - Redraw and add sound
-	I.  New Thermopylae - Create!
+	I.  New Thermopylae - Create! Or not, maybe we should start on the Mirata.
 		See Wrkncacnter's advice about the Marathon appearing in the sky.
 		IMG story- going to Marathon to examine Jjaro artifact.
 Mirata - Redraw and add sound
@@ -44,9 +48,7 @@ Arrival - Add moon background, New sound
 		MIDA term in deprivation chomber?
 Counterattack - make new sound
 	3.  Defend THIS!
-		Tweak corridors for better monster pathfinding.
 		Scenery monsters in the compactor, add control room, make garbage chute.
-		Add more corridors to access past areas.
 		Activate only one switch for a failure branch
 	4.  Couch Fishing
 		Require switches to be sequential
