@@ -5,6 +5,7 @@ Lua:            directional beacon when terminals give map info
                 ammo pickup.
 		Rocket launcher ammo sprite?
                 holding staff illuminates area
+                Easy Mode plugin
 MML:            
 Shapes:		Check AR marine scale, flame scale, staff/legs align
                 upscale weapons in hand to match original
