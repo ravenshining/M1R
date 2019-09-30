@@ -524,6 +524,7 @@
   <texture coll="25" bitmap="16" opac_type="1" normal_image="Textures/scenery/bitmap 16.png" glow_image="bitmap 16b.png" type="2"/>
   <texture coll="25" bitmap="14" opac_type="1" normal_image="Textures/scenery/bitmap 14.png" glow_image="bitmap 14b.png" type="2"/>
   <texture coll="25" bitmap="13" opac_type="1" normal_image="Textures/scenery/bitmap 13.png" type="2"/>
+  <texture coll="25" bitmap="27" opac_type="1" normal_image="Textures/scenery/bitmap 13.png" type="2"/>
 
     <!-- Landscapes -->
 
