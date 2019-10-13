@@ -56,7 +56,6 @@ Public Access Terminal 49-z<3.67.299.492>
 ;
 #TERMINAL 2
 #UNFINISHED
-#TAG 1
 #LOGON 1707
 Service Access 31-b<39.592.29.95>
 #INFORMATION
@@ -68,6 +67,7 @@ And here you are, stuck at the bottom of a hole.  How droll.  It’s really too 
 
 Vale,
 Durandal
+#TAG 1
 #LOGOFF 1707
 Service Access 31-b<39.592.29.95>
 #ENDTERMINAL 2
