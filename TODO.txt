@@ -96,11 +96,7 @@ At Some Point here or earlier: Term explaining Elevators and Platforms!
 		Make some platforms never/only once deactivate to fix coop
 Reprisal
 	10. Bob-B-Q
-		Make sure 2 players can fit through the final corridors.
-		Make sure it's winnable on Total Carnage (insane not guaranteed!)
 		Make sure it's losable on Normal
-		Possible new room with climactic BoB encounter.
-		Monster / co-op pathing.
 		Intro term - situation worse than when Leela intented to bring you here, falling to compilers
 		Exit term - Tycho is online, reports reactor malfunction aft
 	11. Shake Before Using…
